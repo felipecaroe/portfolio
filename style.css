@@ -1516,7 +1516,7 @@
   position: fixed;
   z-index: 5;
   inset: auto 0 0 0;
-  height: 40px;
+  height: 10vh;
   pointer-events: none;
 }
 .gradient-blur > div,
@@ -1618,7 +1618,7 @@
   z-index: 0;
   inset: 0 0 auto 0;
   transform: rotate(180deg);
-  height: 80px;
+  height: 10vh;
   pointer-events: none;
 }
 .gradient-blur-2 > div,
