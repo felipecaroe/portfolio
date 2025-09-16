@@ -1,3 +1,6 @@
+* {
+	transition: all 0.3s ease;
+}
 .index {
   background-color: #ffffff;
   display: grid;
@@ -453,10 +456,10 @@
 .swiper-button-next,
 .swiper-button-prev {
   color: #FFFFFF; /* Esto las pone de color negro */
-  text-shadow: 0 0 5px #000000; /* Sombra: color negro, sin desplazamiento, 5px de desenfoque */
-  margin: 0 40px;
-
+  text-shadow: 0px 7px 10px rgba(0,0,0,0.5);
+  margin: 0;
 }
+
 .swiper-pagination-bullet {
   background: #cccccc; /* Color de los puntos inactivos */
   opacity: 1; /* Para asegurarte de que no tienen transparencia por defecto */
