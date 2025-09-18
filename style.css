@@ -1750,6 +1750,8 @@
   letter-spacing: 1.69px;
   line-height: 30.4px;
   white-space: nowrap;
+    mix-blend-mode: difference;
+
 }
 
 .index .text-wrapper-33 {
