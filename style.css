@@ -173,7 +173,7 @@
 
 .index .title {
   position: relative;
-  width: 197px;
+  min-width: 300px;
   height: 186.67px;
 }
 
@@ -1854,4 +1854,218 @@
   clip: rect(0, 0, 0, 0);
   white-space: nowrap;
   border: 0;
+}
+
+
+
+/*
+ * RESUME - MOBILE FIRST (PADRÃO PARA TELAS PEQUENAS)
+ */
+.resume {
+	display: flex;
+	flex-direction: column; /* Colunas empilhadas no celular */
+	width: 100%;
+	padding: 2rem 1.5rem; /* Espaçamento relativo */
+	box-sizing: border-box; /* Garante que o padding não adicione largura extra */
+}
+.left,
+.right {
+	display: flex;
+	flex-direction: column;
+	width: 100%; /* Ocupam a largura total no celular */
+	gap: 2rem;
+}
+.cv-resume {
+display: flex;
+align-items: center;
+gap: 24px;
+align-self: stretch;
+	font-size: 0.75rem;
+	font-family: "Rosario", sans-serif;
+	color: #73808D;
+	letter-spacing: 0.1875rem;
+	line-height: 1.75rem;
+}
+.cv-resume svg {
+width: 14.312px;
+height: 14.312px;
+}
+.title {
+	color: #101214;
+	font-family: "Rosario", sans-serif;
+	font-size: 1.25rem;
+	font-weight: 700;
+	line-height: 1.75rem;
+}
+.title .description {
+	color: #101214;
+	font-family: "Rosario", sans-serif;
+	font-size: 0.6875rem;
+	font-weight: 400;
+	line-height: 150%;
+}
+.text-wrapper-2 {
+	color: #73808D;
+	font-family: "Rosario", sans-serif;
+	font-size: 0.5625rem;
+	font-weight: 900;
+	line-height: 1.125rem;
+	letter-spacing: 0.125rem;
+	text-transform: uppercase;
+}
+.text-wrapper-3 {
+	color: #101214;
+	font-family: "Rosario", sans-serif;
+	font-size: 0.6875rem;
+	font-weight: 700;
+	line-height: 1.125rem;
+	text-transform: uppercase;
+}
+.text-wrapper-4 {
+	color: #101214;
+	font-family: "Rosario", sans-serif;
+	font-size: 0.8125rem;
+	font-weight: 400;
+	line-height: 150%;
+}
+.text-wrapper-5 {
+	color: #101214;
+	font-family: "Rosario", sans-serif;
+	font-size: 0.6875rem;
+	font-weight: 400;
+	line-height: 1.125rem;
+}
+.text-wrapper-6 {
+	color: #73808D;
+	font-family: "Rosario", sans-serif;
+	font-size: 0.5625rem;
+	font-weight: 400;
+	line-height: 1.125rem;
+}
+.text-wrapper-7 {
+	color: #101214;
+	font-family: Arial;
+	font-size: 0.75rem;
+	font-weight: 400;
+	line-height: 150%;
+	margin-bottom: 0.625rem;
+	display: block;
+}
+.text-wrapper-7.list {
+	border-left: 0.5rem solid #EAEAEA;
+	padding-left: 0.25rem;
+}
+.text-wrapper-8 {
+	color: #73808D;
+	font-family: Arial;
+	font-size: 0.4375rem;
+	font-weight: 400;
+	line-height: 1.125rem;
+	letter-spacing: 0.125rem;
+	text-transform: uppercase;
+}
+.text-wrapper-9 {
+	color: #101214;
+	font-family: Arial;
+	font-size: 0.6875rem;
+	font-weight: 400;
+	line-height: 1.125rem;
+}
+.education {
+	display: flex;
+	flex-direction: column;
+	gap: 0.25rem;
+	width: 100%;
+}
+.education .title-2 {
+	color: #73808D;
+	font-family: Arial;
+	font-size: 0.4375rem;
+	font-weight: 400;
+	line-height: 1.125rem;
+	letter-spacing: 0.125rem;
+	text-transform: uppercase;
+}
+.card-ed {
+	background: #F6F6F6;
+	display: flex;
+	flex-wrap: wrap;
+	padding: 0.75rem;
+	gap: 0.625rem;
+}
+.ed,
+.p {
+	min-width: 12.5rem;
+	flex: 1 0 0;
+}
+.text-wrapper-10 {
+	color: #101214;
+	font-family: Arial;
+	font-size: 0.6875rem;
+	font-weight: 700;
+	line-height: 1.125rem;
+}
+.text-wrapper-11 {
+	color: #101214;
+	font-family: Arial;
+	font-size: 0.6875rem;
+	font-weight: 400;
+	line-height: 1.125rem;
+}
+.text-wrapper-12 {
+	color: #73808D;
+	font-family: Arial;
+	font-size: 0.5625rem;
+	font-weight: 400;
+	line-height: 1.125rem;
+}
+.text-wrapper-13 {
+	color: #73808D;
+	font-family: Arial;
+	font-size: 0.6875rem;
+	font-weight: 400;
+	line-height: 1.125rem;
+}
+.text {
+	margin-bottom: 0.625rem;
+	display: block;
+}
+.text-wrapper-14 {
+	color: #101214;
+	font-family: Arial;
+	font-size: 0.6875rem;
+	font-weight: 700;
+	line-height: 1.125rem;
+}
+.text-wrapper-15 {
+	color: #101214;
+	font-family: Arial;
+	font-size: 0.5625rem;
+	font-weight: 700;
+	line-height: 1.125rem;
+	letter-spacing: 0.125rem;
+	text-transform: uppercase;
+}
+
+/*
+ * MEDIA QUERY PARA DESKTOPS
+ */
+@media (min-width: 768px) {
+	.resume {
+		flex-direction: row; /* Layout de duas colunas */
+		width: 100%;
+		max-width: 80rem; /* Limita a largura em telas muito grandes */
+		padding: 3.125rem 13.75rem; /* Espaçamento maior para desktop */
+		margin: 0 auto;
+		gap: 2vw;
+	}
+	.left {
+		flex: 1;
+		gap: 1.5rem;
+	}
+	.right {
+		width: 11.25rem; /* Largura fixa para a coluna da direita em desktop */
+		flex-shrink: 0;
+		gap: 2rem;
+	}
 }
