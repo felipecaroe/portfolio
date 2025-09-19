@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="style.css" />
 	<head>
 	    ...
-	    <link rel="icon" type="image/x-icon" href="img/favicon.ico">
+	    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
 	    ...
 	</head>
 	<meta property="og:title" content="Product Design Leader: Felipe Amorim" />
@@ -660,35 +660,29 @@
         }, 500); // Aguarda o tempo da transição (0.5s) antes de mudar o texto
     }, 2000); // 2000ms = 2 segundos
 </script>
-<!-- 
 <script>
     // Lista de caminhos para os seus favicons
     const favicons = [
-        'img/favred.ico',
-        'img/favyellow.ico',
-        'img/favicon.ico'
+        '/img/favred.ico',
+        '/img/favyellow.ico',
+        '/img/favicon.ico'
     ];
 
-    let currentIndex = 0; // Inicia com a primeira cor da lista
-    
-    // Encontra a tag <link> que aponta para o favicon
+    let currentIndex = 0;
     const faviconElement = document.querySelector('link[rel="icon"]');
 
-    // Função para mudar o favicon
     function changeFavicon() {
-        // Atualiza a URL do favicon
-        faviconElement.href = favicons[currentIndex];
-        
-        // Vai para a próxima cor, ou volta para o início da lista se chegar ao fim
-        currentIndex = (currentIndex + 1) % favicons.length;
+        if (faviconElement) {
+            faviconElement.href = favicons[currentIndex];
+            currentIndex = (currentIndex + 1) % favicons.length;
+        }
     }
 
-    // Chama a função a cada 3 segundos (3000 milissegundos)
+    // Chama a função a cada 3 segundos
     setInterval(changeFavicon, 3000);
 
-    // Chama a função uma vez para garantir que o favicon inicial seja exibido
+    // Adiciona uma chamada inicial
     changeFavicon();
 </script>
- -->
   </body>
 </html>
