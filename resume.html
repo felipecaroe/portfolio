@@ -14,6 +14,12 @@
 	<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Rosario:ital,wght@0,300..700;1,300..700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="globals.css" />
     <link rel="stylesheet" href="style.css" />
+	<head>
+	    ...
+	    <link rel="icon" type="image/x-icon" href="img/favicon.ico">
+	    ...
+	</head>
+
     <title>Felipe Amorim - Strategic Product Design Leader</title>
   </head>
   <body>
@@ -258,5 +264,33 @@
         </div>
       </div>
     </div>
+<script>
+    // Lista de caminhos para os seus favicons
+    const favicons = [
+        'img/favred.ico',
+        'img/favyellow.ico',
+        'img/favicon.ico'
+    ];
+
+    let currentIndex = 0; // Inicia com a primeira cor da lista
+    
+    // Encontra a tag <link> que aponta para o favicon
+    const faviconElement = document.querySelector('link[rel="icon"]');
+
+    // Função para mudar o favicon
+    function changeFavicon() {
+        // Atualiza a URL do favicon
+        faviconElement.href = favicons[currentIndex];
+        
+        // Vai para a próxima cor, ou volta para o início da lista se chegar ao fim
+        currentIndex = (currentIndex + 1) % favicons.length;
+    }
+
+    // Chama a função a cada 3 segundos (3000 milissegundos)
+    setInterval(changeFavicon, 3000);
+
+    // Chama a função uma vez para garantir que o favicon inicial seja exibido
+    changeFavicon();
+</script>
   </body>
 </html>
