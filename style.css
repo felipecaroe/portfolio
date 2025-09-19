@@ -1458,14 +1458,14 @@ background: radial-gradient(#eaeaea, transparent);
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: center;
   gap: 60px;
   padding: 120px;
   position: initial;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
-  margin-bottom: -24.06px;
+  min-height: 100vh;
   background-color: transparent;
 }
 
@@ -2108,5 +2108,10 @@ height: 14.312px;
   /* Oculta elementos que não são necessários na impressão */
   .video-background, .footer, .header, .swiper-button-prev, .swiper-button-next, .swiper-pagination, .gradient-blur, .gradient-blur-2 {
     display: none !important;
+  }
+}
+@media (max-width: 768px) {
+  .video-background {
+    display: none;
   }
 }
