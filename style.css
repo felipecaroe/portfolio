@@ -1,15 +1,32 @@
 * {
 	transition: all 0.3s ease;
 }
+body {
+background: radial-gradient(#eaeaea, transparent);
+}
+.video-background {
+  /* Fixa o vídeo na viewport para que ele não role com a página */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw; /* Garante 100% da largura da tela */
+  height: 100vh; /* Garante 100% da altura da tela */
+  
+  /* Envia o vídeo para o plano de fundo, atrás de todo o conteúdo */
+  z-index: -1;
+  
+  /* Garante que o vídeo cubra toda a área sem deformar */
+  object-fit: cover;
+  opacity: 0.3;
+}
 .index {
-  background-color: #ffffff;
+  background-color: white;
   display: grid;
   justify-items: center;
 }
 
 .index .div {
-  background-color: #ffffff;
-  
+  background-color: transparent; /* Alterado de #ffffff para transparent */
 }
 
 .index .page {
@@ -31,7 +48,7 @@
   justify-content: space-between;
   position: relative;
   flex: 0 0 auto;
-  background-color: #eaeaea;
+  background-color: rgba(220,220,220,0.5);
 }
 
 .index .hero-content {
@@ -173,8 +190,9 @@
 
 .index .title {
   position: relative;
-  min-width: 300px;
+  min-width: 220px;
   height: 186.67px;
+  text-align: center;
 }
 
 .index .text-wrapper-3 {
@@ -196,7 +214,7 @@
   width: 83px;
   height: 83px;
   top: 0;
-  left: 55px;
+  left: 65px;
   background-color: #1f1c16;
   border-radius: 41.42px;
   box-shadow:
@@ -381,7 +399,7 @@
 }
 .index .carousel {
   gap: 120px;
-  padding: 120px 0 120px 120px;
+  padding: 120px 100px;
 }
 
 
@@ -475,6 +493,8 @@
 }
 .index .carrousel article {
   min-width: 360px;
+  background-color: #efefef;
+  box-shadow: #dfdfdf 0px 0px 15px;
 }
 
 .index .product-design {
@@ -879,7 +899,7 @@
   margin-top: -0.46px;
   font-family: "Rosario", sans-serif;
   font-weight: 700;
-  color: #fe7600;
+  color: #1f1c16;
   font-size: 160px;
   text-align: center;
   letter-spacing: -14.06px;
@@ -950,7 +970,7 @@
   margin-top: -0.53px;
   font-family: "Rosario", sans-serif;
   font-weight: 700;
-  color: #fe7600;
+  color: #1f1c16;
   font-size: 210px;
   text-align: center;
   letter-spacing: -16.31px;
@@ -2068,4 +2088,25 @@ height: 14.312px;
 		flex-shrink: 0;
 		gap: 2rem;
 	}
+}
+@media print {
+  /* Remove as restrições de altura e overflow para permitir a paginação */
+  html, body {
+    height: auto !important;
+    overflow: visible !important;
+  }
+  
+  /* Permite que o conteúdo flua em novas páginas */
+  .index .page {
+    position: static !important;
+    overflow: visible !important;
+    width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  
+  /* Oculta elementos que não são necessários na impressão */
+  .video-background, .footer, .header, .swiper-button-prev, .swiper-button-next, .swiper-pagination, .gradient-blur, .gradient-blur-2 {
+    display: none !important;
+  }
 }
