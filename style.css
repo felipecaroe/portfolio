@@ -641,27 +641,23 @@ background: radial-gradient(#eaeaea, transparent);
 
 .index .line {
   position: relative;
-  width: 1px;
-  height: 25.65px;
+  width: 3px;
+  height: auto;
 }
 
 .index .FELIPE-AMORIM {
   color: #f9f9f9;
   position: relative;
-  width: fit-content;
+  width: min-content;
   margin-top: -0.32px;
   font-family: "DM serif Display", serif;
   font-weight: 400;
-  font-size: 13.7px;
+  font-size: 0.8rem;
   line-height: 12.2px;
 }
 
 .index .text-wrapper-10 {
-  letter-spacing: 0.26px;
-}
-
-.index .text-wrapper-11 {
-  letter-spacing: 0.09px;
+  letter-spacing: 0.13rem;
 }
 
 .index .text-wrapper-12 {
@@ -755,7 +751,7 @@ background: radial-gradient(#eaeaea, transparent);
 .index .FELIPE-AMORIM-2 {
   color: #000000;
   position: relative;
-  width: fit-content;
+  width: min-content;
   margin-top: -0.32px;
   font-family: "DM serif Display", serif;
   font-weight: 400;
@@ -1238,6 +1234,9 @@ background: radial-gradient(#eaeaea, transparent);
   margin-top: 15vh;
   aspect-ratio: 1.48;
   max-width: 100vw;
+}
+.index .parallax-9 {
+	margin-top: 20vh;
 }
 .index .parallax-6, .index .parallax-7 .index .parallax-8 {
   aspect-ratio: 1;
@@ -2021,28 +2020,28 @@ height: 14.312px;
 	min-width: 12.5rem;
 	flex: 1 0 0;
 }
-.text-wrapper-10 {
+.resume .text-wrapper-10 {
 	color: #101214;
 	font-family: "Rosario", sans-serif;
 	font-size: 0.6875rem;
 	font-weight: 700;
 	line-height: 1.125rem;
 }
-.text-wrapper-11 {
+.resume .text-wrapper-11 {
 	color: #101214;
 	font-family: "Rosario", sans-serif;
 	font-size: 0.6875rem;
 	font-weight: 400;
 	line-height: 1.125rem;
 }
-.text-wrapper-12 {
+.resume .text-wrapper-12 {
 	color: #73808D;
 	font-family: "Rosario", sans-serif;
 	font-size: 0.5625rem;
 	font-weight: 400;
 	line-height: 1.125rem;
 }
-.text-wrapper-13 {
+.resume .text-wrapper-13 {
 	color: #73808D;
 	font-family: "Rosario", sans-serif;
 	font-size: 0.6875rem;
