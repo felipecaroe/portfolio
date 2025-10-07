@@ -879,6 +879,7 @@ width: 100%;
   	position: relative;
   	max-height: 100%;
   	object-fit: cover;
+  	box-shadow: 5px 1px 100px rgba(0,0,0,0.2);
 }
 .screens .text {
   	display: flex;
