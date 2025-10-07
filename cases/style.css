@@ -703,6 +703,11 @@ width: 100%;
        se a proporção do vídeo for diferente de 16:9. */
     object-fit: contain; 
 }
+.video-placeholder {
+  width: 80%; /* O el porcentaje que prefieras para el padding */
+  max-width: 1280px; /* Un ancho máximo para pantallas muy grandes */
+  margin: 0 auto; /* Este es el truco para centrar el bloque */
+}
 .title {
   	display: flex;
   	flex-direction: column;
