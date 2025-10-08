@@ -22,6 +22,11 @@ b {font-weight: 700;}
   object-fit: cover;
   opacity: 0.3;
 }
+@media (max-width: 768px) {
+  .video-background {
+    display: none;
+  }
+}
 .index {
   background-color: white;
   display: grid;
