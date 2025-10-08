@@ -834,7 +834,7 @@ width: 100%;
 .screens {
   	width: 100%;
   	position: relative;
-  	background-color: #fff;
+  	background-color: transparent;
   	display: flex;
   	flex-direction: column;
   	align-items: flex-start;
@@ -946,7 +946,7 @@ width: 100%;
 .diagram {
   	width: 100%;
   	position: relative;
-  	background-color: #fff;
+  	background-color: transparent;
   	display: flex;
   	flex-direction: column;
   	align-items: center;
@@ -985,7 +985,7 @@ width: 100%;
 .conclusion {
   	width: 100%;
   	position: relative;
-  	background-color: #fff;
+  	background-color: transparent;
   	display: flex;
   	flex-direction: column;
   	align-items: center;
