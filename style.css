@@ -1795,7 +1795,6 @@ background: radial-gradient(#eaeaea, transparent);
 
 .index .cta {
   display: flex;
-  width: 116.63px;
   height: 25.73px;
   align-items: center;
   justify-content: flex-end;
@@ -1807,6 +1806,20 @@ background: radial-gradient(#eaeaea, transparent);
   box-shadow: 0px 3.38px 13.52px #00000033;
   backdrop-filter: blur(12.68px) brightness(100%);
   -webkit-backdrop-filter: blur(12.68px) brightness(100%);
+}
+.index header .header_right {
+	display: flex;
+	gap: 12px;
+}
+.index .cta_icon {
+	padding: 6px;
+	height: auto;
+}
+.index .cta_icon img {
+	width: 16px;
+}
+.index .cta_icon span {
+	line-height: 0;
 }
 
 .index .text-wrapper-35 {
