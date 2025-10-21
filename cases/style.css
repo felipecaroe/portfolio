@@ -36,6 +36,7 @@ b {font-weight: 700;}
 .index .div {
   background-color: transparent; /* Alterado de #ffffff para transparent */
 }
+
 .hero {
 	max-height: 1008px;
 	align-self: stretch;
@@ -48,7 +49,11 @@ b {font-weight: 700;}
 	max-height: 100vh;
 	object-fit: cover;
 }
-
+@media (max-width: 1400px) {
+  .hero {
+	min-height: auto;
+  }
+}
 .intro {
 display: flex;
 padding: 56px 34px;
