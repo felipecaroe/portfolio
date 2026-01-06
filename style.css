@@ -1249,6 +1249,9 @@ background: radial-gradient(#eaeaea, transparent);
 	.simpleParallax {
 		left: 3vw;
 	}
+	.parallaxhut {
+		max-width: 300px;
+	}
 }
 .index .logo {
   position: relative;
@@ -1454,7 +1457,11 @@ background: radial-gradient(#eaeaea, transparent);
   	top: 10vh;
   }
 }
-
+@media (max-width: 690px) {
+	.parallaxhut {
+		display: none;
+	}
+}
 .index .footer {
   display: flex;
   flex-direction: column;
