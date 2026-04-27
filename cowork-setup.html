@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Felipe Amorim — Cowork Setup</title>
+<meta name="description" content="My complete AI-powered design toolkit: 103 tools across Cowork plugins, skills, and MCP connectors.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--bg:#0a0a0a;--surface:#141414;--surface2:#1c1c1c;--border:#2a2a2a;--text:#e8e8e8;--text2:#999;--text3:#666;--accent:#c8ff00;--accent2:#a0cc00;--radius:8px}
+body{font-family:'Inter',system-ui,sans-serif;background:var(--bg);color:var(--text);line-height:1.6;-webkit-font-smoothing:antialiased}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+
+.container{max-width:720px;margin:0 auto;padding:3rem 1.5rem 4rem}
+
+header{margin-bottom:3rem}
+.badge{display:inline-block;font-size:11px;font-weight:500;letter-spacing:0.05em;text-transform:uppercase;color:var(--accent);border:1px solid var(--accent);border-radius:20px;padding:4px 12px;margin-bottom:1rem}
+h1{font-size:28px;font-weight:600;letter-spacing:-0.02em;margin-bottom:0.5rem}
+.subtitle{font-size:15px;color:var(--text2);max-width:520px}
+
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:12px;margin:2rem 0 3rem}
+.stat{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px}
+.stat-num{font-size:24px;font-weight:600;color:var(--accent);display:block}
+.stat-label{font-size:12px;color:var(--text3);text-transform:uppercase;letter-spacing:0.04em;margin-top:2px}
+
+section{margin-bottom:2.5rem}
+h2{font-size:13px;font-weight:500;text-transform:uppercase;letter-spacing:0.08em;color:var(--text3);margin-bottom:1rem;padding-bottom:8px;border-bottom:1px solid var(--border)}
+h2 span{color:var(--text2)}
+
+.item{padding:10px 0;border-bottom:1px solid rgba(255,255,255,0.04)}
+.item:last-child{border-bottom:none}
+.item-row{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
+.item-name{font-size:14px;font-weight:500;color:var(--text)}
+.item-tag{font-size:10px;font-weight:500;text-transform:uppercase;letter-spacing:0.04em;padding:2px 7px;border-radius:4px;white-space:nowrap}
+.tag-conn{background:#0f2a1a;color:#4ade80}
+.tag-plugin{background:#1a1a2e;color:#818cf8}
+.tag-custom{background:#2a1f0a;color:#fbbf24}
+.tag-builtin{background:var(--surface2);color:var(--text3)}
+.item-desc{font-size:13px;color:var(--text3);margin-top:2px}
+.item-link{font-size:12px;color:var(--text3);margin-top:2px}
+.item-link a{color:var(--text3)}
+.item-link a:hover{color:var(--accent)}
+
+.source-link{display:inline-block;font-size:12px;color:var(--text3);margin-bottom:12px}
+.source-link a{color:var(--text3)}
+.source-link a:hover{color:var(--accent)}
+
+footer{margin-top:3rem;padding-top:1.5rem;border-top:1px solid var(--border);font-size:12px;color:var(--text3);display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
+
+@media(max-width:480px){
+  .container{padding:2rem 1rem 3rem}
+  h1{font-size:22px}
+  .stats{grid-template-columns:repeat(2,1fr)}
+}
+</style>
+</head>
+<body>
+<div class="container">
+
+<header>
+  <div class="badge">Cowork Setup</div>
+  <h1>Felipe Amorim</h1>
+  <p class="subtitle">My complete AI-powered design toolkit — plugins, skills, and connectors configured in Claude Cowork for product design at Luzia.</p>
+</header>
+
+<div class="stats">
+  <div class="stat"><span class="stat-num">5</span><span class="stat-label">Connectors</span></div>
+  <div class="stat"><span class="stat-num">2</span><span class="stat-label">Plugins</span></div>
+  <div class="stat"><span class="stat-num">13</span><span class="stat-label">Core Skills</span></div>
+  <div class="stat"><span class="stat-num">83</span><span class="stat-label">Design Skills</span></div>
+</div>
+
+<!-- MCP CONNECTORS -->
+<section>
+<h2>MCP Connectors <span>— 5 connected</span></h2>
+
+<div class="item">
+  <div class="item-row"><span class="item-name">Figma</span><span class="item-tag tag-conn">connected</span></div>
+  <div class="item-desc">Design context, DS search, component import, Figma automation</div>
+  <div class="item-link"><a href="https://mcp.figma.com">mcp.figma.com</a></div>
+</div>
+
+<div class="item">
+  <div class="item-row"><span class="item-name">Slack</span><span class="item-tag tag-conn">connected</span></div>
+  <div class="item-desc">Send messages, search channels, create canvases</div>
+  <div class="item-link"><a href="https://mcp.slack.com">mcp.slack.com</a></div>
+</div>
+
+<div class="item">
+  <div class="item-row"><span class="item-name">Gmail</span><span class="item-tag tag-conn">connected</span></div>
+  <div class="item-desc">Draft replies, summarize threads, search inbox</div>
+  <div class="item-link"><a href="https://gmailmcp.googleapis.com">gmailmcp.googleapis.com</a></div>
+</div>
+
+<div class="item">
+  <div class="item-row"><span class="item-name">Google Calendar</span><span class="item-tag tag-conn">connected</span></div>
+  <div class="item-desc">Manage schedule, coordinate meetings, suggest times</div>
+  <div class="item-link"><a href="https://calendarmcp.googleapis.com">calendarmcp.googleapis.com</a></div>
+</div>
+
+<div class="item">
+  <div class="item-row"><span class="item-name">Granola</span><span class="item-tag tag-conn">connected</span></div>
+  <div class="item-desc">AI meeting notepad — transcriptions and notes</div>
+  <div class="item-link"><a href="https://mcp.granola.ai">mcp.granola.ai</a></div>
+</div>
+</section>
+
+<!-- PLUGINS -->
+<section>
+<h2>Plugins <span>— 2 installed</span></h2>
+
+<div class="item">
+  <div class="item-row"><span class="item-name">Design Plugin</span><span class="item-tag tag-plugin">plugin</span></div>
+  <div class="item-desc">7 built-in design skills — critique, handoff, a11y, UX copy, research, DS</div>
+</div>
+
+<div class="item">
+  <div class="item-row"><span class="item-name">Cowork Plugin Management</span><span class="item-tag tag-plugin">plugin</span></div>
+  <div class="item-desc">Create and customize plugins for your org</div>
+</div>
+</section>
+
+<!-- CUSTOM SKILLS -->
+<section>
+<h2>Custom Skills <span>— 2 user-created</span></h2>
+
+<div class="item">
+  <div class="item-row"><span class="item-name">luzia-branding</span><span class="item-tag tag-custom">custom</span></div>
+  <div class="item-desc">Luzia brand design system — colors, typography, components for all visual content</div>
+</div>
+
+<div class="item">
+  <div class="item-row"><span class="item-name">luzia-context</span><span class="item-tag tag-custom">custom</span></div>
+  <div class="item-desc">Core product context for Luzia app — users, features, strategy, architecture</div>
+</div>
+</section>
+
+<!-- BUILT-IN SKILLS -->
+<section>
+<h2>Built-in Skills <span>— 11</span></h2>
+
+<div class="item"><div class="item-row"><span class="item-name">design:accessibility-review</span><span class="item-tag tag-builtin">built-in</span></div><div class="item-desc">WCAG 2.1 AA audit — contrast, keyboard nav, touch targets, screen readers</div></div>
+<div class="item"><div class="item-row"><span class="item-name">design:design-critique</span><span class="item-tag tag-builtin">built-in</span></div><div class="item-desc">Structured feedback on usability, hierarchy, and consistency</div></div>
+<div class="item"><div class="item-row"><span class="item-name">design:design-handoff</span><span class="item-tag tag-builtin">built-in</span></div><div class="item-desc">Dev handoff specs — layout, tokens, props, states, breakpoints, animations</div></div>
+<div class="item"><div class="item-row"><span class="item-name">design:design-system</span><span class="item-tag tag-builtin">built-in</span></div><div class="item-desc">Audit, document, or extend your design system</div></div>
+<div class="item"><div class="item-row"><span class="item-name">design:research-synthesis</span><span class="item-tag tag-builtin">built-in</span></div><div class="item-desc">Synthesize research into themes, insights, and recommendations</div></div>
+<div class="item"><div class="item-row"><span class="item-name">design:user-research</span><span class="item-tag tag-builtin">built-in</span></div><div class="item-desc">Plan research — interview guides, usability tests, surveys</div></div>
+<div class="item"><div class="item-row"><span class="item-name">design:ux-copy</span><span class="item-tag tag-builtin">built-in</span></div><div class="item-desc">Microcopy, error messages, empty states, CTAs</div></div>
+<div class="item"><div class="item-row"><span class="item-name">schedule</span><span class="item-tag tag-builtin">built-in</span></div><div class="item-desc">Create scheduled tasks — run on demand or on an interval</div></div>
+<div class="item"><div class="item-row"><span class="item-name">skill-creator</span><span class="item-tag tag-builtin">built-in</span></div><div class="item-desc">Create, edit, optimize, and benchmark skills</div></div>
+<div class="item"><div class="item-row"><span class="item-name">docx / pdf / pptx / xlsx</span><span class="item-tag tag-builtin">built-in</span></div><div class="item-desc">Create and manipulate Word, PDF, PowerPoint, and Excel files</div></div>
+<div class="item"><div class="item-row"><span class="item-name">setup-cowork</span><span class="item-tag tag-builtin">built-in</span></div><div class="item-desc">Guided Cowork setup — install plugins, try skills, connect tools</div></div>
+</section>
+
+<!-- JULIAN PROCESS SKILLS -->
+<section>
+<h2>Design Skills — Process <span>— 7</span></h2>
+<div class="source-link"><a href="https://github.com/julianoczkowski/designer-skills">github.com/julianoczkowski/designer-skills</a></div>
+
+<div class="item"><div class="item-row"><span class="item-name">julian-grill-me</span></div><div class="item-desc">Stress-test requirements before building anything</div></div>
+<div class="item"><div class="item-row"><span class="item-name">julian-design-brief</span></div><div class="item-desc">Generate design brief from grilled requirements + codebase</div></div>
+<div class="item"><div class="item-row"><span class="item-name">julian-information-architecture</span></div><div class="item-desc">Structure pages, nav, content hierarchy</div></div>
+<div class="item"><div class="item-row"><span class="item-name">julian-design-tokens</span></div><div class="item-desc">Generate CSS custom properties (colors, type, spacing)</div></div>
+<div class="item"><div class="item-row"><span class="item-name">julian-brief-to-tasks</span></div><div class="item-desc">Break brief into ordered, dependency-aware tasks</div></div>
+<div class="item"><div class="item-row"><span class="item-name">julian-frontend-design</span></div><div class="item-desc">Build the actual frontend from all prior docs</div></div>
+<div class="item"><div class="item-row"><span class="item-name">julian-design-review</span></div><div class="item-desc">Automated visual QA (works with Playwright MCP)</div></div>
+</section>
+
+<!-- PRO MAX INTELLIGENCE -->
+<section>
+<h2>Design Skills — Intelligence <span>— 7</span></h2>
+<div class="source-link"><a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill">github.com/nextlevelbuilder/ui-ux-pro-max-skill</a></div>
+
+<div class="item"><div class="item-row"><span class="item-name">promax-ui-ux-pro-max</span></div><div class="item-desc">50+ styles, 97 palettes, 57 font pairings, 99 UX guidelines</div></div>
+<div class="item"><div class="item-row"><span class="item-name">promax-design-system</span></div><div class="item-desc">Token architecture, component specs, semantic tokens</div></div>
+<div class="item"><div class="item-row"><span class="item-name">promax-ui-styling</span></div><div class="item-desc">Tailwind/shadcn theming, canvas design system</div></div>
+<div class="item"><div class="item-row"><span class="item-name">promax-brand</span></div><div class="item-desc">Brand identity generation</div></div>
+<div class="item"><div class="item-row"><span class="item-name">promax-design</span></div><div class="item-desc">General design intelligence</div></div>
+<div class="item"><div class="item-row"><span class="item-name">promax-banner-design</span></div><div class="item-desc">Marketing banners and visuals</div></div>
+<div class="item"><div class="item-row"><span class="item-name">promax-slides</span></div><div class="item-desc">Presentation design</div></div>
+</section>
+
+<!-- OWL — RESEARCH & STRATEGY -->
+<section>
+<h2>Design Skills — Research & Strategy <span>— 19</span></h2>
+<div class="source-link"><a href="https://github.com/Owl-Listener/designer-skills">github.com/Owl-Listener/designer-skills</a></div>
+
+<div class="item"><div class="item-row"><span class="item-name">owl-design-research--user-persona</span></div><div class="item-desc">Generate research-backed user personas</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-design-research--empathy-map</span></div><div class="item-desc">Map what users think, feel, say, and do</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-design-research--journey-map</span></div><div class="item-desc">End-to-end user journey visualization</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-design-research--interview-script</span></div><div class="item-desc">Structured interview guides</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-design-research--usability-test-plan</span></div><div class="item-desc">Plan and structure usability tests</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-design-research--card-sort-analysis</span></div><div class="item-desc">Analyze card sorting results for IA</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-design-research--jobs-to-be-done</span></div><div class="item-desc">JTBD framework for user needs</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-design-research--diary-study-plan</span></div><div class="item-desc">Plan longitudinal diary studies</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-design-research--summarize-interview</span></div><div class="item-desc">Summarize user interview transcripts</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-design-research--affinity-diagram</span></div><div class="item-desc">Group qualitative data into themes</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-ux-strategy--competitive-analysis</span></div><div class="item-desc">Structured competitor analysis</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-ux-strategy--design-principles</span></div><div class="item-desc">Define product design principles</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-ux-strategy--north-star-vision</span></div><div class="item-desc">Define product north star and vision</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-ux-strategy--experience-map</span></div><div class="item-desc">Cross-channel experience ecosystem</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-ux-strategy--metrics-definition</span></div><div class="item-desc">UX success metrics and KPIs</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-ux-strategy--opportunity-framework</span></div><div class="item-desc">Prioritize design opportunities</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-ux-strategy--design-brief</span></div><div class="item-desc">Structure a design project brief</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-ux-strategy--stakeholder-alignment</span></div><div class="item-desc">Align stakeholders on design direction</div></div>
+</section>
+
+<!-- OWL — UI & INTERACTION -->
+<section>
+<h2>Design Skills — UI & Interaction <span>— 18</span></h2>
+
+<div class="item"><div class="item-row"><span class="item-name">owl-ui-design--color-system</span></div><div class="item-desc">Build systematic color palettes</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-ui-design--typography-scale</span></div><div class="item-desc">Define type scale and hierarchy</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-ui-design--spacing-system</span></div><div class="item-desc">Create consistent spacing system</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-ui-design--layout-grid</span></div><div class="item-desc">Grid systems and breakpoints</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-ui-design--visual-hierarchy</span></div><div class="item-desc">Optimize visual weight and reading flow</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-ui-design--responsive-design</span></div><div class="item-desc">Responsive strategy and patterns</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-ui-design--dark-mode-design</span></div><div class="item-desc">Dark mode color mapping and testing</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-ui-design--data-visualization</span></div><div class="item-desc">Chart and data viz best practices</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-ui-design--illustration-style</span></div><div class="item-desc">Define illustration style guide</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-interaction-design--micro-interaction-spec</span></div><div class="item-desc">Specify micro-interactions and feedback</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-interaction-design--state-machine</span></div><div class="item-desc">Model UI states and transitions</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-interaction-design--gesture-patterns</span></div><div class="item-desc">Touch and gesture interaction patterns</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-interaction-design--animation-principles</span></div><div class="item-desc">Motion design principles and timing</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-interaction-design--loading-states</span></div><div class="item-desc">Loading, skeleton, and progress patterns</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-interaction-design--error-handling-ux</span></div><div class="item-desc">Error states, recovery flows, edge cases</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-interaction-design--feedback-patterns</span></div><div class="item-desc">User feedback and confirmation patterns</div></div>
+</section>
+
+<!-- OWL — TESTING & DELIVERY -->
+<section>
+<h2>Design Skills — Testing & Delivery <span>— 17</span></h2>
+
+<div class="item"><div class="item-row"><span class="item-name">owl-prototyping-testing--heuristic-evaluation</span></div><div class="item-desc">Nielsen's heuristics evaluation</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-prototyping-testing--a-b-test-design</span></div><div class="item-desc">Design and plan A/B tests</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-prototyping-testing--wireframe-spec</span></div><div class="item-desc">Wireframe specifications</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-prototyping-testing--prototype-strategy</span></div><div class="item-desc">Choose fidelity and prototyping approach</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-prototyping-testing--user-flow-diagram</span></div><div class="item-desc">Map user flows and decision trees</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-prototyping-testing--test-scenario</span></div><div class="item-desc">Write usability test scenarios and tasks</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-prototyping-testing--accessibility-test-plan</span></div><div class="item-desc">Plan accessibility testing</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-prototyping-testing--click-test-plan</span></div><div class="item-desc">Plan first-click and navigation tests</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-design-ops--handoff-spec</span></div><div class="item-desc">Developer handoff documentation</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-design-ops--design-sprint-plan</span></div><div class="item-desc">Plan and run design sprints</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-design-ops--design-critique</span></div><div class="item-desc">Facilitate structured design critiques</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-design-ops--design-qa-checklist</span></div><div class="item-desc">QA checklist before shipping</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-design-ops--team-workflow</span></div><div class="item-desc">Design team process and workflow</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-design-ops--design-review-process</span></div><div class="item-desc">Structured design review process</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-design-ops--version-control-strategy</span></div><div class="item-desc">Design file versioning strategy</div></div>
+</section>
+
+<!-- OWL — DESIGN SYSTEMS -->
+<section>
+<h2>Design Skills — Design Systems <span>— 8</span></h2>
+
+<div class="item"><div class="item-row"><span class="item-name">owl-design-systems--component-spec</span></div><div class="item-desc">Write component specifications</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-design-systems--design-token</span></div><div class="item-desc">Define and organize design tokens</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-design-systems--documentation-template</span></div><div class="item-desc">DS documentation templates</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-design-systems--pattern-library</span></div><div class="item-desc">Build and maintain pattern library</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-design-systems--naming-convention</span></div><div class="item-desc">Naming conventions for tokens and components</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-design-systems--icon-system</span></div><div class="item-desc">Icon system guidelines and specs</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-design-systems--theming-system</span></div><div class="item-desc">Multi-theme architecture</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-design-systems--accessibility-audit</span></div><div class="item-desc">DS accessibility compliance audit</div></div>
+</section>
+
+<!-- OWL — TOOLKIT -->
+<section>
+<h2>Design Skills — Toolkit <span>— 7</span></h2>
+
+<div class="item"><div class="item-row"><span class="item-name">owl-designer-toolkit--case-study</span></div><div class="item-desc">Structure portfolio case studies</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-designer-toolkit--design-rationale</span></div><div class="item-desc">Document design decisions and rationale</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-designer-toolkit--presentation-deck</span></div><div class="item-desc">Design presentation structure</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-designer-toolkit--ux-writing</span></div><div class="item-desc">UX writing guidelines and patterns</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-designer-toolkit--design-system-adoption</span></div><div class="item-desc">DS adoption strategy and metrics</div></div>
+<div class="item"><div class="item-row"><span class="item-name">owl-designer-toolkit--design-token-audit</span></div><div class="item-desc">Audit existing design tokens</div></div>
+</section>
+
+<footer>
+  <span>Felipe Amorim — Head of Product Design @ Luzia</span>
+  <span>103 tools &middot; Built with Claude Cowork</span>
+</footer>
+
+</div>
+</body>
+</html>
