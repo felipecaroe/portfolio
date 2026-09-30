@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#102c26">
+  <meta name="description" content="The product definition and gated release plan for Luzia's new-chat simplification experiment, by Felipe Amorim.">
+  <meta name="robots" content="noindex,follow">
+  <link rel="canonical" href="https://felipecaroe.github.io/portfolio/beta/work/luzia-new-chat/plan.html">
+  <title>New chat, by design — Product plan | Felipe Amorim</title>
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+  <link rel="stylesheet" href="assets/case.css">
+</head>
+<body>
+  <header class="topbar wrap">
+    <a class="brand" href="plan.html" aria-label="Felipe Amorim case notes">
+      <svg class="brand-mark" viewBox="0 0 28 32" fill="none" aria-hidden="true"><path d="M14 2v21m0 0c-4 0-7-3-7-7m7 7c4 0 7-3 7-7M7 8l7-6 7 6M4 25c2 3 5 5 10 5s8-2 10-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      Felipe Amorim <span>/ case notes</span>
+    </a>
+    <nav class="nav" aria-label="Case pages"><a class="active" href="plan.html" aria-current="page">Plan & definition</a><a href="design.html">Design & states</a><a href="https://pure-fern.drophere.cc/" target="_blank" rel="noopener noreferrer">Roadmap source ↗</a></nav>
+  </header>
+  <main id="top">
+    <section class="hero wrap">
+      <div class="hero-copy">
+        <div class="eyebrow">Luzia · Product experiment · New chat</div>
+        <h1>Make the first chat feel <em>effortless.</em></h1>
+        <p class="dek">A product definition for stripping the experience back to a live conversation, then adding complexity only when the data says the simpler foundation is working.</p>
+        <div class="folio">Product strategy + experience design <span></span> Sep 2026 · Internal case</div>
+      </div>
+      <figure class="hero-art hero-art--device"><img src="assets/first-entrance.jpg" alt="Luzia first-chat screen with a short welcome, three prompt suggestions, notification invitation and compact composer"></figure>
+    </section>
+    <div class="marquee" aria-hidden="true"><div class="marquee-track"><span>Start with the conversation</span><span>Learn before restoring</span><span>One change at a time</span><span>Expand when the signal holds</span><span>Start with the conversation</span></div></div>
+
+    <section class="section section--paper"><div class="wrap intro-grid">
+      <div class="eyebrow section-index">01 / The opportunity</div>
+      <div class="intro-copy"><h2>From a product directory to <em>a conversation.</em></h2><p>The existing home asked people to choose from characters, tools and destinations before they had started. The experiment opens directly into chat: fewer decisions up front, a clearer first action, and a measured route back to the features people rely on.</p>
+        <dl class="facts"><div><dt>Product</dt><dd>Luzia mobile app · New Chat experiment</dd></div><div><dt>My role</dt><dd>Product strategy and experience design</dd></div><div><dt>Starting point</dt><dd>360 × 800 Android · 93.4% of users</dd></div></dl>
+      </div>
+    </div></section>
+
+    <section class="callout wrap" aria-label="Experiment measurement"><div class="callout-panel" data-mark="V0"><div class="callout-copy"><div class="label">A gated experiment</div><p>Read the new-user cohort before widening access. Use retention, activation and load latency to decide whether the simpler base is ready for more.</p></div><div class="callout-value">D1 → D30<span>Retention · activation · load latency</span></div></div></section>
+
+    <section class="section section--paper" id="releases"><div class="wrap">
+      <div class="eyebrow section-index">02 / Release logic</div>
+      <div class="intro-copy"><h2>Prove the base. Then <em>build on it.</em></h2><p>Each release has a gate, so feature restoration and wider rollout follow evidence rather than a calendar guess.</p></div>
+      <div class="release-grid">
+        <article class="release"><div class="release-top"><span class="release-number">v0</span><span class="tag">Shipped · 11 Sep</span></div><h3>Strip it to chat.</h3><p>New users only. Begin with the conversation, a compact composer, a smaller set of entry points and a reduced character choice.</p><div class="gate"><b>Readout</b><br>D1 and D7 retention, activation, load latency; verify the Android routing issue is clear.</div></article>
+        <article class="release"><div class="release-top"><span class="release-number">v1</span><span class="tag">After the readout</span></div><h3>Make the base case right.</h3><p>Resolve issues revealed by real devices: composer height, character naming and selection, small-screen behaviour, thread access and navigation details.</p><div class="gate"><b>Gate</b><br>v0 retention and activation read out cleanly; routing data is trustworthy.</div></article>
+        <article class="release"><div class="release-top"><span class="release-number">v2</span><span class="tag">Once v1 holds</span></div><h3>Layer useful features back.</h3><p>Revisit chat search, reminders, favourites and character discovery. Fix known usability gaps as part of the restoration, not as follow-up debt.</p><div class="gate"><b>Gate</b><br>v1 retention does not regress; churn mitigation is written before existing users are affected.</div></article>
+        <article class="release"><div class="release-top"><span class="release-number">v3</span><span class="tag">When the base is safe</span></div><h3>Widen rollout and identity.</h3><p>Expand to existing users only after the restored experience holds. Bring back tools selectively and complete the identity work with brand approval.</p><div class="gate"><b>Gate</b><br>v2 holds on the existing base; brand signs off the palette.</div></article>
+      </div>
+    </div></section>
+
+    <section class="story" id="scope"><div class="wrap story-grid">
+      <aside class="story-aside"><div class="label">03 / v0 definition</div><h2>A deliberate <em>reset.</em></h2><p>The first release creates a clean baseline. Scope is explicit so teams can separate the treatment from features removed in both arms.</p></aside>
+      <div class="steps">
+        <article class="step"><div class="step-no">01</div><div><h3>Open directly into a new chat.</h3><p>Login leads to chat. The welcome is short, icebreakers live near the composer and disappear when the keyboard is up or the composer has text. The New chat action moves to the FAB.</p></div></article>
+        <article class="step"><div class="step-no">02</div><div><h3>Keep a focused set of tools.</h3><p>Keep visual tools, thread search, response settings and Plus in settings. The composer keeps Plus and the microphone; tool chips leave the composer.</p></div></article>
+        <article class="step"><div class="step-no">03</div><div><h3>Reduce the number of competing destinations.</h3><p>Routines, services, widgets, standalone icebreakers, custom personalities, Plus promotion and search inside a chat leave v0. The character picker presents four named choices.</p></div></article>
+        <article class="step"><div class="step-no">04</div><div><h3>Make the cohort and rollout measurable.</h3><p>Target new users through <code>first_version ≥ brutal_simplification_version</code>. The initial proposal was 10–20%; the final decision recorded on 11 September was a 50/50 split.</p></div></article>
+      </div>
+    </div></section>
+
+    <section class="section wrap" id="ownership">
+      <div class="eyebrow section-index">04 / Decision ownership</div>
+      <div class="intro-copy"><h2>Keep design, product and engineering <em>clear.</em></h2><p>Every open item has an owner type. This keeps a visual decision from standing in for a product call, and an engineering constraint from being solved with another screen.</p></div>
+      <div class="ledger">
+        <div class="ledger-col"><div class="label">DES · Design</div><h3>Interface and behaviour</h3><p>Layout, copy, states, motion, responsive rules and front-end details. Design owns execution once scope is decided.</p><p>Examples: composer states, drawer behaviour, character names and small-screen icebreakers.</p></div>
+        <div class="ledger-col"><div class="label">STR · Product / strategy</div><h3>Scope and measurement</h3><p>Audience, what is measured, which features return and the conditions for rollout. These decisions need product and leadership agreement.</p><p>Examples: rollout size, custom besties, routines and onboarding requirements.</p></div>
+        <div class="ledger-col"><div class="label">ENG · Engineering</div><h3>Platform and data integrity</h3><p>Backend fields, native behaviour, analytics plumbing and defects. Resolve technical constraints with the responsible engineering owner.</p><p>Examples: deep links, thread routing and event targeting.</p></div>
+      </div>
+      <p class="source-note">Risk to resolve before broad rollout: name and date-of-birth onboarding, including age verification, were removed from both arms. The roadmap source records no legal sign-off in the decision thread.</p>
+    </section>
+
+    <section class="section section--paper" id="measurement"><div class="wrap story-grid">
+      <aside class="story-aside"><div class="label">05 / Readout guardrails</div><h2>Compare what <em>actually changed.</em></h2><p>The control is design intent from the shipped Chats Figma; confirm it against the build for the analysis window. The v0 source-of-truth page is current.</p></aside>
+      <div class="steps">
+        <article class="step"><div class="step-no">A</div><div><h3>Do not treat shared changes as experiment lift.</h3><p>Gamification entry points were removed from control and treatment, and icebreakers moved to the bottom in both. These are not treatment deltas.</p></div></article>
+        <article class="step"><div class="step-no">B</div><div><h3>Expect funnels to change shape.</h3><p>The bottom bar disappears, the thread list moves into a drawer and the character catalogue shrinks to four. Events tied to the old surfaces may stop firing entirely, not simply decline.</p></div></article>
+        <article class="step"><div class="step-no">C</div><div><h3>Confirm the control build.</h3><p>Control frames are 375 × 812 and treatment frames are 393 × 852. Read the comparison structurally; confirm chip state, tab labels and implementation before comparing pixels or events.</p></div></article>
+      </div>
+    </div></section>
+
+    <section class="closing"><div class="wrap closing-row"><div><div class="eyebrow">Next · Experience design</div><h2>See how the new chat <em>takes shape.</em></h2></div><a class="action-link" href="design.html">Explore the design states ↗</a></div></section>
+  </main>
+  <footer class="footer wrap"><span class="footer-mark"><svg viewBox="0 0 28 32" fill="none" aria-hidden="true"><path d="M14 2v21m0 0c-4 0-7-3-7-7m7 7c4 0 7-3 7-7M7 8l7-6 7 6M4 25c2 3 5 5 10 5s8-2 10-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>© 2026 Felipe Amorim · Madrid</span><a href="https://live-cove.drophere.cc/" target="_blank" rel="noopener noreferrer">Live design prototype ↗</a></footer>
+</body>
+</html>
