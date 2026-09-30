@@ -184,6 +184,34 @@ figcaption{font-size:12px;line-height:1.45;color:var(--muted);margin-top:18px;ma
 .case-gallery--3 .case-gallery__item--one{grid-column:2/span 4;grid-row:1;height:92%;align-self:start;margin-right:-6%}
 .case-gallery--3 .case-gallery__item--two{grid-column:5/span 4;grid-row:1;height:88%;align-self:end;margin-left:-6%;margin-right:-6%}
 .case-gallery--3 .case-gallery__item--three{grid-column:8/span 4;grid-row:1;height:92%;align-self:start;margin-left:-6%}
+
+/* Shared case-study opening: forest-green story band with a focused device render. */
+.site-header:has(+ main .case-hero){background:rgba(16,44,38,.94);border-color:#ffffff20;color:#f5f1e9}
+.site-header:has(+ main .case-hero) .brand-anchor{filter:brightness(0) invert(1);opacity:.9}
+.site-header:has(+ main .case-hero) .nav a[aria-current=page]{border-color:#d6efb2}
+.site-header:has(+ main .case-hero) .nav .nav-contact{color:#f5f1e9}
+.case-hero{position:relative;isolation:isolate;overflow:hidden;padding:24px 0 0;border:0;background:radial-gradient(ellipse at 79% 30%,rgba(70,124,96,.35),transparent 39%),linear-gradient(135deg,#102c26 0%,#173c32 62%,#102c26 100%);color:#f5f1e9}
+.case-hero:after{content:'';position:absolute;z-index:-1;width:42vw;height:42vw;right:-12vw;top:-19vw;border:1px solid #ffffff10;border-radius:50%;box-shadow:0 0 0 5vw #ffffff04,0 0 0 10vw #ffffff03}
+.case-hero .shell{position:relative;z-index:1}
+.case-hero .bread,.case-hero .bread a,.case-hero .case-facts .meta-label{color:#a9bdb0}
+.case-hero .bread a:hover{color:#fff}
+.case-hero .eyebrow{color:#c8d7ca}
+.case-hero .eyebrow:before{background:#c4e7a0}
+.case-hero .accent{color:#c4e7a0}
+.case-hero-copy .lead{color:#d1ddd4}
+.case-hero .case-outcome--hero strong{color:#e7f1df}
+.case-hero .case-outcome--hero span{color:#bdcec2}
+.case-hero .case-facts{border-color:#ffffff26}
+.case-hero .case-facts strong{color:#f5f1e9}
+.case-cover{border-radius:26px;background:linear-gradient(145deg,#24483d,#0c211c);box-shadow:0 28px 80px #071b1799,inset 0 1px #ffffff30}
+.case-cover--device{display:flex;align-items:center;justify-content:center;position:relative;isolation:isolate;overflow:hidden;background:radial-gradient(ellipse at 50% 62%,#31594b 0,transparent 63%),linear-gradient(145deg,#1c4035,#0d251f)}
+.case-cover--device:before{content:'';position:absolute;inset:9%;border:1px solid #ffffff13;border-radius:20px;transform:rotate(-5deg);z-index:-1}
+.case-cover--device img{width:auto;height:116%;max-width:76%;object-fit:contain;filter:drop-shadow(0 22px 18px #071510a6)}
+.case-gallery__item img{border-radius:18px}
+.work-image--device{position:relative;isolation:isolate;display:flex;align-items:center;justify-content:center;background:radial-gradient(ellipse at 50% 58%,#31594b 0,transparent 62%),linear-gradient(145deg,#1c4035,#0d251f);border-radius:22px}
+.work-image--device:before{content:'';position:absolute;inset:9% 12%;border:1px solid #ffffff17;border-radius:24px;transform:rotate(-5deg);z-index:-1}
+.work-image--device img{width:auto;height:92%;max-width:78%;object-fit:contain;filter:drop-shadow(0 17px 15px #071510a8)}
+.work-card:hover .work-image--device img{transform:scale(1.035) translateY(-2px)}
 .case-outcome{display:flex;align-items:baseline;gap:14px;padding:22px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-top:30px}
 .case-outcome strong{font:400 clamp(2.5rem,5vw,4.4rem)/1 'DM Serif Display',Georgia,serif;color:#cf5627;white-space:nowrap}
 .case-outcome span{font-size:13px;color:var(--muted);max-width:190px}
