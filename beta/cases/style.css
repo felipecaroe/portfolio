@@ -1136,7 +1136,12 @@ line-height: 150%; /* 19.5px */
 .impulse-case-copy{position:relative;z-index:1}.impulse-kicker{font:10px/1.5 'Space Mono',monospace;letter-spacing:.12em;text-transform:uppercase;color:#bdcfc1}.impulse-kicker:before{content:'';display:inline-block;width:7px;height:7px;border-radius:50%;background:#c4e7a0;margin-right:10px}
 .impulse-case-copy h1{font:400 clamp(3.5rem,6.7vw,7rem)/.92 Georgia,serif;letter-spacing:-.055em;margin:26px 0 22px}.impulse-case-copy h1 em{color:#c4e7a0}.impulse-case-copy>p{max-width:470px;color:#d1ddd4;font:17px/1.6 Arial,sans-serif}
 .impulse-case-facts{display:flex;flex-wrap:wrap;gap:10px;margin-top:32px}.impulse-case-facts span{padding:8px 11px;border:1px solid #ffffff30;border-radius:999px;color:#d7e1d9;font:10px 'Space Mono',monospace;letter-spacing:.04em;text-transform:uppercase}
-.impulse-case-art{margin:0;padding:clamp(10px,2vw,24px);border:1px solid #ffffff1b;border-radius:24px;background:linear-gradient(145deg,#ffffff0d,#ffffff04);box-shadow:0 28px 80px #071b1770;transform:rotate(-1deg)}
-.impulse-case-art img{display:block;width:100%;height:auto;border-radius:15px;object-fit:contain}
-@media(max-width:800px){.impulse-case-grid{grid-template-columns:1fr;gap:38px;padding-top:48px}.impulse-case-copy h1{font-size:clamp(3.4rem,14vw,6rem)}.impulse-case-art{transform:none}}
+.impulse-case-art{margin:0;display:flex;align-items:center;justify-content:center;background:transparent}
+.impulse-device-shell{width:min(100%,360px);aspect-ratio:430/932;padding:9px;border:2px solid #707877;border-radius:52px;background:linear-gradient(140deg,#343b3c,#101213 44%,#252b2c);box-shadow:0 30px 70px #061511b3,0 0 0 2px #090b0c,0 0 0 3px #aab2ae66}
+.impulse-device-shell img{display:block;width:100%;height:100%;border-radius:41px;object-fit:cover}
+@media(max-width:800px){.impulse-case-grid{grid-template-columns:1fr;gap:38px;padding-top:48px}.impulse-case-copy h1{font-size:clamp(3.4rem,14vw,6rem)}.impulse-device-shell{width:min(78vw,340px)}}
 @media(prefers-reduced-motion:reduce){.impulse-case-art{transform:none}}
+.screens{background:#15392f;color:#f5f1e9}
+.screens .impulse-is-your,.screens .config-description,.screens .manage-your-impulse-container{color:#d0ddd5}
+.screens .sc1-icon{width:250px;height:auto;max-height:none;aspect-ratio:430/932;object-fit:cover;border:8px solid #17191a;border-radius:40px;background:#17191a;box-shadow:0 26px 55px #06130fa6}
+@media(max-width:890px){.screens .sc1-icon{width:min(250px,78vw);max-width:100%;margin:0 auto 24px}}
