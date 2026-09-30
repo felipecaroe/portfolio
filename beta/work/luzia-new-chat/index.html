@@ -17,7 +17,7 @@
       <svg class="brand-mark" viewBox="0 0 28 32" fill="none" aria-hidden="true"><path d="M14 2v21m0 0c-4 0-7-3-7-7m7 7c4 0 7-3 7-7M7 8l7-6 7 6M4 25c2 3 5 5 10 5s8-2 10-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
       Felipe Amorim <span>/ selected work</span>
     </a>
-    <nav class="nav" aria-label="On this page"><a href="#opportunity">Opportunity</a><a href="#releases">Release plan</a><a href="#voice-onboarding">Voice flow</a><a href="#screens">Design states</a><a href="https://pure-fern.drophere.cc/" target="_blank" rel="noopener noreferrer">Roadmap source ↗</a></nav>
+    <nav class="nav" aria-label="On this page"><a href="#opportunity">Opportunity</a><a href="#voice-onboarding">Voice flow</a><a href="#releases">Release plan</a><a href="#screens">Design states</a><a href="https://pure-fern.drophere.cc/" target="_blank" rel="noopener noreferrer">Roadmap source ↗</a></nav>
   </header>
   <main id="top">
 <section class="hero wrap">
@@ -36,46 +36,10 @@
         <dl class="facts"><div><dt>Product</dt><dd>Luzia mobile app · New Chat experiment</dd></div><div><dt>My role</dt><dd>Product strategy and experience design</dd></div><div><dt>Starting point</dt><dd>360 × 800 Android · 93.4% of users</dd></div></dl>
       </div>
     </div></section>
-<section class="callout wrap" aria-label="Experiment measurement"><div class="callout-panel" data-mark="V0"><div class="callout-copy"><div class="label">A gated experiment</div><p>Read the new-user cohort before widening access. Use retention, activation and load latency to decide whether the simpler base is ready for more.</p></div><div class="callout-value">D1 → D30<span>Retention · activation · load latency</span></div></div></section>
-<section class="section section--paper" id="releases"><div class="wrap">
-      <div class="eyebrow section-index">02 / Release logic</div>
-      <div class="intro-copy"><h2>Prove the base. Then <em>build on it.</em></h2><p>Each release has a gate, so feature restoration and wider rollout follow evidence rather than a calendar guess.</p></div>
-      <div class="release-grid">
-        <article class="release"><div class="release-top"><span class="release-number">v0</span><span class="tag">Shipped · 11 Sep</span></div><h3>Strip it to chat.</h3><p>New users only. Begin with the conversation, a compact composer, a smaller set of entry points and a reduced character choice.</p><div class="gate"><b>Readout</b><br>D1 and D7 retention, activation, load latency; verify the Android routing issue is clear.</div></article>
-        <article class="release"><div class="release-top"><span class="release-number">v1</span><span class="tag">After the readout</span></div><h3>Make the base case right.</h3><p>Resolve issues revealed by real devices: composer height, character naming and selection, small-screen behaviour, thread access and navigation details.</p><div class="gate"><b>Gate</b><br>v0 retention and activation read out cleanly; routing data is trustworthy.</div></article>
-        <article class="release"><div class="release-top"><span class="release-number">v2</span><span class="tag">Once v1 holds</span></div><h3>Layer useful features back.</h3><p>Revisit chat search, reminders, favourites and character discovery. Fix known usability gaps as part of the restoration, not as follow-up debt.</p><div class="gate"><b>Gate</b><br>v1 retention does not regress; churn mitigation is written before existing users are affected.</div></article>
-        <article class="release"><div class="release-top"><span class="release-number">v3</span><span class="tag">When the base is safe</span></div><h3>Widen rollout and identity.</h3><p>Expand to existing users only after the restored experience holds. Bring back tools selectively and complete the identity work with brand approval.</p><div class="gate"><b>Gate</b><br>v2 holds on the existing base; brand signs off the palette.</div></article>
-      </div>
-    </div></section>
-<section class="story" id="scope"><div class="wrap story-grid">
-      <aside class="story-aside"><div class="label">03 / v0 definition</div><h2>A deliberate <em>reset.</em></h2><p>The first release creates a clean baseline. Scope is explicit so teams can separate the treatment from features removed in both arms.</p></aside>
-      <div class="steps">
-        <article class="step"><div class="step-no">01</div><div><h3>Open directly into a new chat.</h3><p>Login leads to chat. The welcome is short, icebreakers live near the composer and disappear when the keyboard is up or the composer has text. The New chat action moves to the FAB.</p></div></article>
-        <article class="step"><div class="step-no">02</div><div><h3>Keep a focused set of tools.</h3><p>Keep visual tools, thread search, response settings and Plus in settings. The composer keeps Plus and the microphone; tool chips leave the composer.</p></div></article>
-        <article class="step"><div class="step-no">03</div><div><h3>Reduce the number of competing destinations.</h3><p>Routines, services, widgets, standalone icebreakers, custom personalities, Plus promotion and search inside a chat leave v0. The character picker presents four named choices.</p></div></article>
-        <article class="step"><div class="step-no">04</div><div><h3>Make the cohort and rollout measurable.</h3><p>Target new users through <code>first_version ≥ brutal_simplification_version</code>. The initial proposal was 10–20%; the final decision recorded on 11 September was a 50/50 split.</p></div></article>
-      </div>
-    </div></section>
-<section class="section section--paper"><div class="wrap intro-grid">
-      <div class="eyebrow section-index">04 / The design idea</div>
-      <div class="intro-copy"><h2>Make chat the <em>starting point.</em></h2><p>A short welcome gives the screen a human voice. Three suggested actions show what Luzia can help with, while the composer remains the clearest invitation. Secondary features appear when the person asks for them.</p>
-        <dl class="facts"><div><dt>Contribution</dt><dd>Product definition, UX and interaction design</dd></div><div><dt>Platform focus</dt><dd>Android first · small-device baseline</dd></div><div><dt>Modes</dt><dd>Light and dark · responsive states</dd></div></dl>
-      </div>
-    </div></section>
-<section class="story" id="principles"><div class="wrap story-grid">
-      <aside class="story-aside"><div class="label">05 / Experience principles</div><h2>Quiet structure.<br><em>Useful cues.</em></h2><p>Reduce the choice load without making the product feel empty or hiding the actions people need.</p></aside>
-      <div class="steps">
-        <article class="step"><div class="step-no">01</div><div><h3>Welcome in one thought.</h3><p>Replace the long character-specific greeting with a concise prompt. Use two welcome states: show the Luzia mark after the idle window and on arrival from onboarding; keep it out of a fresh thread opened from the drawer or FAB.</p></div></article>
-        <article class="step"><div class="step-no">02</div><div><h3>Let the composer carry the next action.</h3><p>Keep Plus and the microphone in a compact, single-row composer. Remove the tools chips. In the V1 exploration, carry idle, listening and generating in the gradient rather than swapping the whole control.</p></div></article>
-        <article class="step"><div class="step-no">03</div><div><h3>Put prompts where they help.</h3><p>Move icebreakers to the bottom of the chat. Hide them while the keyboard is open or the person has started typing. On smaller screens, define how many fit instead of allowing them to crowd out the conversation.</p></div></article>
-        <article class="step"><div class="step-no">04</div><div><h3>Use the drawer for destinations.</h3><p>Open the thread list from the side drawer; put Visual tools above the conversations. Keep the empty-thread New chat action hidden while it has nothing useful to do.</p></div></article>
-        <article class="step"><div class="step-no">05</div><div><h3>Make character choice legible.</h3><p>Offer four first-run characters from the FAB, with names beside the portraits. Bring the most-used choice closest to the opening tap; keep the fuller catalogue for a later, measured release.</p></div></article>
-      </div>
-    </div></section>
 <section class="voice-demo" id="voice-onboarding">
   <div class="wrap">
     <div class="voice-demo-head">
-      <div class="eyebrow section-index">06 / Voice-first date of birth</div>
+      <div class="eyebrow section-index">02 / Voice-first date of birth</div>
       <h2>Say it. <em>Check it.</em></h2>
       <p>The onboarding asks for a birthday in conversation, captures the spoken date and confirms it before continuing.</p>
     </div>
@@ -88,6 +52,41 @@
     </figure>
   </div>
 </section>
+<section class="section section--paper" id="releases"><div class="wrap">
+      <div class="eyebrow section-index">03 / Release logic</div>
+      <div class="intro-copy"><h2>Prove the base. Then <em>build on it.</em></h2><p>Each release has a gate, so feature restoration and wider rollout follow evidence rather than a calendar guess.</p></div>
+      <div class="release-grid">
+        <article class="release"><div class="release-top"><span class="release-number">v0</span><span class="tag">Shipped · 11 Sep</span></div><h3>Strip it to chat.</h3><p>New users only. Begin with the conversation, a compact composer, a smaller set of entry points and a reduced character choice.</p><div class="gate"><b>Readout</b><br>D1 and D7 retention, activation, load latency; verify the Android routing issue is clear.</div></article>
+        <article class="release"><div class="release-top"><span class="release-number">v1</span><span class="tag">After the readout</span></div><h3>Make the base case right.</h3><p>Resolve issues revealed by real devices: composer height, character naming and selection, small-screen behaviour, thread access and navigation details.</p><div class="gate"><b>Gate</b><br>v0 retention and activation read out cleanly; routing data is trustworthy.</div></article>
+        <article class="release"><div class="release-top"><span class="release-number">v2</span><span class="tag">Once v1 holds</span></div><h3>Layer useful features back.</h3><p>Revisit chat search, reminders, favourites and character discovery. Fix known usability gaps as part of the restoration, not as follow-up debt.</p><div class="gate"><b>Gate</b><br>v1 retention does not regress; churn mitigation is written before existing users are affected.</div></article>
+        <article class="release"><div class="release-top"><span class="release-number">v3</span><span class="tag">When the base is safe</span></div><h3>Widen rollout and identity.</h3><p>Expand to existing users only after the restored experience holds. Bring back tools selectively and complete the identity work with brand approval.</p><div class="gate"><b>Gate</b><br>v2 holds on the existing base; brand signs off the palette.</div></article>
+      </div>
+    </div></section>
+<section class="story" id="scope"><div class="wrap story-grid">
+      <aside class="story-aside"><div class="label">04 / v0 definition</div><h2>A deliberate <em>reset.</em></h2><p>The first release creates a clean baseline. Scope is explicit so teams can separate the treatment from features removed in both arms.</p></aside>
+      <div class="steps">
+        <article class="step"><div class="step-no">01</div><div><h3>Open directly into a new chat.</h3><p>Login leads to chat. The welcome is short, icebreakers live near the composer and disappear when the keyboard is up or the composer has text. The New chat action moves to the FAB.</p></div></article>
+        <article class="step"><div class="step-no">02</div><div><h3>Keep a focused set of tools.</h3><p>Keep visual tools, thread search, response settings and Plus in settings. The composer keeps Plus and the microphone; tool chips leave the composer.</p></div></article>
+        <article class="step"><div class="step-no">03</div><div><h3>Reduce the number of competing destinations.</h3><p>Routines, services, widgets, standalone icebreakers, custom personalities, Plus promotion and search inside a chat leave v0. The character picker presents four named choices.</p></div></article>
+        <article class="step"><div class="step-no">04</div><div><h3>Make the cohort and rollout measurable.</h3><p>Target new users through <code>first_version ≥ brutal_simplification_version</code>. The initial proposal was 10–20%; the final decision recorded on 11 September was a 50/50 split.</p></div></article>
+      </div>
+    </div></section>
+<section class="section section--paper"><div class="wrap intro-grid">
+      <div class="eyebrow section-index">05 / The design idea</div>
+      <div class="intro-copy"><h2>Make chat the <em>starting point.</em></h2><p>A short welcome gives the screen a human voice. Three suggested actions show what Luzia can help with, while the composer remains the clearest invitation. Secondary features appear when the person asks for them.</p>
+        <dl class="facts"><div><dt>Contribution</dt><dd>Product definition, UX and interaction design</dd></div><div><dt>Platform focus</dt><dd>Android first · small-device baseline</dd></div><div><dt>Modes</dt><dd>Light and dark · responsive states</dd></div></dl>
+      </div>
+    </div></section>
+<section class="story" id="principles"><div class="wrap story-grid">
+      <aside class="story-aside"><div class="label">06 / Experience principles</div><h2>Quiet structure.<br><em>Useful cues.</em></h2><p>Reduce the choice load without making the product feel empty or hiding the actions people need.</p></aside>
+      <div class="steps">
+        <article class="step"><div class="step-no">01</div><div><h3>Welcome in one thought.</h3><p>Replace the long character-specific greeting with a concise prompt. Use two welcome states: show the Luzia mark after the idle window and on arrival from onboarding; keep it out of a fresh thread opened from the drawer or FAB.</p></div></article>
+        <article class="step"><div class="step-no">02</div><div><h3>Let the composer carry the next action.</h3><p>Keep Plus and the microphone in a compact, single-row composer. Remove the tools chips. In the V1 exploration, carry idle, listening and generating in the gradient rather than swapping the whole control.</p></div></article>
+        <article class="step"><div class="step-no">03</div><div><h3>Put prompts where they help.</h3><p>Move icebreakers to the bottom of the chat. Hide them while the keyboard is open or the person has started typing. On smaller screens, define how many fit instead of allowing them to crowd out the conversation.</p></div></article>
+        <article class="step"><div class="step-no">04</div><div><h3>Use the drawer for destinations.</h3><p>Open the thread list from the side drawer; put Visual tools above the conversations. Keep the empty-thread New chat action hidden while it has nothing useful to do.</p></div></article>
+        <article class="step"><div class="step-no">05</div><div><h3>Make character choice legible.</h3><p>Offer four first-run characters from the FAB, with names beside the portraits. Bring the most-used choice closest to the opening tap; keep the fuller catalogue for a later, measured release.</p></div></article>
+      </div>
+    </div></section>
 <section class="gallery wrap" id="screens"><div class="gallery-head"><div><div class="eyebrow section-index">07 / Selected states</div><h2>Designed as a <em>flow.</em></h2></div><p>These are captures from the interactive design prototype. The full prototype includes additional states, navigation, visual tools, routines, notifications, settings and both colour modes.</p></div>
       <div class="gallery-grid">
         <figure class="shot shot--device" data-title="First entrance · notification prompt"><img src="assets/first-entrance.png" alt="First entrance with a short greeting, three suggestions, a notification opt-in card and the composer"><figcaption><span class="caption">01 · First entrance</span><span class="caption">A useful invitation ↗</span></figcaption></figure>

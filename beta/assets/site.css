@@ -204,7 +204,7 @@ figcaption{font-size:12px;line-height:1.45;color:var(--muted);margin-top:18px;ma
 .case-hero .case-facts strong{color:#f5f1e9}
 .case-cover{border-radius:26px;background:linear-gradient(145deg,#24483d,#0c211c);box-shadow:0 28px 80px #071b1799,inset 0 1px #ffffff30}
 .case-cover--device{display:flex;align-items:center;justify-content:center;position:relative;isolation:isolate;overflow:hidden;background:transparent;border-radius:0;box-shadow:none}
-.case-cover--device img{width:auto;height:116%;max-width:76%;object-fit:contain;filter:drop-shadow(0 22px 18px #071510a6)}
+.case-cover--device img{width:auto;height:100%;max-height:100%;max-width:76%;object-fit:contain;filter:drop-shadow(0 22px 18px #071510a6)}
 .case-cover--watch img{width:min(74%,390px);height:auto;max-width:none}
 .case-gallery__item img{border-radius:0}
 .work-image--device{position:relative;isolation:isolate;display:flex;align-items:center;justify-content:center;background:linear-gradient(145deg,#183d32,#0d251f);border-radius:0}
@@ -312,24 +312,15 @@ figcaption{font-size:12px;line-height:1.45;color:var(--muted);margin-top:18px;ma
 .case-gallery-heading{max-width:none;margin:0 auto 34px;padding:0;align-items:flex-end}
 .case-gallery-heading>div:first-child{max-width:760px}
 .case-gallery-heading h2{max-width:760px;font-size:clamp(2.8rem,5vw,5rem);margin-bottom:16px}
-.case-gallery{width:100%;max-width:none;margin:0;padding:52px clamp(24px,5vw,72px) 30px;display:grid;position:relative;isolation:isolate;align-items:center;gap:clamp(18px,3.5vw,54px);border-radius:3px;background:var(--case-stage,#e8e4db);overflow:hidden}
+.case-gallery{width:100%;max-width:none;margin:0;padding:52px clamp(24px,5vw,72px) 30px;display:grid;position:relative;isolation:isolate;align-items:center;gap:clamp(18px,3.5vw,54px);border-radius:3px;background:radial-gradient(ellipse at 50% 40%,#1c4438 0%,#15372e 48%,#0d2822 100%);overflow:hidden}
 .case-gallery--2{grid-template-columns:repeat(2,minmax(0,1fr));grid-template-rows:minmax(560px,42vw)}
 .case-gallery--3{grid-template-columns:repeat(3,minmax(0,1fr));grid-template-rows:minmax(500px,38vw)}
 .case-gallery__item,.case-gallery--2 .case-gallery__item--one,.case-gallery--2 .case-gallery__item--two,.case-gallery--3 .case-gallery__item--one,.case-gallery--3 .case-gallery__item--two,.case-gallery--3 .case-gallery__item--three{grid-column:auto;grid-row:1;height:100%;min-width:0;margin:0;transform:none;align-self:center;justify-content:center;z-index:1}
 .case-gallery__item img{width:auto;height:auto;max-width:100%;max-height:calc(100% - 54px);object-fit:contain;filter:drop-shadow(0 24px 26px rgba(36,32,25,.2));}
-.case-gallery__item figcaption{position:static;display:flex;justify-content:flex-start;align-items:baseline;gap:10px;width:100%;margin:20px 0 0;padding-top:13px;border-top:1px solid rgba(36,32,25,.2);font:10px/1.45 'Space Mono',monospace;letter-spacing:.025em;text-align:left;color:var(--ink)}
+.case-gallery__item figcaption{position:static;display:flex;justify-content:flex-start;align-items:baseline;gap:10px;width:100%;margin:20px 0 0;padding-top:13px;border-top:1px solid rgba(245,241,233,.25);font:10px/1.45 'Space Mono',monospace;letter-spacing:.025em;text-align:left;color:#eee9df}
 .case-gallery__item figcaption span:first-child{color:#c65329;font-size:11px}
 .case-gallery__item figcaption span:last-child{max-width:250px}
-.case-gallery-section--atletico-de-madrid{--case-stage:#f0dfd9}
-.case-gallery-section--atletico-de-madrid .case-gallery{max-width:920px;margin-inline:auto;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:20px;background:radial-gradient(ellipse at 50% 48%,#fff4e8 0 19%,transparent 19.5%),linear-gradient(125deg,#ead7d0,#f3e8df 56%,#d9c5bf)}
-.case-gallery-section--card-dynamics{--case-stage:#d9eeec}
-.case-gallery-section--card-dynamics .case-gallery{background:radial-gradient(ellipse at 50% 45%,rgba(255,255,255,.84),transparent 63%),linear-gradient(130deg,#cde7e3,#e2f1eb 54%,#d4e5df)}
-.case-gallery-section--outback{--case-stage:#e9e6d7}
-.case-gallery-section--outback .case-gallery{background:radial-gradient(ellipse at 55% 45%,#f8f3e7,transparent 65%),linear-gradient(120deg,#d5d8c5,#eeeadb 57%,#e2d5bf)}
-.case-gallery-section--pizza-hut{--case-stage:#f0ddd5}
-.case-gallery-section--pizza-hut .case-gallery{background:radial-gradient(ellipse at 50% 45%,#fff2df,transparent 62%),linear-gradient(125deg,#ead2c7,#f5e8da 58%,#d9beb2)}
-.case-gallery-section--invisipayment{--case-stage:#e7e3df}
-.case-gallery-section--invisipayment .case-gallery{background:radial-gradient(ellipse at 50% 45%,rgba(255,255,255,.85),transparent 65%),linear-gradient(125deg,#ddd9d5,#efede8 55%,#d8d6d2)}
+.case-gallery-section--atletico-de-madrid .case-gallery{max-width:920px;margin-inline:auto;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:20px}
 .case-close{background:var(--dark);color:var(--white);padding-top:72px;padding-bottom:34px}
 .case-close__inner{min-height:250px;display:flex;align-items:center;justify-content:space-between;gap:50px}
 .case-close__proof{max-width:760px}
