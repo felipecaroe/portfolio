@@ -212,7 +212,7 @@ figcaption{font-size:12px;line-height:1.45;color:var(--muted);margin-top:18px;ma
 .work-card:hover .work-image--device img{transform:scale(1.035) translateY(-2px)}
 .work-image--watch img{width:auto;height:62%;max-width:76%;object-fit:contain}
 .work-image--phone-screen img{height:92%;max-width:78%;padding:0;border:8px solid #17191a;border-radius:38px;object-fit:cover;box-shadow:0 22px 40px #06130f99}
-.work-image--luzia img{width:auto;height:91%;max-width:none;aspect-ratio:.47;object-fit:cover;border-radius:40px;box-shadow:0 20px 45px #06130f99;transform:scaleX(1.08)}
+.work-image--luzia img{width:auto;height:91%;max-width:none;aspect-ratio:.473;object-fit:contain;border-radius:0;filter:drop-shadow(0 20px 24px #06130f99);transform:none}
 .case-gallery-section{background:#15392f;color:#f5f1e9;border-top:0}
 .case-gallery-section .section-index{color:#c4e7a0}
 .case-gallery-heading p{color:#c3d0c7}
