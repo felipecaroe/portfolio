@@ -48,6 +48,7 @@ h3{font-size:clamp(1.45rem,2.4vw,2.1rem);line-height:1.14;letter-spacing:-.03em}
 .hero-grid{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(340px,.8fr);min-height:clamp(690px,68vw,830px)}
 .hero-copy{padding:clamp(68px,8vw,112px) 0 64px;position:relative;z-index:2;display:flex;flex-direction:column;align-items:flex-start}
 .hero h1{max-width:950px;margin:clamp(55px,6vw,90px) -13vw 25px 0;position:relative;z-index:3}
+.hero h1 .mobile-line{display:inline}
 @media(min-width:701px){.hero h1 .accent{color:var(--ink)}}
 .hero .lead{max-width:540px;margin-bottom:30px}
 .hero-actions{display:flex;align-items:center;flex-wrap:wrap;gap:25px}
@@ -435,7 +436,8 @@ body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;ba
   .nav .nav-contact{padding:.55rem .7rem}
   .hero-grid{grid-template-columns:minmax(0,1fr);min-height:0}
   .hero-copy{padding:36px 0 8px}
-  .hero h1{font-size:clamp(3rem,12.4vw,4.7rem);line-height:.97;margin:26px 0 19px;max-width:13ch}
+  .hero h1{font-size:clamp(2.35rem,10.4vw,2.8rem);line-height:.99;margin:26px 0 19px;max-width:none}
+  .hero h1 .mobile-line,.hero h1 .accent{display:block}
   .hero .lead{font-size:16px;line-height:1.55;margin-bottom:22px}
   .hero-actions{gap:16px}
   .hero-copy>.hero-actions{display:none}
@@ -537,9 +539,10 @@ body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;ba
   .nav a:nth-child(2){grid-column:2}
   .nav a:nth-child(3){grid-column:3}
   .nav .nav-contact{grid-column:3;grid-row:1;justify-self:end;align-self:center;padding:7px 11px}
-  .hero h1{font-size:clamp(3rem,12.5vw,3.5rem)}
+  .hero h1{font-size:clamp(2.3rem,10.2vw,2.65rem)}
   .hero-visual{min-height:350px;height:68svh}
 }
+@media(max-width:360px){.hero h1{font-size:clamp(2.05rem,10.2vw,2.3rem)}}
 
 /* Keep iOS's native video launch overlay out of the decorative background. */
 .site-background-video::-webkit-media-controls,.site-background-video::-webkit-media-controls-start-playback-button{display:none!important;-webkit-appearance:none}

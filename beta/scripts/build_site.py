@@ -57,7 +57,7 @@ def page(path, title, description, content, current="", schema=None):
   <meta name="robots" content="noindex,follow">
   <link rel="canonical" href="{canonical}">
   <link rel="icon" href="@@ROOT@@img/favicon.ico">
-  <link rel="stylesheet" href="@@ROOT@@assets/site.css?v=20261001-mobile10">
+  <link rel="stylesheet" href="@@ROOT@@assets/site.css?v=20261001-mobile11">
   <link rel="stylesheet" href="@@ROOT@@assets/theme-washed-blue.css">
   <meta property="og:type" content="website">
   <meta property="og:title" content="{escape(title)}">
@@ -111,8 +111,8 @@ def service_schema(name, description, page_path="services.html"):
 home = '''
 <section class="hero"><div class="shell hero-grid">
   <div class="hero-copy"><div class="eyebrow">Freelance UX/UI partner · Madrid / Europe</div>
-    <h1>Senior AI product designer for your <span class="accent">next project.</span></h1>
-    <p class="lead">I help agency teams turn complex client briefs into clear product experiences, from AI interaction and UX flows to polished interfaces and a developer-ready handover. You get senior product judgement and hands-on design from the same partner.</p>
+    <h1><span class="mobile-line">Senior AI product</span> <span class="mobile-line">designer for your</span> <span class="accent">next project.</span></h1>
+    <p class="lead">I help agency teams turn complex briefs into clear product experiences, from AI and UX to polished, developer-ready interfaces. You get senior product judgement and hands-on design from one partner.</p>
     <div class="hero-actions">''' + link("contact.html?service=agency", "Start a conversation", "button") + link("work.html", "See selected work") + '''</div>
     <div class="hero-foot">20+ years · Async-first · English / Español / Português / Italiano</div>
   </div>
