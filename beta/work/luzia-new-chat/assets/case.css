@@ -21,7 +21,7 @@ dialog{border:0;padding:0;max-width:min(94vw,1200px);max-height:92vh;background:
 .hero{min-height:700px;grid-template-columns:minmax(0,1.08fr) minmax(340px,.92fr);gap:clamp(42px,6vw,88px)}
 .hero h1{font-size:clamp(4rem,7.2vw,7.6rem);max-width:720px;line-height:.9}
 .hero-art--device img{height:min(78svh,800px);max-width:88%}
-.voice-demo{background:var(--forest);color:var(--paper);padding:clamp(86px,9vw,132px) 0 clamp(56px,5vw,76px)}
+.voice-demo{background:var(--forest);color:var(--paper);padding:clamp(124px,9vw,150px) 0 clamp(56px,5vw,76px)}
 .voice-demo .wrap{display:grid;grid-template-columns:minmax(260px,.68fr) minmax(0,1.32fr);align-items:center;gap:clamp(36px,6vw,88px)}
 .voice-demo .eyebrow{color:#b8c7ba}
 .voice-demo .eyebrow:before{background:var(--red)}
@@ -41,7 +41,7 @@ dialog{border:0;padding:0;max-width:min(94vw,1200px);max-height:92vh;background:
   .hero-art--device img{height:min(82vw,680px);max-width:84%;filter:drop-shadow(0 15px 20px #0008)}
   .voice-demo .wrap{grid-template-columns:1fr;gap:30px}
   .voice-demo-head{max-width:640px}
-  .voice-demo{padding-bottom:52px}
+  .voice-demo{padding-top:124px;padding-bottom:52px}
   #releases.section{padding-top:58px;padding-bottom:48px}
   #releases .release-grid{grid-template-columns:1fr;gap:12px;margin-top:32px}
   #releases .release{min-height:0;padding:25px 22px 27px}
@@ -49,7 +49,7 @@ dialog{border:0;padding:0;max-width:min(94vw,1200px);max-height:92vh;background:
 }
 @media(max-width:480px){
   .hero-art--device img{height:min(115vw,540px);max-width:90%}
-  .voice-demo{padding:72px 0 78px}
+  .voice-demo{padding:128px 0 78px}
   .voice-demo-head h2{font-size:clamp(2.8rem,12vw,3.8rem);line-height:.98}
   .hero h1{font-size:clamp(3rem,12vw,4rem);line-height:.95}
   .gallery-grid{grid-template-columns:minmax(0,1fr);gap:26px}
