@@ -1145,3 +1145,5 @@ line-height: 150%; /* 19.5px */
 .screens .impulse-is-your,.screens .config-description,.screens .manage-your-impulse-container{color:#d0ddd5}
 .screens .sc1-icon{width:250px;height:auto;max-height:none;aspect-ratio:430/932;object-fit:cover;border:8px solid #17191a;border-radius:40px;background:#17191a;box-shadow:0 26px 55px #06130fa6}
 @media(max-width:890px){.screens .sc1-icon{width:min(250px,78vw);max-width:100%;margin:0 auto 24px}}
+.a11y-skip-link{position:absolute;z-index:1000;top:-4rem;left:1rem;padding:12px 16px;background:#f5f1e9;color:#172e26}
+.a11y-skip-link:focus{top:1rem}
