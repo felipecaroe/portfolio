@@ -141,3 +141,5 @@ body:has(.impulse-cover) .screens .impulse-is-your,body:has(.impulse-cover) .scr
   .site-header,.site-header:has(+ main .case-hero){background:rgba(247,249,252,.96)}
   .case-hero{background:linear-gradient(160deg,#f7f9fc,#e8eef5)}
 }
+
+body:has(.voice-demo) .hero .eyebrow{color:var(--muted)}
