@@ -393,10 +393,14 @@ figcaption{font-size:12px;line-height:1.45;color:var(--muted);margin-top:18px;ma
 .field .small-copy{font-weight:400}
 @media(max-width:1000px){.client-proof__row{grid-template-columns:1fr auto;gap:16px 20px;padding-block:20px}.client-proof__label,.client-proof__years{text-align:left}.client-proof__logos{gap:18px}}
 @media(max-width:700px){
-  .client-proof__row{min-height:0;gap:14px 12px;padding:76px 0 18px}
+  .client-proof__row{min-height:0;gap:10px 12px;padding:34px 0 18px}
   .client-proof__topline{display:flex;justify-content:space-between;align-items:center;gap:12px}
   .client-proof__label,.client-proof__years{font-size:9px}
-  .client-proof__logos{grid-template-columns:repeat(4,minmax(0,1fr));gap:15px 8px}
+  .client-proof__logos{grid-template-columns:repeat(8,minmax(0,1fr));gap:12px 4px}
+  .client-proof__logos>:nth-child(-n+4){grid-column:span 2}
+  .client-proof__logos>:nth-child(5){grid-column:2/span 2}
+  .client-proof__logos>:nth-child(6){grid-column:4/span 2}
+  .client-proof__logos>:nth-child(7){grid-column:6/span 2}
   .client-proof__logos>img{height:32px}
   .client-proof__logos>img[src$="logo_out.svg"]{height:22px}
   .client-proof__logos>img[src$="logo_pizza.png"]{height:34px}
@@ -443,8 +447,8 @@ body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;ba
   .hero-copy>.hero-actions{display:none}
   .hero-foot{margin-top:0;padding-top:16px;font-size:10px}
   .hero-visual{height:min(76svh,560px);min-height:400px;margin:0 -20px 0 0}
-  .hero-visual img{object-fit:cover;object-position:right bottom;transform:translateX(55px)}
-  .hero-actions--portrait{position:absolute;display:flex;flex-direction:column;align-items:flex-start;left:0;top:52%;z-index:5;width:min(50vw,310px);gap:18px}
+  .hero-visual img{object-fit:cover;object-position:right bottom;transform:translateX(14px)}
+  .hero-actions--portrait{position:absolute;display:flex;flex-direction:column;align-items:center;left:0;top:52%;z-index:5;width:min(50vw,310px);gap:18px}
   .hero-actions--portrait .button{width:100%;padding-inline:12px;gap:10px;font-size:13px;white-space:nowrap}
   .hero-visual:before{right:12px;top:18px;font-size:9px}
   .hero-visual .portrait-credit{left:12px;top:18px;font-size:9px;padding:7px 9px}

@@ -57,7 +57,7 @@ def page(path, title, description, content, current="", schema=None):
   <meta name="robots" content="noindex,follow">
   <link rel="canonical" href="{canonical}">
   <link rel="icon" href="@@ROOT@@img/favicon.ico">
-  <link rel="stylesheet" href="@@ROOT@@assets/site.css?v=20261001-mobile12">
+  <link rel="stylesheet" href="@@ROOT@@assets/site.css?v=20261001-mobile13">
   <link rel="stylesheet" href="@@ROOT@@assets/theme-washed-blue.css">
   <meta property="og:type" content="website">
   <meta property="og:title" content="{escape(title)}">
