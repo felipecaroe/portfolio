@@ -365,11 +365,11 @@ figcaption{font-size:12px;line-height:1.45;color:var(--muted);margin-top:18px;ma
 .client-proof__label,.client-proof__years{font:700 10px/1.4 'Space Mono',monospace;text-transform:uppercase;letter-spacing:.09em;color:#c9c5ba}
 .client-proof__years{text-align:right}
 .client-proof__logos{grid-area:logos;display:grid;grid-template-columns:repeat(7,minmax(0,1fr));align-items:center;justify-items:center;gap:clamp(14px,2.5vw,32px)}
-.client-proof__logos>img{width:auto;height:42px;max-width:100%;object-fit:contain;opacity:.92}
+.client-proof__logos>img{width:auto;height:42px;max-width:100%;object-fit:contain;opacity:.92;filter:brightness(0) invert(1)}
 .client-proof__logos>img[src$="logo_out.svg"]{height:27px;max-width:108px}
 .client-proof__logos>img[src$="logo_pizza.png"]{height:52px;max-width:58px}
 .client-proof__wordmark{display:inline-flex;align-items:center;justify-content:center;gap:8px;white-space:nowrap;font:500 12px/1.2 'DM Sans',Arial,sans-serif;letter-spacing:-.02em;color:#f5f1e9}
-.client-proof__wordmark img{width:auto;height:32px;max-width:34px;object-fit:contain;opacity:.94}
+.client-proof__wordmark img{width:auto;height:32px;max-width:34px;object-fit:contain;opacity:.94;filter:brightness(0) invert(1)}
 .client-proof__wordmark--espanyol img{height:40px;max-width:42px}
 .client-proof__wordmark--caixa img{height:34px;max-width:42px}
 .home-offers{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
