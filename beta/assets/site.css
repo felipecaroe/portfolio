@@ -437,8 +437,9 @@ body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;ba
   .hero h1{font-size:clamp(3rem,12.4vw,4.7rem);line-height:.97;margin:26px 0 19px;max-width:13ch}
   .hero .lead{font-size:16px;line-height:1.55;margin-bottom:22px}
   .hero-actions{gap:16px}
-  .hero-foot{margin-top:0;padding-top:28px;font-size:10px}
-  .hero-visual{height:min(76svh,560px);min-height:400px;margin:0 -20px 0 0}
+  .hero-foot{margin-top:0;padding-top:16px;font-size:10px}
+  .hero-visual{height:min(76svh,560px);min-height:400px;margin:-30px -20px 0 0}
+  .hero-visual img{object-fit:cover;object-position:right bottom}
   .hero-visual:before{right:12px;top:18px;font-size:9px}
   .hero-visual .portrait-credit{left:12px;top:18px;font-size:9px;padding:7px 9px}
   .strap{padding:18px 0}
