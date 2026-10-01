@@ -57,7 +57,7 @@ def page(path, title, description, content, current="", schema=None):
   <meta name="robots" content="noindex,follow">
   <link rel="canonical" href="{canonical}">
   <link rel="icon" href="@@ROOT@@img/favicon.ico">
-  <link rel="stylesheet" href="@@ROOT@@assets/site.css?v=20261001-mobile4">
+  <link rel="stylesheet" href="@@ROOT@@assets/site.css?v=20261001-mobile9">
   <link rel="stylesheet" href="@@ROOT@@assets/theme-washed-blue.css">
   <meta property="og:type" content="website">
   <meta property="og:title" content="{escape(title)}">
@@ -113,10 +113,10 @@ home = '''
   <div class="hero-copy"><div class="eyebrow">Freelance UX/UI partner · Madrid / Europe</div>
     <h1>Senior AI product designer for your <span class="accent">next project.</span></h1>
     <p class="lead">I help agency teams turn complex client briefs into clear product experiences, from AI interaction and UX flows to polished interfaces and a developer-ready handover. You get senior product judgement and hands-on design from the same partner.</p>
-    <div class="hero-actions">''' + link("contact.html?service=agency", "Discuss a client brief", "button") + link("work.html", "See selected work") + '''</div>
+    <div class="hero-actions">''' + link("contact.html?service=agency", "Start a conversation", "button") + link("work.html", "See selected work") + '''</div>
     <div class="hero-foot">20+ years · Async-first · English / Español / Português / Italiano</div>
   </div>
-  <div class="hero-visual"><img src="img/felipe.png" alt="Felipe Amorim, senior freelance product designer in Madrid" width="598" height="768" fetchpriority="high"></div>
+  <div class="hero-visual"><img src="img/felipe.png" alt="Felipe Amorim, senior freelance product designer in Madrid" width="598" height="768" fetchpriority="high"><div class="hero-actions hero-actions--portrait">''' + link("contact.html?service=agency", "Start a conversation", "button") + link("work.html", "See selected work") + '''</div></div>
 </div></section>
 <section class="client-proof" aria-label="Selected client work"><div class="shell client-proof__row"><div class="client-proof__topline"><span class="client-proof__label">Selected client work</span><span class="client-proof__years">20+ years in design</span></div><div class="client-proof__logos"><span class="client-proof__wordmark"><img src="img/logo_atm.svg" alt="" loading="lazy"><span>Atlético de Madrid</span></span><span class="client-proof__wordmark"><img src="img/logo_cd.svg" alt="" loading="lazy"><span>Card Dynamics</span></span><img src="img/logo_out.svg" alt="Outback" loading="lazy"><img src="img/logo_pizza.png" alt="Pizza Hut" loading="lazy"><span class="client-proof__wordmark client-proof__wordmark--caixa"><img src="img/logo_caixabank.png" alt="" loading="lazy"><span>CaixaBank</span></span><span class="client-proof__wordmark client-proof__wordmark--espanyol"><img src="img/logo_espanyol.png" alt="" loading="lazy"><span>RCD Espanyol</span></span><img src="img/logo_itau.svg" alt="Itaú" loading="lazy"></div></div></section>
 <section class="section section--line"><div class="shell">

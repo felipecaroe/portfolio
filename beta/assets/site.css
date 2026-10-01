@@ -51,6 +51,7 @@ h3{font-size:clamp(1.45rem,2.4vw,2.1rem);line-height:1.14;letter-spacing:-.03em}
 @media(min-width:701px){.hero h1 .accent{color:var(--ink)}}
 .hero .lead{max-width:540px;margin-bottom:30px}
 .hero-actions{display:flex;align-items:center;flex-wrap:wrap;gap:25px}
+.hero-actions--portrait{display:none}
 .hero-foot{margin-top:auto;padding-top:60px;color:var(--muted);font:11px/1.5 'Space Mono',monospace;text-transform:uppercase;letter-spacing:.07em}
 .hero-visual{position:relative;align-self:stretch;background:transparent;margin-right:calc((min(var(--max), 100vw - 80px) - 100vw)/2);overflow:hidden}
 .hero-visual:before{content:'01 / AVAILABLE FOR SELECT PROJECTS';position:absolute;z-index:3;right:22px;top:24px;font:10px 'Space Mono',monospace;letter-spacing:.08em;writing-mode:vertical-rl}
@@ -437,9 +438,12 @@ body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;ba
   .hero h1{font-size:clamp(3rem,12.4vw,4.7rem);line-height:.97;margin:26px 0 19px;max-width:13ch}
   .hero .lead{font-size:16px;line-height:1.55;margin-bottom:22px}
   .hero-actions{gap:16px}
+  .hero-copy>.hero-actions{display:none}
   .hero-foot{margin-top:0;padding-top:16px;font-size:10px}
-  .hero-visual{height:min(76svh,560px);min-height:400px;margin:-30px -20px 0 0}
-  .hero-visual img{object-fit:cover;object-position:right bottom}
+  .hero-visual{height:min(76svh,560px);min-height:400px;margin:0 -20px 0 0}
+  .hero-visual img{object-fit:cover;object-position:right bottom;transform:translateX(55px)}
+  .hero-actions--portrait{position:absolute;display:flex;flex-direction:column;align-items:flex-start;left:0;top:52%;z-index:5;width:min(50vw,310px);gap:18px}
+  .hero-actions--portrait .button{width:100%;padding-inline:12px;gap:10px;font-size:13px;white-space:nowrap}
   .hero-visual:before{right:12px;top:18px;font-size:9px}
   .hero-visual .portrait-credit{left:12px;top:18px;font-size:9px;padding:7px 9px}
   .strap{padding:18px 0}
