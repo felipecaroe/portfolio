@@ -460,7 +460,7 @@ body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;ba
   .hero .lead{font-size:16px;line-height:1.55;margin-bottom:22px}
   .hero-actions{gap:16px}
   .hero-copy>.hero-actions{display:none}
-  .hero-foot{max-width:100%;margin-top:0;padding-top:16px;font-size:10px;overflow-wrap:anywhere}
+  .hero-foot{width:100%;max-width:100%;margin-top:0;padding-top:16px;font-size:10px;overflow-wrap:anywhere}
   .hero-visual{height:min(62svh,460px);min-height:360px;margin:0 -20px 0 0}
   .hero-visual img{object-fit:contain;object-position:center bottom;transform:none}
   .hero-actions--portrait{position:absolute;display:flex;flex-direction:column;align-items:flex-start;left:0;top:18%;z-index:5;width:min(50vw,310px);gap:18px}
