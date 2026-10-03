@@ -57,8 +57,8 @@ def page(path, title, description, content, current="", schema=None):
   <meta name="robots" content="noindex,follow">
   <link rel="canonical" href="{canonical}">
   <link rel="icon" href="@@ROOT@@img/favicon.ico">
-  <link rel="stylesheet" href="@@ROOT@@assets/site.css?v=20261003-design-pass-1">
-  <link rel="stylesheet" href="@@ROOT@@assets/theme-washed-blue.css?v=20261003-design-pass-1">
+  <link rel="stylesheet" href="@@ROOT@@assets/site.css?v=20261003-design-pass-2">
+  <link rel="stylesheet" href="@@ROOT@@assets/theme-washed-blue.css?v=20261003-design-pass-2">
   <meta property="og:type" content="website">
   <meta property="og:title" content="{escape(title)}">
   <meta property="og:description" content="{escape(description)}">
