@@ -384,6 +384,14 @@ figcaption{font-size:12px;line-height:1.45;color:var(--muted);margin-top:18px;ma
 .home-offers__secondary,.direct-team-link{margin:27px 0 0;color:var(--muted);font-size:14px}
 .home-offers__secondary a,.direct-team-link a{color:var(--ink);font-weight:700;text-decoration:underline;text-decoration-color:rgba(36,32,25,.35);text-underline-offset:4px}
 .home-offers__secondary a:hover,.direct-team-link a:hover{color:#c65329;text-decoration-color:currentColor}
+.home-work{padding-bottom:clamp(62px,6.5vw,92px)}
+#services{padding-top:clamp(62px,6.5vw,92px)}
+.home-offers__routes{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:26px;margin-top:22px;border-block:1px solid var(--line)}
+.home-offers__routes p{display:grid;gap:5px;margin:0;padding:19px 0;color:var(--muted);font-size:13px}
+.home-offers__routes p+p{border-left:1px solid var(--line);padding-left:26px}
+.home-offers__routes strong{color:var(--ink);font-size:14px;font-weight:600}
+.home-offers__routes a{display:inline-flex;align-items:center;gap:8px;width:max-content;color:var(--ink);font-weight:700;text-decoration:underline;text-decoration-color:#222f3e35;text-underline-offset:4px}
+.home-offers__routes a:hover{color:var(--orange);text-decoration-color:currentColor}
 .work-image{position:relative}
 .work-image__label{position:absolute;left:16px;top:16px;padding:8px 11px;border:1px solid rgba(255,255,255,.45);border-radius:100px;background:rgba(39,40,35,.72);color:#fffdf9;font:700 9px/1.2 'Space Mono',monospace;text-transform:uppercase;letter-spacing:.08em;backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px)}
 .work-card--concept .work-image img{filter:saturate(.82)}
@@ -392,7 +400,7 @@ figcaption{font-size:12px;line-height:1.45;color:var(--muted);margin-top:18px;ma
 .footer-top .button{white-space:nowrap}
 .case-close__proof h2{max-width:700px}
 .field .small-copy{font-weight:400}
-@media(max-width:1000px){.client-proof__row{grid-template-columns:1fr auto;gap:16px 20px;padding-block:20px}.client-proof__label,.client-proof__years{text-align:left}.client-proof__logos{gap:18px}}
+@media(max-width:1000px){.client-proof__row{grid-template-columns:1fr auto;gap:16px 20px;padding-block:20px}.client-proof__label,.client-proof__years{text-align:left}.client-proof__logos{grid-template-columns:repeat(4,minmax(0,1fr));gap:18px 14px}.client-proof__wordmark{flex-direction:column;gap:5px;white-space:normal;text-align:center}}
 @media(max-width:700px){
   .client-proof__row{min-height:0;gap:10px 12px;padding:34px 0 18px}
   .client-proof__topline{display:flex;justify-content:space-between;align-items:center;gap:12px}
@@ -412,6 +420,11 @@ figcaption{font-size:12px;line-height:1.45;color:var(--muted);margin-top:18px;ma
   .client-proof__wordmark--caixa img{height:25px;max-width:32px}
   .home-offers{grid-template-columns:1fr;gap:12px}
   .home-offer{min-height:290px;padding:27px 24px}
+  .home-work{padding-bottom:52px}
+  #services{padding-top:52px}
+  .home-offers__routes{grid-template-columns:1fr;gap:0;margin-top:18px}
+  .home-offers__routes p{padding:15px 0}
+  .home-offers__routes p+p{border-left:0;border-top:1px solid var(--line);padding-left:0}
   .footer-top h2{font-size:clamp(3rem,12vw,5rem)}
 }
 
@@ -447,10 +460,10 @@ body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;ba
   .hero .lead{font-size:16px;line-height:1.55;margin-bottom:22px}
   .hero-actions{gap:16px}
   .hero-copy>.hero-actions{display:none}
-  .hero-foot{margin-top:0;padding-top:16px;font-size:10px}
+  .hero-foot{max-width:100%;margin-top:0;padding-top:16px;font-size:10px;overflow-wrap:anywhere}
   .hero-visual{height:min(62svh,460px);min-height:360px;margin:0 -20px 0 0}
   .hero-visual img{object-fit:contain;object-position:center bottom;transform:none}
-  .hero-actions--portrait{position:absolute;display:flex;flex-direction:column;align-items:center;left:0;top:18%;z-index:5;width:min(50vw,310px);gap:18px}
+  .hero-actions--portrait{position:absolute;display:flex;flex-direction:column;align-items:flex-start;left:0;top:18%;z-index:5;width:min(50vw,310px);gap:18px}
   .hero-actions--portrait .button{width:100%;padding-inline:12px;gap:10px;font-size:13px;white-space:nowrap}
   .hero-visual:before{right:12px;top:18px;font-size:9px}
   .hero-visual .portrait-credit{left:12px;top:18px;font-size:9px;padding:7px 9px}
