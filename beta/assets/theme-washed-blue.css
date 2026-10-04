@@ -170,3 +170,17 @@ body:has(.voice-demo) .hero .eyebrow{color:var(--muted)}
 .community-note{max-width:660px;margin:27px 0 0;color:var(--muted);font-size:12px}
 @media(max-width:900px){.community-teaser__inner,.community-section__intro{grid-template-columns:1fr;gap:26px}.community-teaser__names{max-width:600px}.community-section__intro>.body-copy{max-width:620px}}
 @media(max-width:700px){.community-teaser{padding:47px 0}.community-teaser__inner{gap:25px}.community-teaser h2{font-size:clamp(2.35rem,9vw,3.2rem)}.community-teaser__names{grid-template-columns:1fr 1fr}.community-teaser__names span{padding:14px 0}.community-section__intro{gap:18px;margin-bottom:36px}.community-section__intro h2{font-size:clamp(2.7rem,10vw,3.8rem)}.community-columns{grid-template-columns:1fr;gap:34px}.community-entry{padding:18px 0}.community-entry__org{font-size:18px}.community-entry p{font-size:14px}}
+
+.community-gallery{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:clamp(14px,2vw,24px);margin:0 0 clamp(42px,6vw,76px)}
+.community-photo{min-width:0;margin:0}
+.community-photo__image{aspect-ratio:4/3;overflow:hidden;border-radius:12px;background:#dce5ee}
+.community-photo__image img{width:100%;height:100%;object-fit:cover;object-position:center;transition:transform .45s cubic-bezier(.22,.61,.36,1)}
+.community-photo:hover .community-photo__image img{transform:scale(1.025)}
+.community-photo figcaption{display:grid;gap:5px;padding:13px 2px 0}
+.community-photo__event{font:700 9px/1.4 'Space Mono',monospace;letter-spacing:.08em;text-transform:uppercase;color:var(--orange)}
+.community-photo figcaption strong{font:600 16px/1.25 'DM Sans',sans-serif;letter-spacing:-.02em;color:var(--ink)}
+.community-photo__role{font-size:12px;color:var(--muted)}
+.community-photo figcaption a{width:max-content;margin-top:4px;font:700 10px/1.4 'Space Mono',monospace;letter-spacing:.035em;color:var(--ink);text-decoration:none;border-bottom:1px solid #222f3e45;padding-bottom:2px}
+.community-photo figcaption a:hover{color:var(--orange);border-color:var(--orange)}
+@media(max-width:700px){.community-gallery{grid-template-columns:1fr;gap:24px}.community-photo__image{aspect-ratio:1.42}.community-photo figcaption{gap:4px;padding-top:10px}.community-photo figcaption strong{font-size:17px}}
+@media(prefers-reduced-motion:reduce){.community-photo__image img{transition:none}}
