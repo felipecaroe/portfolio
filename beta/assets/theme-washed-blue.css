@@ -188,5 +188,5 @@ body:has(.voice-demo) .hero .eyebrow{color:var(--muted)}
 @media(max-width:700px){.community-gallery{grid-template-columns:1fr;gap:24px}.community-photo__image{aspect-ratio:1.42}.community-photo figcaption{gap:4px;padding-top:10px}.community-photo figcaption strong{font-size:17px}}
 @media(prefers-reduced-motion:reduce){.community-photo__image img{transition:none}}
 
-/* The Atlético source already carries its own shadow; avoid cropping a second one. */
-.work-card--atletico .work-image--device img{filter:none}
+/* Rebuild a clean, contained shadow around the Atlético shell. */
+.home-work .work-card--atletico .work-image--device img{height:100%;filter:drop-shadow(0 10px 10px rgba(34,47,62,.2))}
