@@ -590,3 +590,4 @@ video.site-background-video::-webkit-media-controls-enclosure{display:none!impor
 .work-image--luzia img{object-fit:contain;object-position:center;filter:drop-shadow(0 18px 24px rgba(34,47,62,.18))}
 .contact-details__cta{display:none;margin-top:20px}
 @media(max-width:700px){.page-hero--work{padding-top:42px;padding-bottom:34px}.page-hero--work h1{margin-top:16px}.contact-details__cta{display:inline-flex;min-height:50px}}
+h1,h2,h3,h4,h5,h6{text-wrap:pretty}
