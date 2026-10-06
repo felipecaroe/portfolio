@@ -1,0 +1,26 @@
+{
+  "ipiranga-home": {
+    "width": 2476,
+    "height": 3980,
+    "variants": [
+      800,
+      1400
+    ]
+  },
+  "ipiranga-route": {
+    "width": 1720,
+    "height": 3120,
+    "variants": [
+      800,
+      1400
+    ]
+  },
+  "ipiranga-store": {
+    "width": 1700,
+    "height": 3080,
+    "variants": [
+      800,
+      1400
+    ]
+  }
+}

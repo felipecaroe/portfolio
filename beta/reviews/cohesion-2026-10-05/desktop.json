@@ -1,0 +1,386 @@
+[
+  {
+    "path": "index.html",
+    "brokenImages": [],
+    "greenSurfaces": [],
+    "h1": "Senior AI product designer for your next project.",
+    "header": 81,
+    "overflow": false,
+    "styles": [
+      "assets/site.css?v=4422c483e5e6",
+      "assets/theme-washed-blue.css?v=05742b7388e5"
+    ],
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "path": "work.html",
+    "brokenImages": [],
+    "greenSurfaces": [],
+    "h1": "Thoughtful work for real-world complexity.",
+    "header": 81,
+    "overflow": false,
+    "styles": [
+      "assets/site.css?v=4422c483e5e6",
+      "assets/theme-washed-blue.css?v=05742b7388e5"
+    ],
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "path": "services.html",
+    "brokenImages": [],
+    "greenSurfaces": [],
+    "h1": "Extra design capacity. Senior from day one.",
+    "header": 81,
+    "overflow": false,
+    "styles": [
+      "assets/site.css?v=4422c483e5e6",
+      "assets/theme-washed-blue.css?v=05742b7388e5"
+    ],
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "path": "leadership.html",
+    "brokenImages": [],
+    "greenSurfaces": [],
+    "h1": "Design leader by experience.Designer by practice.",
+    "header": 81,
+    "overflow": false,
+    "styles": [
+      "assets/site.css?v=4422c483e5e6",
+      "assets/theme-washed-blue.css?v=05742b7388e5"
+    ],
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "path": "contact.html",
+    "brokenImages": [],
+    "greenSurfaces": [],
+    "h1": "What are you looking to move forward?",
+    "header": 81,
+    "overflow": false,
+    "styles": [
+      "assets/site.css?v=4422c483e5e6",
+      "assets/theme-washed-blue.css?v=05742b7388e5"
+    ],
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "path": "resume.html",
+    "brokenImages": [],
+    "greenSurfaces": [],
+    "h1": "\n          Felipe Amorim\n          Senior AI product designer · UX/UI · Product strategy\n        ",
+    "header": 81,
+    "overflow": false,
+    "styles": [
+      "assets/site.css?v=4422c483e5e6",
+      "resume.css?v=7aba4e28e154",
+      "assets/theme-washed-blue.css?v=05742b7388e5"
+    ],
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "path": "services/ux-ui-brief.html",
+    "brokenImages": [],
+    "greenSurfaces": [],
+    "h1": "Move one important design decision forward.",
+    "header": 81,
+    "overflow": false,
+    "styles": [
+      "../assets/site.css?v=4422c483e5e6",
+      "../assets/theme-washed-blue.css?v=05742b7388e5"
+    ],
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "path": "services/monthly-design.html",
+    "brokenImages": [],
+    "greenSurfaces": [],
+    "h1": "A senior design partner for your busy months.",
+    "header": 81,
+    "overflow": false,
+    "styles": [
+      "../assets/site.css?v=4422c483e5e6",
+      "../assets/theme-washed-blue.css?v=05742b7388e5"
+    ],
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "path": "work/atletico-de-madrid.html",
+    "brokenImages": [],
+    "greenSurfaces": [],
+    "h1": "Bringing the fan journey into one app.",
+    "header": 81,
+    "overflow": false,
+    "styles": [
+      "../assets/site.css?v=4422c483e5e6",
+      "../assets/theme-washed-blue.css?v=05742b7388e5"
+    ],
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "path": "work/card-dynamics.html",
+    "brokenImages": [],
+    "greenSurfaces": [],
+    "h1": "Making financial flows feel navigable.",
+    "header": 81,
+    "overflow": false,
+    "styles": [
+      "../assets/site.css?v=4422c483e5e6",
+      "../assets/theme-washed-blue.css?v=05742b7388e5"
+    ],
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "path": "work/outback.html",
+    "brokenImages": [],
+    "greenSurfaces": [],
+    "h1": "A better dining journey, from first tap to table.",
+    "header": 81,
+    "overflow": false,
+    "styles": [
+      "../assets/site.css?v=4422c483e5e6",
+      "../assets/theme-washed-blue.css?v=05742b7388e5"
+    ],
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "path": "work/pizza-hut.html",
+    "brokenImages": [],
+    "greenSurfaces": [],
+    "h1": "Easing the wait between order and arrival.",
+    "header": 81,
+    "overflow": false,
+    "styles": [
+      "../assets/site.css?v=4422c483e5e6",
+      "../assets/theme-washed-blue.css?v=05742b7388e5"
+    ],
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "path": "work/invisipayment.html",
+    "brokenImages": [],
+    "greenSurfaces": [],
+    "h1": "A more human future for everyday payments.",
+    "header": 81,
+    "overflow": false,
+    "styles": [
+      "../assets/site.css?v=4422c483e5e6",
+      "../assets/theme-washed-blue.css?v=05742b7388e5"
+    ],
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "path": "work/ipiranga.html",
+    "brokenImages": [],
+    "greenSurfaces": [],
+    "h1": "A super app for everyday mobility.",
+    "header": 81,
+    "overflow": false,
+    "styles": [
+      "../assets/site.css?v=4422c483e5e6",
+      "../assets/case-compositions.css?v=07072b8752d3",
+      "../assets/theme-washed-blue.css?v=05742b7388e5"
+    ],
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "path": "work/raio.html",
+    "brokenImages": [],
+    "greenSurfaces": [],
+    "h1": "Benefits made easier to understand and use.",
+    "header": 81,
+    "overflow": false,
+    "styles": [
+      "../assets/site.css?v=4422c483e5e6",
+      "../assets/case-compositions.css?v=07072b8752d3",
+      "../assets/theme-washed-blue.css?v=05742b7388e5"
+    ],
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "path": "work/skateking.html",
+    "brokenImages": [],
+    "greenSurfaces": [],
+    "h1": "Find your next spot. Then go skate.",
+    "header": 81,
+    "overflow": false,
+    "styles": [
+      "../assets/site.css?v=4422c483e5e6",
+      "../assets/case-compositions.css?v=07072b8752d3",
+      "../assets/theme-washed-blue.css?v=05742b7388e5"
+    ],
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "path": "work/luzia-new-chat/",
+    "brokenImages": [],
+    "greenSurfaces": [],
+    "h1": "Make the first chat feel effortless.",
+    "header": 81,
+    "overflow": false,
+    "styles": [
+      "../../assets/site.css?v=4422c483e5e6",
+      "../../work/luzia-new-chat/assets/case.css?v=40d37275df28",
+      "../../assets/theme-washed-blue.css?v=05742b7388e5"
+    ],
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "path": "cases/impulse.html",
+    "brokenImages": [],
+    "greenSurfaces": [],
+    "h1": "Impulse Spend with more clarity.",
+    "header": 81,
+    "overflow": false,
+    "styles": [
+      "../assets/site.css?v=4422c483e5e6",
+      "../cases/impulse.css?v=4a6d80ec089f",
+      "../assets/theme-washed-blue.css?v=05742b7388e5"
+    ],
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "path": "cases/drafts/services-hub/",
+    "brokenImages": [],
+    "greenSurfaces": [],
+    "h1": "One home for everything the assistant does.",
+    "header": 81,
+    "overflow": false,
+    "styles": [
+      "../../../assets/site.css?v=4422c483e5e6",
+      "../../../cases/drafts/phone-shell.css?v=925d0e007c5a",
+      "../../../cases/drafts/services-hub/case.css?v=02dd114219e7",
+      "../../../assets/theme-washed-blue.css?v=05742b7388e5"
+    ],
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "path": "cases/drafts/enem/",
+    "brokenImages": [],
+    "greenSurfaces": [],
+    "h1": "Make a study habit out of the moment they already show up.",
+    "header": 81,
+    "overflow": false,
+    "styles": [
+      "../../../assets/site.css?v=4422c483e5e6",
+      "../../../cases/drafts/draft-case.css?v=bbb985d9ac9a",
+      "../../../cases/drafts/phone-shell.css?v=925d0e007c5a",
+      "../../../cases/drafts/enem/case.css?v=16f5c490402a",
+      "../../../assets/theme-washed-blue.css?v=05742b7388e5"
+    ],
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "path": "cases/drafts/webapp/",
+    "brokenImages": [],
+    "greenSurfaces": [],
+    "h1": "Give a mobile-first assistant a proper place on the web.",
+    "header": 81,
+    "overflow": false,
+    "styles": [
+      "../../../assets/site.css?v=4422c483e5e6",
+      "../../../cases/drafts/draft-case.css?v=bbb985d9ac9a",
+      "../../../cases/drafts/webapp/case.css?v=d4df85f8e149",
+      "../../../assets/theme-washed-blue.css?v=05742b7388e5"
+    ],
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "path": "cases/drafts/mi-mundo/",
+    "brokenImages": [],
+    "greenSurfaces": [],
+    "h1": "Say it out loud. Watch the idea take shape.",
+    "header": 81,
+    "overflow": false,
+    "styles": [
+      "../../../assets/site.css?v=4422c483e5e6",
+      "../../../cases/drafts/draft-case.css?v=bbb985d9ac9a",
+      "../../../cases/drafts/phone-shell.css?v=925d0e007c5a",
+      "../../../cases/drafts/mi-mundo/case.css?v=66206eee47fe",
+      "../../../assets/theme-washed-blue.css?v=05742b7388e5"
+    ],
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "path": "cases/drafts/",
+    "brokenImages": [],
+    "greenSurfaces": [],
+    "h1": "Case drafts",
+    "header": 81,
+    "overflow": false,
+    "styles": [
+      "../../assets/site.css?v=4422c483e5e6",
+      "../../assets/theme-washed-blue.css?v=05742b7388e5"
+    ],
+    "viewport": [
+      1440,
+      900
+    ]
+  }
+]

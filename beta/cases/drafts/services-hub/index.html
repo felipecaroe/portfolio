@@ -1,70 +1,66 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="robots" content="noindex, nofollow, noarchive">
-  <meta name="theme-color" content="#f3f6fa">
-  <title>One home for the assistant’s services</title>
-  <link rel="stylesheet" href="../../../assets/site.css">
-  <style>
-    :root{--paper:#f5f8fc;--ink:#222f3e;--muted:#6b7786;--line:#c8d6e5;--orange:#ee5253;--dark:#222f3e;--white:#fff;--case-stage:#e8eff7}
-    body{background:var(--paper);color:var(--ink)}
-    .site-header{background:rgba(245,248,252,.86);border-color:rgba(34,47,62,.12)}
-    .accent{color:#ee5253}
-    .eyebrow:before{background:#ee5253}
-    .case-cover{display:grid;place-items:center;aspect-ratio:auto;min-height:0;overflow:visible;background:transparent;border-radius:0}
-    .device-frame{--device-ratio:720/1602;position:relative;isolation:isolate;flex:none;width:auto;height:min(37vw,560px);aspect-ratio:var(--device-ratio);padding:5px;border:1px solid #4b5967;border-radius:clamp(27px,14%,36px)/clamp(27px,7%,36px);background:linear-gradient(115deg,#42505e,#101820 17%,#27333f 55%,#111820);box-shadow:0 22px 34px rgba(34,47,62,.22),inset 0 0 0 1px rgba(255,255,255,.2)}
-    .device-frame:before{position:absolute;z-index:2;right:-3px;top:25%;width:3px;height:10%;content:"";background:#4b5967;border-radius:0 3px 3px 0}
-    .device-screen{position:absolute;inset:5px;overflow:hidden;border-radius:clamp(22px,12.5%,32px)/clamp(22px,6.25%,32px);background:#fff}
-    .device-screen img{display:block;width:100%;height:100%;object-fit:contain;filter:none;position:static;max-height:none;max-width:none}
-    .case-cover{aspect-ratio:auto;min-height:0;overflow:visible;padding:clamp(20px,3vw,40px)}
-    .case-cover .device-frame{height:min(42vw,630px);max-height:630px}
-    .case-gallery--2 .case-gallery__item--one,.case-gallery--2 .case-gallery__item--two{display:grid;place-items:center;padding:clamp(22px,5vw,64px)}
-    .case-gallery .device-frame{height:min(34vw,480px);max-height:480px}
-    .ifood-intro{margin:0 0 20px;display:flex;align-items:center;gap:13px;font:11px/1.4 'Space Mono',monospace;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
-    .ifood-mark{font:700 18px/1 Arial,sans-serif;letter-spacing:-.06em;text-transform:none}
-    .ifood-mark span:first-child{color:#ee5253}.ifood-mark span:last-child{color:#36a875}
-    .case-gallery.ifood-gallery{grid-template-columns:repeat(3,minmax(0,1fr));grid-template-rows:auto;overflow:visible;padding-bottom:16px;background:transparent}
-    .ifood-gallery .case-gallery__item{grid-column:auto;grid-row:1;height:auto;min-height:0;margin:0;transform:none;align-self:stretch;justify-content:center;z-index:1}
-    .ifood-gallery .case-gallery__item:nth-child(n+3){grid-row:1}
-    @media(max-width:700px){.case-hero-grid .case-cover{order:-1;aspect-ratio:auto;min-height:0;padding:18px}.case-cover .device-frame{height:min(132vw,560px);max-height:560px}.case-gallery.ifood-gallery{grid-template-columns:1fr;grid-template-rows:none;grid-auto-rows:auto;gap:30px}.ifood-gallery .case-gallery__item{grid-column:1;grid-row:auto;height:auto;min-height:0}.ifood-gallery .case-gallery__item:nth-child(n+3){grid-row:auto}.case-gallery .device-frame{height:min(112vw,520px);max-height:520px}.case-gallery--2 .case-gallery__item{padding:24px}.case-gallery--2 .device-frame{height:min(118vw,550px)}}
-    .flow-caption{max-width:26ch}
-    .draft-note{margin:0 0 22px;padding:12px 16px;border-left:3px solid #ee5253;background:#f8fafd;color:#45515f;font-size:13px}
-    .case-gallery{background:transparent}.case-gallery-section{padding-top:clamp(42px,6vw,76px)}@media(max-width:700px){.case-gallery-section{padding-top:36px}}
-    .case-close{background:#222f3e;color:#f7f9fc}.case-close h2{color:#f7f9fc}
-    .case-close .case-back a{color:#dce7f2}
-  </style>
-<link rel="stylesheet" href="../phone-shell.css"></head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#f7f9fc">
+<title>Luzia · Services Hub | Felipe Amorim</title>
+<meta name="description" content="Luzia Services Hub: architecture for bookings, commerce and routines, with reusable generative UI and an iFood ordering experience in development.">
+<meta name="robots" content="noindex,follow,noarchive">
+<link rel="canonical" href="https://felipecaroe.github.io/portfolio/beta/cases/drafts/services-hub/">
+<link rel="icon" href="../../../img/favicon.ico">
+<link rel="stylesheet" href="../../../assets/site.css?v=0d868b28f5cb">
+<link rel="stylesheet" href="../../../cases/drafts/phone-shell.css?v=925d0e007c5a">
+<link rel="stylesheet" href="../../../cases/drafts/services-hub/case.css?v=02dd114219e7">
+<link rel="stylesheet" href="../../../assets/related-cases.css?v=5e6df2629321">
+<link rel="stylesheet" href="../../../assets/theme-washed-blue.css?v=c30fdc43e4d3">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Luzia · Services Hub | Felipe Amorim">
+<meta property="og:description" content="Luzia Services Hub: architecture for bookings, commerce and routines, with reusable generative UI and an iFood ordering experience in development.">
+<meta property="og:url" content="https://felipecaroe.github.io/portfolio/beta/cases/drafts/services-hub/">
+<meta property="og:image" content="https://felipecaroe.github.io/portfolio/beta/img/ogthumb.png">
+<meta property="og:image:alt" content="Felipe Amorim, senior AI product designer.">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">[{"@context": "https://schema.org", "@type": "Person", "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe", "name": "Felipe Amorim", "url": "https://felipecaroe.github.io/portfolio/beta/", "jobTitle": "Senior AI product designer", "homeLocation": {"@type": "Place", "name": "Madrid, Spain"}, "sameAs": ["https://www.linkedin.com/in/felipecaroe/", "https://www.behance.net/felipecaroe"]}, {"@context": "https://schema.org", "@type": "WebPage", "url": "https://felipecaroe.github.io/portfolio/beta/cases/drafts/services-hub/", "name": "Luzia · Services Hub | Felipe Amorim", "description": "Luzia Services Hub: architecture for bookings, commerce and routines, with reusable generative UI and an iFood ordering experience in development.", "author": {"@id": "https://felipecaroe.github.io/portfolio/beta/#felipe"}}]</script>
+</head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
 <header class="site-header"><div class="shell header-row">
-  <a class="brand" href="../../../index.html" aria-label="Felipe Amorim, home"><img class="brand-anchor" src="../../../img/anchor.svg" alt="">Felipe Amorim</a>
+  <a class="brand" href="../../../index.html" aria-label="Felipe Amorim, home"><img class="brand-anchor" src="../../../img/anchor.svg?v=e8b2e13e53a4" alt="">Felipe Amorim</a>
   <nav class="nav" aria-label="Main navigation"><a href="../../../work.html" aria-current="page">Work</a><a href="../../../services.html">Services</a><a href="../../../leadership.html">About</a><a href="../../../contact.html" class="nav-contact">Contact</a></nav>
 </div></header>
+
 <main id="main">
 <section class="case-hero"><div class="shell">
   <div class="bread"><a href="../../../work.html">Selected work</a> / Luzia · Services Hub</div>
-  
+
   <div class="case-hero-grid">
-    <div class="case-hero-copy"><div class="eyebrow">AI product · Service design · Generative UI</div><h1>One home for everything <span class="accent">the assistant does.</span></h1><p class="lead">A shared destination for bookings, shopping and ongoing routines, designed to make each capability easier to find and easier to extend.</p></div>
-    <div class="case-cover"><div class="device-frame"><div class="device-screen"><img src="../../source-kits/portfolio-cases/services-hub/01-all-services-lobby.png" alt="Services Hub, with service categories and assistant capabilities" fetchpriority="high"></div></div></div>
+    <div class="case-hero-copy"><div class="eyebrow">AI product · Service design · Generative UI</div><h1>One home for everything <span class="accent">the assistant does.</span></h1><p class="lead">Product architecture for bookings, commerce and routines, with reusable AI results and an iFood ordering experience in development.</p></div>
+    <div class="case-cover case-cover--shell"><span class="case-project-cue">Luzia · Services Hub</span><div class="device-frame" style="--screen-ratio:0.46182266"><div class="device-screen"><img src="../../source-kits/portfolio-cases/services-hub/01-all-services-lobby.png?v=22f415538915" alt="Services Hub, with service categories and assistant capabilities" fetchpriority="high"></div></div></div>
   </div>
-  <div class="case-facts"><div><span class="meta-label">Client</span><strong>Luzia</strong></div><div><span class="meta-label">My contribution</span><strong>Product design lead · Information architecture · Prototype</strong></div><div><span class="meta-label">Status</span><strong>Hub shipped · Partner work at different stages</strong></div></div>
+  <div class="case-facts"><div><span class="meta-label">Client</span><strong>Luzia</strong></div><div><span class="meta-label">My contribution</span><strong>Product design lead · Information architecture · Prototype</strong></div><div><span class="meta-label">Focus</span><strong>Bookings, commerce and routines inside chat</strong></div></div>
 </div></section>
-<section class="section section--line case-gallery-section"><div class="shell"><div class="case-gallery-heading"><div><div class="section-index">Inside the work</div><h2>One service area. Different jobs, clear next steps.</h2><p>From the hub, people can manage a booking, build a grocery basket and choose how it arrives. Each screen makes the next useful action visible.</p></div></div><div class="case-gallery case-gallery--2" role="group" aria-label="Services Hub screens"><figure class="case-gallery__item case-gallery__item--one"><div class="device-frame"><div class="device-screen"><img src="../../source-kits/portfolio-cases/services-hub/03-bookings-lobby.png" alt="Bookings grouped into active and completed requests, with clear reply states" loading="eager" fetchpriority="high"></div></div><figcaption><span>02</span><span>Bookings · see what needs a reply</span></figcaption></figure><figure class="case-gallery__item case-gallery__item--two"><div class="device-frame"><div class="device-screen"><img src="media/ifood-basket-ready.svg" alt="A grocery basket with product photos and editable quantities" loading="eager"></div></div><figcaption><span>03</span><span>Basket · review products and quantities</span></figcaption></figure></div></div></section>
-<section class="section section--line case-gallery-section"><div class="shell"><div class="case-gallery-heading"><div><div class="ifood-intro"><strong class="ifood-mark" aria-label="iFood"><span>i</span><span>Food</span></strong><span>Partner commerce · Brazil · In build</span></div><h2>Move from a useful list to a delivery choice.</h2><p>The assistant builds a product basket from the conversation, then keeps the delivery decision in the same task. This partner integration is still in build.</p></div></div><div class="case-gallery ifood-gallery" role="group" aria-label="iFood grocery ordering screens">
-<figure class="case-gallery__item"><div class="device-frame"><div class="device-screen"><img src="media/ifood-delivery-options.png" alt="Delivery timing choices, with personal address and prices removed" loading="eager" fetchpriority="high"></div></div><figcaption class="flow-caption"><span>04</span><span>Delivery · choose speed or schedule</span></figcaption></figure>
+<section class="section section--line case-gallery-section"><div class="shell"><div class="case-gallery-heading"><div><div class="section-index">Inside the work</div><h2>One service area. Different jobs, clear next steps.</h2><p>From the hub, people can manage a booking, build a grocery basket and choose how it arrives. Each screen makes the next useful action visible.</p></div></div><div class="case-gallery case-gallery--2" role="group" aria-label="Services Hub screens"><figure class="case-gallery__item case-gallery__item--one"><div class="device-frame" style="--screen-ratio:0.46182266"><div class="device-screen"><img src="../../source-kits/portfolio-cases/services-hub/03-bookings-lobby.png?v=99872b029ba6" alt="Bookings grouped into active and completed requests, with clear reply states" loading="eager" fetchpriority="high"></div></div><figcaption><span class="caption-index">02</span> · Bookings · see what needs a reply</figcaption></figure><figure class="case-gallery__item case-gallery__item--two"><div class="device-frame" style="--screen-ratio:0.45"><div class="device-screen"><img src="media/ifood-basket-ready.svg?v=4d24e88f1161" alt="A grocery basket with product photos and editable quantities" loading="eager"></div></div><figcaption><span class="caption-index">03</span> · Basket · review products and quantities</figcaption></figure></div></div></section>
+<section class="section section--line case-gallery-section"><div class="shell"><div class="case-gallery-heading"><div><div class="ifood-intro"><strong class="ifood-mark" aria-label="iFood"><span>i</span><span>Food</span></strong><span>Partner commerce · Brazil · In build</span></div><h2>Move from a useful list to a delivery choice.</h2><p>An authorised iFood connection can reuse an existing customer relationship, avoiding repeated setup. The conversation builds the basket; product quantities and delivery choices become structured review steps. I contributed to this shared partner work, which remains in development.</p></div></div><div class="case-gallery ifood-gallery" role="group" aria-label="iFood grocery ordering screens">
+<figure class="case-gallery__item"><div class="device-frame" style="--screen-ratio:0.44949225"><div class="device-screen"><img src="media/ifood-delivery-options.png?v=85daf9b4d135" alt="Delivery timing choices, with personal address and prices removed" loading="eager" fetchpriority="high"></div></div><figcaption class="flow-caption"><span>04</span><span>Delivery · choose speed or schedule</span></figcaption></figure>
 </div></div></section><section class="section section--tight"><div class="shell detail-layout"><div>
-  <div class="detail-block"><div class="section-index">The challenge</div><h2>Many capabilities. No shared place to find them.</h2><p>Bookings, shopping and ongoing services had grown across different parts of the assistant. The hub brings them together in a structure people can browse and return to.</p></div>
-  <div class="detail-block"><div class="section-index">My approach</div><h2>Give different jobs their own shape.</h2><p>Bookings, commerce and routines follow distinct patterns within one service area. This keeps one-off tasks separate from work that continues in the background, while giving partners a consistent place in the experience.</p></div>
-  <div class="detail-block"><div class="section-index">Generative UI</div><h2>Compose useful results from shared parts.</h2><p>Routine results use reusable content blocks, so a flight update, receipt or briefing can fit the task without becoming a new bespoke screen.</p></div>
+  <div class="detail-block"><div class="section-index">The challenge</div><h2>Useful capabilities were scattered across the assistant.</h2><p>Booking an appointment, watching a price and building a grocery basket each need a place to start and a place to return. The hub brings those capabilities together, with pending work visible and distinct actions for requests that need a response and routines that continue in the background.</p></div>
+  <div class="detail-block"><div class="section-index">My approach</div><h2>Three service patterns. One partner foundation.</h2><p>I led the information architecture, screen design and clickable prototype around bookings, commerce and routines. Each has its own interaction pattern within a reusable service foundation. Intent-led entry points keep the task recognisable, while partner-specific configuration supports different providers. Engineering built the production implementation.</p></div>
+  <div class="detail-block"><div class="section-index">Generative UI</div><h2>Design a vocabulary the assistant can compose.</h2><p>I defined reusable, schema-backed result blocks for prices, flight options, receipts and briefings. The model can assemble an appropriate result from known parts; the interface gives each part a clear hierarchy and action. This provides a consistent design foundation for capabilities that would otherwise need separate bespoke screens.</p></div>
 </div><aside class="detail-aside"><div class="meta-label">Project at a glance</div><div class="fact"><span>Discipline</span><strong>Product design · Information architecture</strong></div><div class="fact"><span>Focus</span><strong>Agentic commerce · Routines · Generative UI</strong></div><div class="fact"><span>Delivery</span><strong>Hub shipped; selected partner example in progress</strong></div><div class="case-tags"><span>AI product</span><span>Service design</span><span>Design systems</span></div></aside></div></section>
 
-<section class="section section--tight"><div class="shell"><div class="detail-block"><div class="section-index">Design decision</div><h2>Let a service earn its next layer.</h2><p>A category with a single available task takes people straight to it. A second level appears when there is enough to browse, so navigation earns its place instead of adding a stop.</p></div></div></section>
-<section class="case-close section"><div class="shell case-close__inner"><div class="case-close__proof"><div class="section-index">Next client brief</div><h2>Need senior design capacity for a complex product?</h2></div><a class="button button--glass" href="../../../contact.html?service=agency">Discuss an agency brief <span aria-hidden="true">↗</span></a></div><div class="shell case-back"><a href="../../../work.html">← Back to selected work</a></div></section>
+<section class="section section--tight"><div class="shell"><div class="detail-block"><div class="section-index">Design decision</div><h2>Use conversation to build. Structure to commit.</h2><p>Natural language is useful for describing a basket. Reviewing products, quantities, delivery and payment needs explicit choices. I kept those steps structured so a misunderstood request can be corrected before commitment. Within the hub, a category with one task opens directly; a browsing level appears only when there are several choices.</p></div></div></section>
+<section class="related-work" aria-label="Related work"><div class="shell"><div class="related-work__heading"><div class="section-index">Related work</div><p>Explore how chat, discovery and a wider service ecosystem can work as one product.</p></div><div class="related-work__grid"><a class="related-case" href="../../../work/luzia-new-chat/"><span class="related-case__visual"><img class="related-case__mockup" src="../../../work/luzia-new-chat/assets/first-entrance.png?v=19103ac77ce6" alt="" loading="lazy" decoding="async"></span><span class="related-case__copy"><span class="related-case__reason">AI · Conversation</span><strong>Luzia · New chat</strong><span class="related-case__description">Chat-first entry, with the composer and thread history redesigned.</span><span class="related-case__link">Explore case <svg class="arrow-icon" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M4 12 12 4M5 4h7v7"/></svg></span></span></a><a class="related-case" href="../webapp/"><span class="related-case__visual"><span class="related-tablet"><span class="related-tablet__screen"><img src="../../../cases/source-kits/portfolio-cases/webapp/01-home-dark.png?v=ce4b7ac79cd9" alt="" loading="lazy" decoding="async"></span></span></span><span class="related-case__copy"><span class="related-case__reason">AI · Web product</span><strong>Luzia · Web app</strong><span class="related-case__description">A responsive assistant built for keyboard, browsing and reading.</span><span class="related-case__link">Explore case <svg class="arrow-icon" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M4 12 12 4M5 4h7v7"/></svg></span></span></a><a class="related-case" href="../../../work/ipiranga.html"><span class="related-case__visual"><img class="related-case__mockup" src="../../../work/ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959" alt="" loading="lazy" decoding="async"></span><span class="related-case__copy"><span class="related-case__reason">Mobile · Super app</span><strong>Ipiranga</strong><span class="related-case__description">Routes, station discovery and rewards in one mobility product.</span><span class="related-case__link">Explore case <svg class="arrow-icon" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M4 12 12 4M5 4h7v7"/></svg></span></span></a></div></div></section><section class="case-close section"><div class="shell case-close__inner"><div class="case-close__proof"><div class="section-index">Next client brief</div><h2>Turning AI capabilities into a service people can use?</h2></div><a class="button button--glass" href="../../../contact.html?service=agency">Discuss an agency brief <span aria-hidden="true"><svg class="arrow-icon" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M4 12 12 4M5 4h7v7"/></svg></span></a></div><div class="shell case-back"><a href="../../../work.html">← Back to selected work</a></div></section>
 </main>
-<footer class="site-footer"><div class="shell"><div class="footer-bottom"><span class="footer-signature"><img src="../../../img/anchor_w.svg" alt=""><span>© 2026 Felipe Amorim · Madrid, Spain</span></span></div></div></footer>
-<script src="../../../assets/site.js" defer></script>
+<footer class="site-footer"><div class="shell">
+
+  <div class="footer-bottom"><span class="footer-signature"><img src="../../../img/anchor_w.svg?v=4729027115ee" alt=""><span>© 2026 Felipe Amorim · Madrid, Spain</span></span><nav class="footer-socials" aria-label="Contact and social links">
+    <a href="mailto:felipie@gmail.com"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg><span>Email</span></a>
+    <a href="https://www.linkedin.com/in/felipecaroe/" rel="me"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-4 0v7h-4v-7a6 6 0 0 1 6-6Z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg><span>LinkedIn</span></a>
+    <a href="https://www.behance.net/felipecaroe" rel="me"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 3h6v6M10 14 21 3"/><path d="M19 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h6"/></svg><span>Behance</span></a>
+  </nav></div>
+</div></footer>
+
+<script src="../../../assets/site.js?v=3964ff7b0ebc" defer></script>
 </body>
 </html>

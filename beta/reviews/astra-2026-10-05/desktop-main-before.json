@@ -1,0 +1,249 @@
+[
+  {
+    "heading": "Senior AI product designer for your next project.",
+    "headingTop": 265.9921875,
+    "height": 6068,
+    "images": [
+      {
+        "display": [
+          568,
+          830
+        ],
+        "natural": [
+          598,
+          768
+        ],
+        "src": "img/felipe.png?v=33c8b9fc9804",
+        "top": 81
+      },
+      {
+        "display": [
+          25,
+          32
+        ],
+        "natural": [
+          168,
+          215
+        ],
+        "src": "img/logo_atletico_white.svg?v=d17c844425e5",
+        "top": 971
+      },
+      {
+        "display": [
+          34,
+          32
+        ],
+        "natural": [
+          38,
+          33
+        ],
+        "src": "img/logo_cd.svg?v=6faebbb996f7",
+        "top": 971
+      },
+      {
+        "display": [
+          152,
+          42
+        ],
+        "natural": [
+          76,
+          21
+        ],
+        "src": "img/logo_out.svg?v=652756376c55",
+        "top": 966
+      }
+    ],
+    "overflow": false,
+    "path": "/beta/index.html",
+    "viewport": [
+      1440,
+      727
+    ],
+    "workTop": 1415.1484375
+  },
+  {
+    "heading": "Thoughtful work for real-world complexity.",
+    "headingTop": 202.796875,
+    "height": 6522,
+    "images": [
+      {
+        "display": [
+          212,
+          437
+        ],
+        "natural": [
+          417,
+          881
+        ],
+        "src": "work/luzia-new-chat/assets/first-entrance-shell.png?v=e355717a6546",
+        "top": 757
+      },
+      {
+        "display": [
+          272,
+          498
+        ],
+        "natural": [
+          542,
+          993
+        ],
+        "src": "img/parallax-3.png?v=a457816cec26",
+        "top": 742
+      },
+      {
+        "display": [
+          190,
+          422
+        ],
+        "natural": [
+          720,
+          1600
+        ],
+        "src": "cases/drafts/services-hub/media/ifood-basket-ready.svg?v=4d24e88f1161",
+        "top": 1415
+      },
+      {
+        "display": [
+          211,
+          435
+        ],
+        "natural": [
+          1109,
+          2283
+        ],
+        "src": "img/home_pizza.png?v=bce950a0939f",
+        "top": 1408
+      }
+    ],
+    "overflow": false,
+    "path": "/beta/work.html",
+    "viewport": [
+      1440,
+      727
+    ],
+    "workTop": 724.234375
+  },
+  {
+    "heading": "Extra design capacity. Senior from day one.",
+    "headingTop": 255.9921875,
+    "height": 4387,
+    "images": [],
+    "overflow": false,
+    "path": "/beta/services.html",
+    "viewport": [
+      1440,
+      727
+    ]
+  },
+  {
+    "contactTop": 868.3671875,
+    "formTop": 225,
+    "heading": "What are you looking to move forward?",
+    "headingTop": 240.3984375,
+    "height": 1873,
+    "images": [],
+    "overflow": false,
+    "path": "/beta/contact.html",
+    "viewport": [
+      1440,
+      727
+    ]
+  },
+  {
+    "heading": "Design leader by experience.\nDesigner by practice.",
+    "headingTop": 255.9921875,
+    "height": 6393,
+    "images": [
+      {
+        "display": [
+          411,
+          308
+        ],
+        "natural": [
+          1152,
+          1536
+        ],
+        "src": "img/community/madux-lightning-talks.jpg?v=13fcf3b64489",
+        "top": 1696
+      },
+      {
+        "display": [
+          411,
+          308
+        ],
+        "natural": [
+          582,
+          438
+        ],
+        "src": "img/community/ixdf-masterclass.jpg?v=5e4dc54f0357",
+        "top": 1696
+      },
+      {
+        "display": [
+          411,
+          308
+        ],
+        "natural": [
+          1152,
+          1536
+        ],
+        "src": "img/community/uxdx-roundtable.jpg?v=b84357d5d6f6",
+        "top": 1696
+      },
+      {
+        "display": [
+          438,
+          210
+        ],
+        "natural": [
+          0,
+          0
+        ],
+        "src": "img/image-10.png?v=f72415ca0179",
+        "top": 3188
+      }
+    ],
+    "overflow": false,
+    "path": "/beta/leadership.html",
+    "viewport": [
+      1440,
+      727
+    ]
+  },
+  {
+    "heading": "Felipe Amorim\n\nSenior AI product designer · UX/UI · Product strategy",
+    "headingTop": 200.3984375,
+    "height": 4154,
+    "images": [],
+    "overflow": false,
+    "path": "/beta/resume.html",
+    "viewport": [
+      1440,
+      727
+    ]
+  },
+  {
+    "heading": "Move one important design decision forward.",
+    "headingTop": 298.9921875,
+    "height": 3268,
+    "images": [],
+    "overflow": false,
+    "path": "/beta/services/ux-ui-brief.html",
+    "viewport": [
+      1440,
+      727
+    ]
+  },
+  {
+    "heading": "A senior design partner for your busy months.",
+    "headingTop": 298.9921875,
+    "height": 3161,
+    "images": [],
+    "overflow": false,
+    "path": "/beta/services/monthly-design.html",
+    "viewport": [
+      1440,
+      727
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "skateking-iphone-01": {
+    "width": 1480,
+    "height": 2739,
+    "variants": [
+      800,
+      1400
+    ]
+  },
+  "skateking-iphone-confirmation": {
+    "width": 1480,
+    "height": 2740,
+    "variants": [
+      800,
+      1400
+    ]
+  },
+  "skateking-iphone-map-with-hand": {
+    "width": 1852,
+    "height": 2908,
+    "variants": [
+      800,
+      1400
+    ]
+  },
+  "skateking-screen-create-account": {
+    "width": 680,
+    "height": 1367,
+    "variants": []
+  },
+  "skateking-screen-avatar": {
+    "width": 680,
+    "height": 1367,
+    "variants": []
+  },
+  "skateking-screen-style": {
+    "width": 680,
+    "height": 1367,
+    "variants": []
+  }
+}

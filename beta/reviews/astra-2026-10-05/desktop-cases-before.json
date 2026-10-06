@@ -1,0 +1,1299 @@
+[
+  {
+    "firstScreenTop": 153,
+    "heading": "Make the first chat feel effortless.",
+    "height": 9485,
+    "images": [
+      {
+        "display": [
+          268,
+          567
+        ],
+        "fit": "contain",
+        "natural": [
+          417,
+          881
+        ],
+        "src": "assets/first-entrance-shell.png?v=e355717a6546",
+        "top": 153
+      },
+      {
+        "display": [
+          227,
+          480
+        ],
+        "fit": "contain",
+        "natural": [
+          465,
+          900
+        ],
+        "src": "assets/first-entrance.png?v=19103ac77ce6",
+        "top": 5786
+      },
+      {
+        "display": [
+          227,
+          480
+        ],
+        "fit": "contain",
+        "natural": [
+          465,
+          900
+        ],
+        "src": "assets/chat-keyboard.png?v=a1fbe56ab2bf",
+        "top": 5786
+      },
+      {
+        "display": [
+          227,
+          480
+        ],
+        "fit": "contain",
+        "natural": [
+          465,
+          900
+        ],
+        "src": "assets/drawer-open.png?v=b64709fa1eaf",
+        "top": 5786
+      },
+      {
+        "display": [
+          37,
+          88
+        ],
+        "fit": "cover",
+        "natural": [
+          0,
+          0
+        ],
+        "src": "../../cases/drafts/enem/media/app-captures/00-entry.png?v=42da15302c4c",
+        "top": 8755
+      },
+      {
+        "display": [
+          37,
+          88
+        ],
+        "fit": "cover",
+        "natural": [
+          720,
+          1600
+        ],
+        "src": "../../cases/drafts/services-hub/media/ifood-basket-ready.svg?v=4d24e88f1161",
+        "top": 8755
+      },
+      {
+        "display": [
+          99,
+          64
+        ],
+        "fit": "cover",
+        "natural": [
+          0,
+          0
+        ],
+        "src": "../../cases/source-kits/portfolio-cases/webapp/01-home-dark.png?v=ce4b7ac79cd9",
+        "top": 8767
+      }
+    ],
+    "overflow": false,
+    "path": "/beta/work/luzia-new-chat/",
+    "words": 1048
+  },
+  {
+    "firstScreenTop": 135,
+    "heading": "Bringing the fan journey into one app.",
+    "height": 3869,
+    "images": [
+      {
+        "display": [
+          324,
+          593
+        ],
+        "fit": "contain",
+        "natural": [
+          542,
+          993
+        ],
+        "src": "../img/parallax-3.png?v=a457816cec26",
+        "top": 135
+      },
+      {
+        "display": [
+          301,
+          551
+        ],
+        "fit": "contain",
+        "natural": [
+          542,
+          993
+        ],
+        "src": "../img/parallax-3.png?v=a457816cec26",
+        "top": 2003
+      },
+      {
+        "display": [
+          46,
+          94
+        ],
+        "fit": "contain",
+        "natural": [
+          1109,
+          2283
+        ],
+        "src": "../img/home_pizza.png?v=bce950a0939f",
+        "top": 3106
+      },
+      {
+        "display": [
+          0,
+          94
+        ],
+        "fit": "contain",
+        "natural": [
+          0,
+          0
+        ],
+        "src": "../img/parallax-4.png?v=93c3b1758288",
+        "top": 3106
+      },
+      {
+        "display": [
+          46,
+          94
+        ],
+        "fit": "contain",
+        "natural": [
+          1109,
+          2283
+        ],
+        "src": "../img/card_dynamics/1.png?v=feec49075d9c",
+        "top": 3106
+      }
+    ],
+    "overflow": false,
+    "path": "/beta/work/atletico-de-madrid.html",
+    "words": 372
+  },
+  {
+    "firstScreenTop": 181,
+    "heading": "One home for everything the assistant does.",
+    "height": 5916,
+    "images": [
+      {
+        "display": [
+          272,
+          588
+        ],
+        "fit": "contain",
+        "natural": [
+          375,
+          812
+        ],
+        "src": "../../source-kits/portfolio-cases/services-hub/01-all-services-lobby.png?v=22f415538915",
+        "top": 181
+      },
+      {
+        "display": [
+          225,
+          488
+        ],
+        "fit": "contain",
+        "natural": [
+          375,
+          812
+        ],
+        "src": "../../source-kits/portfolio-cases/services-hub/03-bookings-lobby.png?v=99872b029ba6",
+        "top": 1521
+      },
+      {
+        "display": [
+          220,
+          488
+        ],
+        "fit": "contain",
+        "natural": [
+          720,
+          1600
+        ],
+        "src": "media/ifood-basket-ready.svg?v=4d24e88f1161",
+        "top": 1521
+      },
+      {
+        "display": [
+          219,
+          488
+        ],
+        "fit": "contain",
+        "natural": [
+          841,
+          1871
+        ],
+        "src": "media/ifood-delivery-options.png?v=85daf9b4d135",
+        "top": 2700
+      },
+      {
+        "display": [
+          48,
+          94
+        ],
+        "fit": "contain",
+        "natural": [
+          465,
+          900
+        ],
+        "src": "../../../work/luzia-new-chat/assets/first-entrance.png?v=19103ac77ce6",
+        "top": 5153
+      },
+      {
+        "display": [
+          99,
+          64
+        ],
+        "fit": "cover",
+        "natural": [
+          0,
+          0
+        ],
+        "src": "../../../cases/source-kits/portfolio-cases/webapp/01-home-dark.png?v=ce4b7ac79cd9",
+        "top": 5168
+      },
+      {
+        "display": [
+          0,
+          94
+        ],
+        "fit": "contain",
+        "natural": [
+          0,
+          0
+        ],
+        "src": "../../../work/ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "top": 5153
+      }
+    ],
+    "overflow": false,
+    "path": "/beta/cases/drafts/services-hub/",
+    "words": 521
+  },
+  {
+    "firstScreenTop": 144,
+    "heading": "Easing the wait between order and arrival.",
+    "height": 3935,
+    "images": [
+      {
+        "display": [
+          288,
+          593
+        ],
+        "fit": "contain",
+        "natural": [
+          1109,
+          2283
+        ],
+        "src": "../img/home_pizza.png?v=bce950a0939f",
+        "top": 144
+      },
+      {
+        "display": [
+          0,
+          94
+        ],
+        "fit": "contain",
+        "natural": [
+          0,
+          0
+        ],
+        "src": "../img/parallax-4.png?v=93c3b1758288",
+        "top": 3172
+      },
+      {
+        "display": [
+          51,
+          94
+        ],
+        "fit": "contain",
+        "natural": [
+          542,
+          993
+        ],
+        "src": "../img/parallax-3.png?v=a457816cec26",
+        "top": 3172
+      },
+      {
+        "display": [
+          0,
+          94
+        ],
+        "fit": "contain",
+        "natural": [
+          0,
+          0
+        ],
+        "src": "../work/ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "top": 3172
+      }
+    ],
+    "overflow": false,
+    "path": "/beta/work/pizza-hut.html",
+    "words": 351
+  },
+  {
+    "firstScreenTop": 165,
+    "heading": "Make a study habit out of the moment they already show up.",
+    "height": 5245,
+    "images": [
+      {
+        "display": [
+          272,
+          588
+        ],
+        "fit": "contain",
+        "natural": [
+          1170,
+          2532
+        ],
+        "src": "media/app-captures/00-entry.png?v=42da15302c4c",
+        "top": 165
+      },
+      {
+        "display": [
+          225,
+          488
+        ],
+        "fit": "contain",
+        "natural": [
+          1170,
+          2532
+        ],
+        "src": "media/app-captures/01-study-mode.png?v=98692340b81a",
+        "top": 1357
+      },
+      {
+        "display": [
+          225,
+          488
+        ],
+        "fit": "contain",
+        "natural": [
+          1170,
+          2532
+        ],
+        "src": "media/app-captures/03-lesson.png?v=b1b7465e53cf",
+        "top": 1357
+      },
+      {
+        "display": [
+          225,
+          488
+        ],
+        "fit": "contain",
+        "natural": [
+          1170,
+          2532
+        ],
+        "src": "media/app-captures/04-question.png?v=8e42fbd2b5ec",
+        "top": 1998
+      },
+      {
+        "display": [
+          225,
+          488
+        ],
+        "fit": "contain",
+        "natural": [
+          0,
+          0
+        ],
+        "src": "media/app-captures/05-hint.png?v=3da8e1b553be",
+        "top": 2006
+      },
+      {
+        "display": [
+          225,
+          488
+        ],
+        "fit": "contain",
+        "natural": [
+          0,
+          0
+        ],
+        "src": "media/app-captures/06-explanation.png?v=91b4e5c5531a",
+        "top": 2655
+      },
+      {
+        "display": [
+          225,
+          488
+        ],
+        "fit": "contain",
+        "natural": [
+          0,
+          0
+        ],
+        "src": "media/app-captures/07-history.png?v=259cecb26274",
+        "top": 2655
+      },
+      {
+        "display": [
+          48,
+          94
+        ],
+        "fit": "contain",
+        "natural": [
+          465,
+          900
+        ],
+        "src": "../../../work/luzia-new-chat/assets/first-entrance.png?v=19103ac77ce6",
+        "top": 4482
+      }
+    ],
+    "overflow": false,
+    "path": "/beta/cases/drafts/enem/",
+    "words": 428
+  },
+  {
+    "firstScreenTop": 135,
+    "heading": "Making financial flows feel navigable.",
+    "height": 3930,
+    "images": [
+      {
+        "display": [
+          288,
+          593
+        ],
+        "fit": "contain",
+        "natural": [
+          1109,
+          2283
+        ],
+        "src": "../img/card_dynamics/1.png?v=feec49075d9c",
+        "top": 135
+      },
+      {
+        "display": [
+          240,
+          493
+        ],
+        "fit": "contain",
+        "natural": [
+          1109,
+          2283
+        ],
+        "src": "../img/card_dynamics/1.png?v=feec49075d9c",
+        "top": 2099
+      },
+      {
+        "display": [
+          51,
+          94
+        ],
+        "fit": "contain",
+        "natural": [
+          542,
+          993
+        ],
+        "src": "../img/parallax-3.png?v=a457816cec26",
+        "top": 3167
+      },
+      {
+        "display": [
+          0,
+          94
+        ],
+        "fit": "contain",
+        "natural": [
+          0,
+          0
+        ],
+        "src": "../work/ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "top": 3167
+      },
+      {
+        "display": [
+          0,
+          94
+        ],
+        "fit": "contain",
+        "natural": [
+          0,
+          0
+        ],
+        "src": "../work/raio/assets/mockups/raio-iphone-benefits.webp?v=91e67edeb23a",
+        "top": 3167
+      }
+    ],
+    "overflow": false,
+    "path": "/beta/work/card-dynamics.html",
+    "words": 379
+  },
+  {
+    "firstScreenTop": 135,
+    "heading": "A better dining journey, from first tap to table.",
+    "height": 3917,
+    "images": [
+      {
+        "display": [
+          327,
+          593
+        ],
+        "fit": "contain",
+        "natural": [
+          541,
+          980
+        ],
+        "src": "../img/parallax-4.png?v=93c3b1758288",
+        "top": 135
+      },
+      {
+        "display": [
+          304,
+          551
+        ],
+        "fit": "contain",
+        "natural": [
+          541,
+          980
+        ],
+        "src": "../img/parallax-4.png?v=93c3b1758288",
+        "top": 2051
+      },
+      {
+        "display": [
+          46,
+          94
+        ],
+        "fit": "contain",
+        "natural": [
+          1109,
+          2283
+        ],
+        "src": "../img/home_pizza.png?v=bce950a0939f",
+        "top": 3154
+      },
+      {
+        "display": [
+          51,
+          94
+        ],
+        "fit": "contain",
+        "natural": [
+          542,
+          993
+        ],
+        "src": "../img/parallax-3.png?v=a457816cec26",
+        "top": 3154
+      },
+      {
+        "display": [
+          0,
+          94
+        ],
+        "fit": "contain",
+        "natural": [
+          0,
+          0
+        ],
+        "src": "../work/ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "top": 3154
+      }
+    ],
+    "overflow": false,
+    "path": "/beta/work/outback.html",
+    "words": 375
+  },
+  {
+    "firstScreenTop": 181,
+    "heading": "Give a mobile-first assistant a proper place on the web.",
+    "height": 4592,
+    "images": [
+      {
+        "display": [
+          590,
+          359
+        ],
+        "fit": "contain",
+        "natural": [
+          2880,
+          1800
+        ],
+        "src": "../../source-kits/portfolio-cases/webapp/01-home-dark.png?v=ce4b7ac79cd9",
+        "top": 181
+      },
+      {
+        "display": [
+          970,
+          597
+        ],
+        "fit": "contain",
+        "natural": [
+          2880,
+          1800
+        ],
+        "src": "../../source-kits/portfolio-cases/webapp/02-ideas.png?v=b6850bde90eb",
+        "top": 1131
+      },
+      {
+        "display": [
+          970,
+          597
+        ],
+        "fit": "contain",
+        "natural": [
+          2880,
+          1800
+        ],
+        "src": "../../source-kits/portfolio-cases/webapp/03-tools.png?v=73f384abd1ba",
+        "top": 1881
+      },
+      {
+        "display": [
+          48,
+          94
+        ],
+        "fit": "contain",
+        "natural": [
+          465,
+          900
+        ],
+        "src": "../../../work/luzia-new-chat/assets/first-entrance.png?v=19103ac77ce6",
+        "top": 3755
+      },
+      {
+        "display": [
+          37,
+          88
+        ],
+        "fit": "cover",
+        "natural": [
+          720,
+          1600
+        ],
+        "src": "../../../cases/drafts/services-hub/media/ifood-basket-ready.svg?v=4d24e88f1161",
+        "top": 3757
+      },
+      {
+        "display": [
+          37,
+          88
+        ],
+        "fit": "cover",
+        "natural": [
+          0,
+          0
+        ],
+        "src": "../../../cases/drafts/mi-mundo/media/06-reveal.png?v=4d54f42bd8c7",
+        "top": 3757
+      }
+    ],
+    "overflow": false,
+    "path": "/beta/cases/drafts/webapp/",
+    "words": 386
+  },
+  {
+    "firstScreenTop": 165,
+    "heading": "Say it out loud. Watch the idea take shape.",
+    "height": 4690,
+    "images": [
+      {
+        "display": [
+          265,
+          588
+        ],
+        "fit": "contain",
+        "natural": [
+          720,
+          1600
+        ],
+        "src": "media/06-reveal.png?v=4d54f42bd8c7",
+        "top": 165
+      },
+      {
+        "display": [
+          220,
+          488
+        ],
+        "fit": "contain",
+        "natural": [
+          720,
+          1600
+        ],
+        "src": "media/02-dump.png?v=c66eaa98f670",
+        "top": 1357
+      },
+      {
+        "display": [
+          220,
+          488
+        ],
+        "fit": "contain",
+        "natural": [
+          720,
+          1600
+        ],
+        "src": "media/03-understood.png?v=c146d7574f35",
+        "top": 1357
+      },
+      {
+        "display": [
+          220,
+          488
+        ],
+        "fit": "contain",
+        "natural": [
+          0,
+          0
+        ],
+        "src": "media/04-vibe.png?v=67de23eab7e2",
+        "top": 2013
+      },
+      {
+        "display": [
+          220,
+          488
+        ],
+        "fit": "contain",
+        "natural": [
+          720,
+          1600
+        ],
+        "src": "media/06-reveal.png?v=4d54f42bd8c7",
+        "top": 2021
+      },
+      {
+        "display": [
+          48,
+          94
+        ],
+        "fit": "contain",
+        "natural": [
+          465,
+          900
+        ],
+        "src": "../../../work/luzia-new-chat/assets/first-entrance.png?v=19103ac77ce6",
+        "top": 3928
+      },
+      {
+        "display": [
+          37,
+          88
+        ],
+        "fit": "cover",
+        "natural": [
+          1170,
+          2532
+        ],
+        "src": "../../../cases/drafts/enem/media/app-captures/00-entry.png?v=42da15302c4c",
+        "top": 3930
+      },
+      {
+        "display": [
+          37,
+          88
+        ],
+        "fit": "cover",
+        "natural": [
+          720,
+          1600
+        ],
+        "src": "../../../cases/drafts/services-hub/media/ifood-basket-ready.svg?v=4d24e88f1161",
+        "top": 3930
+      }
+    ],
+    "overflow": false,
+    "path": "/beta/cases/drafts/mi-mundo/",
+    "words": 423
+  },
+  {
+    "firstScreenTop": 161,
+    "heading": "A super app for everyday mobility.",
+    "height": 3457,
+    "images": [
+      {
+        "display": [
+          341,
+          498
+        ],
+        "fit": "fill",
+        "natural": [
+          360,
+          653
+        ],
+        "src": "ipiranga/assets/mockups/ipiranga-route.webp?v=0f64b6517410",
+        "top": 161
+      },
+      {
+        "display": [
+          341,
+          498
+        ],
+        "fit": "fill",
+        "natural": [
+          360,
+          652
+        ],
+        "src": "ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "top": 161
+      },
+      {
+        "display": [
+          340,
+          547
+        ],
+        "fit": "fill",
+        "natural": [
+          360,
+          578
+        ],
+        "src": "ipiranga/assets/mockups/ipiranga-home.webp?v=3c78530a60f0",
+        "top": 95
+      },
+      {
+        "display": [
+          485,
+          650
+        ],
+        "fit": "contain",
+        "natural": [
+          479,
+          870
+        ],
+        "src": "ipiranga/assets/mockups/ipiranga-route.webp?v=0f64b6517410",
+        "top": 1188
+      },
+      {
+        "display": [
+          485,
+          650
+        ],
+        "fit": "contain",
+        "natural": [
+          479,
+          869
+        ],
+        "src": "ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "top": 1188
+      },
+      {
+        "display": [
+          0,
+          94
+        ],
+        "fit": "contain",
+        "natural": [
+          0,
+          0
+        ],
+        "src": "../work/raio/assets/mockups/raio-iphone-benefits.webp?v=91e67edeb23a",
+        "top": 2694
+      },
+      {
+        "display": [
+          52,
+          94
+        ],
+        "fit": "contain",
+        "natural": [
+          541,
+          980
+        ],
+        "src": "../img/parallax-4.png?v=93c3b1758288",
+        "top": 2694
+      },
+      {
+        "display": [
+          46,
+          94
+        ],
+        "fit": "contain",
+        "natural": [
+          1109,
+          2283
+        ],
+        "src": "../img/card_dynamics/1.png?v=feec49075d9c",
+        "top": 2694
+      }
+    ],
+    "overflow": false,
+    "path": "/beta/work/ipiranga.html",
+    "words": 325
+  },
+  {
+    "firstScreenTop": 116,
+    "heading": "Benefits made easier to understand and use.",
+    "height": 3109,
+    "images": [
+      {
+        "display": [
+          695,
+          538
+        ],
+        "fit": "fill",
+        "natural": [
+          670,
+          503
+        ],
+        "src": "raio/assets/mockups/raio-phones-trio.webp?v=65450329e03c",
+        "top": 116
+      },
+      {
+        "display": [
+          500,
+          303
+        ],
+        "fit": "contain",
+        "natural": [
+          500,
+          302
+        ],
+        "src": "raio/assets/mockups/raio-laptop-dashboard.webp?v=ae5fc9893b7d",
+        "top": 1167
+      },
+      {
+        "display": [
+          0,
+          94
+        ],
+        "fit": "contain",
+        "natural": [
+          0,
+          0
+        ],
+        "src": "../work/ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "top": 2347
+      },
+      {
+        "display": [
+          46,
+          94
+        ],
+        "fit": "contain",
+        "natural": [
+          1109,
+          2283
+        ],
+        "src": "../img/card_dynamics/1.png?v=feec49075d9c",
+        "top": 2347
+      },
+      {
+        "display": [
+          0,
+          94
+        ],
+        "fit": "contain",
+        "natural": [
+          0,
+          0
+        ],
+        "src": "../work/skateking/assets/mockups/skateking-iphone-01.webp?v=dd5c0b3f942d",
+        "top": 2347
+      }
+    ],
+    "overflow": false,
+    "path": "/beta/work/raio.html",
+    "words": 355
+  },
+  {
+    "firstScreenTop": 128,
+    "heading": "Find your next spot. Then go skate.",
+    "height": 3956,
+    "images": [
+      {
+        "display": [
+          78,
+          78
+        ],
+        "fit": "fill",
+        "natural": [
+          150,
+          150
+        ],
+        "src": "skateking/assets/illustrations/skate-street.svg?v=d85c27d76451",
+        "top": 128
+      },
+      {
+        "display": [
+          81,
+          81
+        ],
+        "fit": "fill",
+        "natural": [
+          150,
+          150
+        ],
+        "src": "skateking/assets/illustrations/skate-downhill.svg?v=08ad33fa6a3d",
+        "top": 576
+      },
+      {
+        "display": [
+          322,
+          501
+        ],
+        "fit": "fill",
+        "natural": [
+          360,
+          666
+        ],
+        "src": "skateking/assets/mockups/skateking-iphone-01.webp?v=dd5c0b3f942d",
+        "top": 119
+      },
+      {
+        "display": [
+          315,
+          498
+        ],
+        "fit": "fill",
+        "natural": [
+          360,
+          666
+        ],
+        "src": "skateking/assets/mockups/skateking-iphone-confirmation.webp?v=7a88859c06d1",
+        "top": 172
+      },
+      {
+        "display": [
+          271,
+          544
+        ],
+        "fit": "contain",
+        "natural": [
+          480,
+          964
+        ],
+        "src": "skateking/assets/mockups/skateking-screen-create-account.webp?v=6f13396a0789",
+        "top": 1196
+      },
+      {
+        "display": [
+          271,
+          544
+        ],
+        "fit": "contain",
+        "natural": [
+          480,
+          964
+        ],
+        "src": "skateking/assets/mockups/skateking-screen-avatar.webp?v=4fba59b28b3b",
+        "top": 1196
+      },
+      {
+        "display": [
+          271,
+          544
+        ],
+        "fit": "contain",
+        "natural": [
+          480,
+          964
+        ],
+        "src": "skateking/assets/mockups/skateking-screen-style.webp?v=841da560951b",
+        "top": 1847
+      },
+      {
+        "display": [
+          395,
+          560
+        ],
+        "fit": "contain",
+        "natural": [
+          479,
+          753
+        ],
+        "src": "skateking/assets/mockups/skateking-iphone-map-with-hand.webp?v=23fa0c47e015",
+        "top": 1839
+      }
+    ],
+    "overflow": false,
+    "path": "/beta/work/skateking.html",
+    "words": 346
+  },
+  {
+    "firstScreenTop": 184,
+    "heading": "Impulse Spend with more clarity.",
+    "height": 6717,
+    "images": [
+      {
+        "display": [
+          228,
+          494
+        ],
+        "fit": "contain",
+        "natural": [
+          430,
+          932
+        ],
+        "src": "img/sc1.png?v=efb375e61944",
+        "top": 184
+      },
+      {
+        "display": [
+          415,
+          236
+        ],
+        "fit": "cover",
+        "natural": [
+          0,
+          0
+        ],
+        "src": "img/image-step-1.png?v=750bd2003a5c",
+        "top": 2417
+      },
+      {
+        "display": [
+          415,
+          236
+        ],
+        "fit": "cover",
+        "natural": [
+          0,
+          0
+        ],
+        "src": "img/image-step-2.png?v=72b701da34c9",
+        "top": 2417
+      },
+      {
+        "display": [
+          415,
+          236
+        ],
+        "fit": "cover",
+        "natural": [
+          0,
+          0
+        ],
+        "src": "img/image-step-3.png?v=3967b6f25d48",
+        "top": 2417
+      },
+      {
+        "display": [
+          0,
+          520
+        ],
+        "fit": "contain",
+        "natural": [
+          0,
+          0
+        ],
+        "src": "img/sc2.png?v=6ef368d866da",
+        "top": 4262
+      },
+      {
+        "display": [
+          0,
+          520
+        ],
+        "fit": "contain",
+        "natural": [
+          0,
+          0
+        ],
+        "src": "img/sc3.png?v=de069a8e9351",
+        "top": 4262
+      },
+      {
+        "display": [
+          0,
+          520
+        ],
+        "fit": "contain",
+        "natural": [
+          0,
+          0
+        ],
+        "src": "img/sc4.png?v=261453e63142",
+        "top": 4262
+      },
+      {
+        "display": [
+          0,
+          105
+        ],
+        "fit": "contain",
+        "natural": [
+          0,
+          0
+        ],
+        "src": "../img/parallax-10.png?v=4d0906a9a845",
+        "top": 5949
+      }
+    ],
+    "overflow": false,
+    "path": "/beta/cases/impulse.html",
+    "words": 524
+  },
+  {
+    "firstScreenTop": 249,
+    "heading": "A more human future for everyday payments.",
+    "height": 4163,
+    "images": [
+      {
+        "display": [
+          390,
+          439
+        ],
+        "fit": "contain",
+        "natural": [
+          344,
+          387
+        ],
+        "src": "../img/parallax-10.png?v=4d0906a9a845",
+        "top": 249
+      },
+      {
+        "display": [
+          344,
+          387
+        ],
+        "fit": "contain",
+        "natural": [
+          344,
+          387
+        ],
+        "src": "../img/parallax-10.png?v=4d0906a9a845",
+        "top": 2295
+      },
+      {
+        "display": [
+          37,
+          88
+        ],
+        "fit": "cover",
+        "natural": [
+          430,
+          932
+        ],
+        "src": "../cases/img/sc1.png?v=efb375e61944",
+        "top": 3328
+      },
+      {
+        "display": [
+          46,
+          94
+        ],
+        "fit": "contain",
+        "natural": [
+          1109,
+          2283
+        ],
+        "src": "../img/card_dynamics/1.png?v=feec49075d9c",
+        "top": 3326
+      },
+      {
+        "display": [
+          48,
+          94
+        ],
+        "fit": "contain",
+        "natural": [
+          465,
+          900
+        ],
+        "src": "../work/luzia-new-chat/assets/first-entrance.png?v=19103ac77ce6",
+        "top": 3326
+      }
+    ],
+    "overflow": false,
+    "path": "/beta/work/invisipayment.html",
+    "words": 415
+  }
+]

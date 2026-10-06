@@ -1,0 +1,72 @@
+[
+  {
+    "case": "Luzia \u00b7 New chat",
+    "keep": "Strong flagship opening; clear decisions about keyboard space, composer and history.",
+    "improve": "Tighten the 1,048-word story. It reaches 12,231px on mobile. Show the core chat flow before the separate voice-onboarding exploration. Preserve the exploration label."
+  },
+  {
+    "case": "Atl\u00e9tico de Madrid",
+    "keep": "Recognisable brand; fan tasks connect services, commerce and payment.",
+    "improve": "The shop dominates the opening, while the central decision is a fan-services hub. Bring an existing service-hub screen into the first evidence pair. Figures stay parked."
+  },
+  {
+    "case": "Luzia \u00b7 Services Hub",
+    "keep": "The basket makes the move from conversation to structured action tangible.",
+    "improve": "Mobile needs a compact title and context before the full-height phone. Put the existing shipped / in-development distinction next to the opening facts."
+  },
+  {
+    "case": "Pizza Hut",
+    "keep": "The story connects checkout, communication and the experience of waiting.",
+    "improve": "The app alone underrepresents the service-design work. Pair it with a legible original journey or prioritisation detail if one is available. Do not manufacture evidence. Figures stay parked."
+  },
+  {
+    "case": "Preparador do ENEM",
+    "keep": "Practical AI product work: a learning loop, reviewed content and iteration.",
+    "improve": "Shorten the long heading and introduce the case before its phone on mobile. Group the existing question \u2192 hint \u2192 explanation screens as one meaningful sequence."
+  },
+  {
+    "case": "Card Dynamics",
+    "keep": "Partner identities and account consent give the fintech story specificity.",
+    "improve": "\u201cWhite-label\u201d is a characteristic, not an outcome. Move it into the facts and emphasise the consent/account sequence alongside the landing screen."
+  },
+  {
+    "case": "Outback",
+    "keep": "Research leads to recognisable service choices: delivery, collection, reservation and queueing.",
+    "improve": "Reduce repeated explanation of the same choice. The caption \u201cMenu and ordering flows\u201d needs a specific action or detail to inspect. Figures stay parked."
+  },
+  {
+    "case": "Luzia \u00b7 Web app",
+    "keep": "Demonstrates working interface delivery and broadens the portfolio beyond phones.",
+    "improve": "The narrative emphasises the answer surface, while the gallery shows Ideas and Tools. Add an existing chat capture and narrow variant if available. Confirm delivery scope before sharpening \u201cParts of the pass\u2026\u201d."
+  },
+  {
+    "case": "Mi Mundo",
+    "keep": "The expressive reveal adds visual range; editable interpretation makes the AI interaction visible.",
+    "improve": "Connect the reveal immediately to interpretation/editing so the work reads as interaction design. Mobile needs a short title/status before the full-height phone."
+  },
+  {
+    "case": "Ipiranga",
+    "keep": "The route, home and store composition immediately conveys a connected ecosystem.",
+    "improve": "The next gallery repeats route/store. Annotate how the surfaces connect or shorten the repetition. Keep the original high-quality mockups."
+  },
+  {
+    "case": "Rai\u00f4",
+    "keep": "Employee mobile needs and HR desktop needs show useful breadth. The laptop is correctly proportioned in the live check.",
+    "improve": "Use the caption to explain the HR task or information hierarchy. Make the employee / HR comparison explicit with existing artefacts."
+  },
+  {
+    "case": "SkateKing",
+    "keep": "Distinctive brand expression and a specific style-selection decision with a skip option.",
+    "improve": "The headline promises finding somewhere to skate, but the opening shows splash/account confirmation. Bring the existing map or spot screen earlier."
+  },
+  {
+    "case": "Impulse",
+    "keep": "Clearly labelled independent concept; deliberate approval and controllable proactivity are useful ideas.",
+    "improve": "Settings currently lead a smart-glasses concept. Put the existing wearable scenario first and settings later as evidence of control. Clarify the opening break between \u201cImpulse\u201d and \u201cSpend with more clarity.\u201d"
+  },
+  {
+    "case": "Invisipayment",
+    "keep": "The wrist receipt directly supports visibility and payment recovery.",
+    "improve": "The gallery currently leads with a receipt. A scenario \u2192 confirmation \u2192 receipt order would match the stated journey. \u201cProject\u201d now correctly labels the independent concept."
+  }
+]

@@ -1,0 +1,735 @@
+{
+  "base_url": "https://felipecaroe.github.io/portfolio/beta/",
+  "pages": [
+    {
+      "path": "cases/drafts/enem/index.html",
+      "title": "Preparador do ENEM | Felipe Amorim",
+      "description": "Preparador do ENEM: product design and a reviewed content pipeline connecting official exam questions, guided learning and AI explanations.",
+      "section": "work",
+      "compact_footer": true,
+      "styles": [
+        "cases/drafts/draft-case.css",
+        "cases/drafts/phone-shell.css",
+        "cases/drafts/enem/case.css"
+      ],
+      "schema": []
+    },
+    {
+      "path": "cases/drafts/index.html",
+      "title": "Case review index | Felipe Amorim",
+      "description": "Working portfolio case studies for review.",
+      "section": "work",
+      "compact_footer": true,
+      "styles": [],
+      "schema": []
+    },
+    {
+      "path": "cases/drafts/mi-mundo/index.html",
+      "title": "Mi Mundo · Voice-first creation | Felipe Amorim",
+      "description": "Mi Mundo: an internal voice-first concept connecting spoken intent, editable interpretation, visual direction and a shareable personal world.",
+      "section": "work",
+      "compact_footer": true,
+      "styles": [
+        "cases/drafts/draft-case.css",
+        "cases/drafts/phone-shell.css",
+        "cases/drafts/mi-mundo/case.css"
+      ],
+      "schema": []
+    },
+    {
+      "path": "cases/drafts/services-hub/index.html",
+      "title": "Luzia · Services Hub | Felipe Amorim",
+      "description": "Luzia Services Hub: architecture for bookings, commerce and routines, with reusable generative UI and an iFood ordering experience in development.",
+      "section": "work",
+      "compact_footer": true,
+      "styles": [
+        "cases/drafts/phone-shell.css",
+        "cases/drafts/services-hub/case.css"
+      ],
+      "schema": []
+    },
+    {
+      "path": "cases/drafts/webapp/index.html",
+      "title": "Luzia · Web app | Felipe Amorim",
+      "description": "Luzia web app: responsive product design delivered as working interfaces, with controlled reading width, collapsible navigation and reusable discovery surfaces.",
+      "section": "work",
+      "compact_footer": true,
+      "styles": [
+        "cases/drafts/draft-case.css",
+        "cases/drafts/webapp/case.css"
+      ],
+      "schema": []
+    },
+    {
+      "path": "cases/impulse.html",
+      "title": "Impulse · Contextual finance concept | Felipe Amorim",
+      "description": "Impulse: an independent contextual finance concept exploring smart-glasses prompts, budget-informed choices, saving and deliberate phone approval.",
+      "section": "work",
+      "compact_footer": true,
+      "styles": [
+        "cases/impulse.css"
+      ],
+      "schema": []
+    },
+    {
+      "path": "contact.html",
+      "title": "Hire freelance UX/UI design support | Felipe Amorim",
+      "description": "Contact Felipe Amorim for senior freelance UX/UI design support on agency client briefs or product team projects in Europe and the UK.",
+      "section": "contact",
+      "compact_footer": false,
+      "styles": [],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe",
+          "name": "Felipe Amorim",
+          "url": "https://felipecaroe.github.io/portfolio/beta/",
+          "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
+          "jobTitle": "Senior AI product designer and UX lead",
+          "homeLocation": {
+            "@type": "Place",
+            "name": "Madrid, Spain"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/in/felipecaroe/",
+            "https://www.behance.net/felipecaroe"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/contact.html#webpage",
+          "url": "https://felipecaroe.github.io/portfolio/beta/contact.html",
+          "name": "Hire freelance UX/UI design support | Felipe Amorim",
+          "description": "Contact Felipe Amorim for senior freelance UX/UI design support on agency client briefs or product team projects in Europe and the UK.",
+          "author": {
+            "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe"
+          }
+        }
+      ]
+    },
+    {
+      "path": "index.html",
+      "title": "Senior AI product designer for agencies | Felipe Amorim",
+      "description": "Senior AI product design and UX/UI for agencies and studios in Madrid, Europe and the UK. Clear conversational experiences, considered edge cases and developer-ready design.",
+      "section": "",
+      "compact_footer": false,
+      "styles": [],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe",
+          "name": "Felipe Amorim",
+          "url": "https://felipecaroe.github.io/portfolio/beta/",
+          "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
+          "jobTitle": "Senior AI product designer and UX lead",
+          "homeLocation": {
+            "@type": "Place",
+            "name": "Madrid, Spain"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/in/felipecaroe/",
+            "https://www.behance.net/felipecaroe"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/#webpage",
+          "url": "https://felipecaroe.github.io/portfolio/beta/",
+          "name": "Senior AI product designer for agencies | Felipe Amorim",
+          "description": "Senior AI product design and UX/UI for agencies and studios in Madrid, Europe and the UK. Clear conversational experiences, considered edge cases and developer-ready design.",
+          "author": {
+            "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe"
+          }
+        }
+      ]
+    },
+    {
+      "path": "leadership.html",
+      "title": "Senior AI product designer and UX lead | Felipe Amorim",
+      "description": "Felipe Amorim is a Madrid-based senior AI product designer with 20+ years across AI product experience, UX, service design and digital products. He works in Portuguese, English, Spanish and Italian.",
+      "section": "leadership",
+      "compact_footer": false,
+      "styles": [],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe",
+          "name": "Felipe Amorim",
+          "url": "https://felipecaroe.github.io/portfolio/beta/",
+          "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
+          "jobTitle": "Senior AI product designer and UX lead",
+          "homeLocation": {
+            "@type": "Place",
+            "name": "Madrid, Spain"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/in/felipecaroe/",
+            "https://www.behance.net/felipecaroe"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/leadership.html#webpage",
+          "url": "https://felipecaroe.github.io/portfolio/beta/leadership.html",
+          "name": "Senior AI product designer and UX lead | Felipe Amorim",
+          "description": "Felipe Amorim is a Madrid-based senior AI product designer with 20+ years across AI product experience, UX, service design and digital products. He works in Portuguese, English, Spanish and Italian.",
+          "author": {
+            "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe"
+          }
+        }
+      ]
+    },
+    {
+      "path": "resume.html",
+      "title": "Experience and résumé | Felipe Amorim",
+      "description": "Felipe Amorim’s experience across product design, UX, AI and design leadership.",
+      "section": "leadership",
+      "compact_footer": false,
+      "styles": [
+        "resume.css"
+      ],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "ProfilePage",
+          "url": "https://felipecaroe.github.io/portfolio/resume.html",
+          "mainEntity": {
+            "@type": "Person",
+            "name": "Felipe Amorim",
+            "url": "https://felipecaroe.github.io/portfolio/",
+            "homeLocation": {
+              "@type": "Place",
+              "name": "Madrid, Spain"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "path": "services/monthly-design.html",
+      "title": "Monthly freelance UX/UI for agencies | Felipe Amorim",
+      "description": "Monthly senior freelance UX/UI capacity for agency and studio client projects in Europe and the UK. Pricing discussed directly.",
+      "section": "services",
+      "compact_footer": false,
+      "styles": [],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe",
+          "name": "Felipe Amorim",
+          "url": "https://felipecaroe.github.io/portfolio/beta/",
+          "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
+          "jobTitle": "Senior AI product designer and UX lead",
+          "homeLocation": {
+            "@type": "Place",
+            "name": "Madrid, Spain"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/in/felipecaroe/",
+            "https://www.behance.net/felipecaroe"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/services/monthly-design.html#webpage",
+          "url": "https://felipecaroe.github.io/portfolio/beta/services/monthly-design.html",
+          "name": "Monthly freelance UX/UI for agencies | Felipe Amorim",
+          "description": "Monthly senior freelance UX/UI capacity for agency and studio client projects in Europe and the UK. Pricing discussed directly.",
+          "author": {
+            "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Monthly product design support",
+          "description": "Sixteen hours per month of senior UX/UI design for agency client projects, including flows, screens, reviews and developer handover.",
+          "provider": {
+            "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe"
+          },
+          "areaServed": [
+            "Europe",
+            "United Kingdom"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "services/ux-ui-brief.html",
+      "title": "Focused AI product design and UX/UI brief | Felipe Amorim",
+      "description": "A focused UX/UI or AI interaction design brief for agency and studio teams. Senior design on one agreed flow, screen set or product review; pricing discussed directly.",
+      "section": "services",
+      "compact_footer": false,
+      "styles": [],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe",
+          "name": "Felipe Amorim",
+          "url": "https://felipecaroe.github.io/portfolio/beta/",
+          "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
+          "jobTitle": "Senior AI product designer and UX lead",
+          "homeLocation": {
+            "@type": "Place",
+            "name": "Madrid, Spain"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/in/felipecaroe/",
+            "https://www.behance.net/felipecaroe"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/services/ux-ui-brief.html#webpage",
+          "url": "https://felipecaroe.github.io/portfolio/beta/services/ux-ui-brief.html",
+          "name": "Focused AI product design and UX/UI brief | Felipe Amorim",
+          "description": "A focused UX/UI or AI interaction design brief for agency and studio teams. Senior design on one agreed flow, screen set or product review; pricing discussed directly.",
+          "author": {
+            "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Focused UX/UI and AI interaction design brief",
+          "description": "Up to four hours of senior UX/UI or AI interaction design for one agreed agency or product team brief, including handover and feedback within the allowance.",
+          "provider": {
+            "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe"
+          },
+          "areaServed": [
+            "Europe",
+            "United Kingdom"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "services.html",
+      "title": "AI product design and UX/UI for agencies | Felipe Amorim",
+      "description": "Senior AI product design and UX/UI support for agencies and studios in Madrid, Europe and the UK. Focused briefs and monthly capacity, with pricing discussed directly.",
+      "section": "services",
+      "compact_footer": false,
+      "styles": [],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe",
+          "name": "Felipe Amorim",
+          "url": "https://felipecaroe.github.io/portfolio/beta/",
+          "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
+          "jobTitle": "Senior AI product designer and UX lead",
+          "homeLocation": {
+            "@type": "Place",
+            "name": "Madrid, Spain"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/in/felipecaroe/",
+            "https://www.behance.net/felipecaroe"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/services.html#webpage",
+          "url": "https://felipecaroe.github.io/portfolio/beta/services.html",
+          "name": "AI product design and UX/UI for agencies | Felipe Amorim",
+          "description": "Senior AI product design and UX/UI support for agencies and studios in Madrid, Europe and the UK. Focused briefs and monthly capacity, with pricing discussed directly.",
+          "author": {
+            "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "AI and freelance product design support",
+          "description": "Senior product design for AI interactions, UX/UI flows, mobile and web interfaces, product reviews and early product direction.",
+          "serviceType": [
+            "AI product design",
+            "AI interaction design",
+            "UX/UI design",
+            "Product design",
+            "Product experience review",
+            "Product strategy"
+          ],
+          "provider": {
+            "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe"
+          },
+          "areaServed": [
+            "Europe",
+            "United Kingdom"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "work/atletico-de-madrid.html",
+      "title": "Atlético de Madrid · Fan services | Felipe Amorim",
+      "description": "Atlético de Madrid mobile product design connecting fan services, merchandise, member-card benefits and payment.",
+      "section": "work",
+      "compact_footer": true,
+      "styles": [],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe",
+          "name": "Felipe Amorim",
+          "url": "https://felipecaroe.github.io/portfolio/beta/",
+          "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
+          "jobTitle": "Senior AI product designer and UX lead",
+          "homeLocation": {
+            "@type": "Place",
+            "name": "Madrid, Spain"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/in/felipecaroe/",
+            "https://www.behance.net/felipecaroe"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/work/atletico-de-madrid.html#webpage",
+          "url": "https://felipecaroe.github.io/portfolio/beta/work/atletico-de-madrid.html",
+          "name": "Atlético de Madrid · Fan services | Felipe Amorim",
+          "description": "Atlético de Madrid mobile product design connecting fan services, merchandise, member-card benefits and payment.",
+          "author": {
+            "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe"
+          }
+        }
+      ]
+    },
+    {
+      "path": "work/card-dynamics.html",
+      "title": "Card Dynamics · White-label fintech | Felipe Amorim",
+      "description": "Card Dynamics product and brand revamp: white-label financial journeys connecting a retailer’s offer with bank account selection and consent.",
+      "section": "work",
+      "compact_footer": true,
+      "styles": [],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe",
+          "name": "Felipe Amorim",
+          "url": "https://felipecaroe.github.io/portfolio/beta/",
+          "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
+          "jobTitle": "Senior AI product designer and UX lead",
+          "homeLocation": {
+            "@type": "Place",
+            "name": "Madrid, Spain"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/in/felipecaroe/",
+            "https://www.behance.net/felipecaroe"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/work/card-dynamics.html#webpage",
+          "url": "https://felipecaroe.github.io/portfolio/beta/work/card-dynamics.html",
+          "name": "Card Dynamics · White-label fintech | Felipe Amorim",
+          "description": "Card Dynamics product and brand revamp: white-label financial journeys connecting a retailer’s offer with bank account selection and consent.",
+          "author": {
+            "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe"
+          }
+        }
+      ]
+    },
+    {
+      "path": "work/invisipayment.html",
+      "title": "Invisipayment · Payment concept | Felipe Amorim",
+      "description": "Invisipayment: a research-informed, independent payment concept exploring hands-free checkout, visible confirmation, transaction alerts and dispute.",
+      "section": "work",
+      "compact_footer": true,
+      "styles": [],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe",
+          "name": "Felipe Amorim",
+          "url": "https://felipecaroe.github.io/portfolio/beta/",
+          "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
+          "jobTitle": "Senior AI product designer and UX lead",
+          "homeLocation": {
+            "@type": "Place",
+            "name": "Madrid, Spain"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/in/felipecaroe/",
+            "https://www.behance.net/felipecaroe"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/work/invisipayment.html#webpage",
+          "url": "https://felipecaroe.github.io/portfolio/beta/work/invisipayment.html",
+          "name": "Invisipayment · Payment concept | Felipe Amorim",
+          "description": "Invisipayment: a research-informed, independent payment concept exploring hands-free checkout, visible confirmation, transaction alerts and dispute.",
+          "author": {
+            "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe"
+          }
+        }
+      ]
+    },
+    {
+      "path": "work/ipiranga.html",
+      "title": "Ipiranga · Mobility super app | Felipe Amorim",
+      "description": "Ipiranga super app product design connecting station discovery, route planning, payments, convenience shopping and rewards.",
+      "section": "work",
+      "compact_footer": true,
+      "styles": [
+        "assets/case-compositions.css"
+      ],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe",
+          "name": "Felipe Amorim",
+          "url": "https://felipecaroe.github.io/portfolio/beta/",
+          "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
+          "jobTitle": "Senior AI product designer and UX lead",
+          "homeLocation": {
+            "@type": "Place",
+            "name": "Madrid, Spain"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/in/felipecaroe/",
+            "https://www.behance.net/felipecaroe"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/work/ipiranga.html#webpage",
+          "url": "https://felipecaroe.github.io/portfolio/beta/work/ipiranga.html",
+          "name": "Ipiranga · Mobility super app | Felipe Amorim",
+          "description": "Ipiranga super app product design connecting station discovery, route planning, payments, convenience shopping and rewards.",
+          "author": {
+            "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe"
+          }
+        }
+      ]
+    },
+    {
+      "path": "work/luzia-new-chat/index.html",
+      "title": "Luzia · New chat | Felipe Amorim",
+      "description": "Luzia New Chat: product strategy and interaction design for chat-first entry, a compact composer and a voice-first onboarding prototype.",
+      "section": "work",
+      "compact_footer": true,
+      "styles": [
+        "work/luzia-new-chat/assets/case.css"
+      ],
+      "schema": []
+    },
+    {
+      "path": "work/outback.html",
+      "title": "Outback · Dining service design | Felipe Amorim",
+      "description": "Outback customer research translated into a mobile dining experience with delivery, collection, reservations and queueing.",
+      "section": "work",
+      "compact_footer": true,
+      "styles": [],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe",
+          "name": "Felipe Amorim",
+          "url": "https://felipecaroe.github.io/portfolio/beta/",
+          "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
+          "jobTitle": "Senior AI product designer and UX lead",
+          "homeLocation": {
+            "@type": "Place",
+            "name": "Madrid, Spain"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/in/felipecaroe/",
+            "https://www.behance.net/felipecaroe"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/work/outback.html#webpage",
+          "url": "https://felipecaroe.github.io/portfolio/beta/work/outback.html",
+          "name": "Outback · Dining service design | Felipe Amorim",
+          "description": "Outback customer research translated into a mobile dining experience with delivery, collection, reservations and queueing.",
+          "author": {
+            "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe"
+          }
+        }
+      ]
+    },
+    {
+      "path": "work/pizza-hut.html",
+      "title": "Pizza Hut · Service design | Felipe Amorim",
+      "description": "Pizza Hut service design: a cross-channel audit and prioritised roadmap connecting checkout, order progress and delivery communication in Brazil.",
+      "section": "work",
+      "compact_footer": true,
+      "styles": [],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe",
+          "name": "Felipe Amorim",
+          "url": "https://felipecaroe.github.io/portfolio/beta/",
+          "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
+          "jobTitle": "Senior AI product designer and UX lead",
+          "homeLocation": {
+            "@type": "Place",
+            "name": "Madrid, Spain"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/in/felipecaroe/",
+            "https://www.behance.net/felipecaroe"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/work/pizza-hut.html#webpage",
+          "url": "https://felipecaroe.github.io/portfolio/beta/work/pizza-hut.html",
+          "name": "Pizza Hut · Service design | Felipe Amorim",
+          "description": "Pizza Hut service design: a cross-channel audit and prioritised roadmap connecting checkout, order progress and delivery communication in Brazil.",
+          "author": {
+            "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe"
+          }
+        }
+      ]
+    },
+    {
+      "path": "work/raio.html",
+      "title": "Raiô · Employee benefits | Felipe Amorim",
+      "description": "Raiô discovery and product design for a flexible benefits wallet and an HR management platform.",
+      "section": "work",
+      "compact_footer": true,
+      "styles": [
+        "assets/case-compositions.css"
+      ],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe",
+          "name": "Felipe Amorim",
+          "url": "https://felipecaroe.github.io/portfolio/beta/",
+          "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
+          "jobTitle": "Senior AI product designer and UX lead",
+          "homeLocation": {
+            "@type": "Place",
+            "name": "Madrid, Spain"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/in/felipecaroe/",
+            "https://www.behance.net/felipecaroe"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/work/raio.html#webpage",
+          "url": "https://felipecaroe.github.io/portfolio/beta/work/raio.html",
+          "name": "Raiô · Employee benefits | Felipe Amorim",
+          "description": "Raiô discovery and product design for a flexible benefits wallet and an HR management platform.",
+          "author": {
+            "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe"
+          }
+        }
+      ]
+    },
+    {
+      "path": "work/skateking.html",
+      "title": "SkateKing · Skate community app | Felipe Amorim",
+      "description": "SkateKing product design connecting personal onboarding, skating-style selection and map-based discovery of spots, parks and shops.",
+      "section": "work",
+      "compact_footer": true,
+      "styles": [
+        "assets/case-compositions.css"
+      ],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe",
+          "name": "Felipe Amorim",
+          "url": "https://felipecaroe.github.io/portfolio/beta/",
+          "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
+          "jobTitle": "Senior AI product designer and UX lead",
+          "homeLocation": {
+            "@type": "Place",
+            "name": "Madrid, Spain"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/in/felipecaroe/",
+            "https://www.behance.net/felipecaroe"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/work/skateking.html#webpage",
+          "url": "https://felipecaroe.github.io/portfolio/beta/work/skateking.html",
+          "name": "SkateKing · Skate community app | Felipe Amorim",
+          "description": "SkateKing product design connecting personal onboarding, skating-style selection and map-based discovery of spots, parks and shops.",
+          "author": {
+            "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe"
+          }
+        }
+      ]
+    },
+    {
+      "path": "work.html",
+      "title": "Product and UX/UI case studies | Felipe Amorim",
+      "description": "Selected product, AI experience, UX/UI and service design work by Felipe Amorim, including Luzia, Atlético de Madrid, Card Dynamics, Outback and Pizza Hut.",
+      "section": "work",
+      "compact_footer": false,
+      "styles": [],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe",
+          "name": "Felipe Amorim",
+          "url": "https://felipecaroe.github.io/portfolio/beta/",
+          "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
+          "jobTitle": "Senior AI product designer and UX lead",
+          "homeLocation": {
+            "@type": "Place",
+            "name": "Madrid, Spain"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/in/felipecaroe/",
+            "https://www.behance.net/felipecaroe"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://felipecaroe.github.io/portfolio/beta/work.html#webpage",
+          "url": "https://felipecaroe.github.io/portfolio/beta/work.html",
+          "name": "Product and UX/UI case studies | Felipe Amorim",
+          "description": "Selected product, AI experience, UX/UI and service design work by Felipe Amorim, including Luzia, Atlético de Madrid, Card Dynamics, Outback and Pizza Hut.",
+          "author": {
+            "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+[
+  {
+    "href": "work/luzia-new-chat/",
+    "title": "Luzia · New chat",
+    "description": "Chat-first entry, with the composer and thread history redesigned.",
+    "tags": [
+      "AI product",
+      "Product strategy"
+    ],
+    "classes": "work-card",
+    "cover_classes": "work-image work-image--device work-image--luzia work-image--native-phone",
+    "image": {
+      "src": "work/luzia-new-chat/assets/first-entrance-shell.png",
+      "alt": "Luzia new-chat experience shown in its finished iPhone shell",
+      "width": "417",
+      "height": "881",
+      "loading": "lazy"
+    }
+  },
+  {
+    "href": "work/atletico-de-madrid.html",
+    "title": "Atlético de Madrid",
+    "description": "Connected fan services · +€350k monthly revenue reported.",
+    "tags": [
+      "Fan services",
+      "Mobile product"
+    ],
+    "classes": "work-card",
+    "cover_classes": "work-image work-image--device",
+    "image": {
+      "src": "img/home-atletico-shell.png",
+      "alt": "Atlético de Madrid fan-services app in a clean phone shell",
+      "width": "483",
+      "height": "932"
+    }
+  },
+  {
+    "href": "cases/drafts/services-hub/",
+    "title": "Luzia · Services Hub",
+    "description": "Bookings, commerce and routines inside an AI conversation.",
+    "tags": [
+      "AI product",
+      "Information architecture"
+    ],
+    "classes": "work-card work-card--new",
+    "cover_classes": "work-image work-image--device work-image--phone-shell",
+    "image": {
+      "src": "cases/drafts/services-hub/media/ifood-basket-ready.svg",
+      "alt": "Luzia Services Hub grocery basket with product images and editable quantities",
+      "width": "720",
+      "height": "1600",
+      "loading": "lazy"
+    }
+  },
+  {
+    "href": "work/pizza-hut.html",
+    "title": "Pizza Hut",
+    "description": "A clearer ordering journey · satisfaction reported from 82% to 95%.",
+    "tags": [
+      "Service design",
+      "Mobile ordering"
+    ],
+    "classes": "work-card",
+    "cover_classes": "work-image work-image--device work-image--compact",
+    "image": {
+      "src": "img/home_pizza.png",
+      "alt": "Pizza Hut mobile ordering shown in a rounded phone mockup",
+      "width": "1109",
+      "height": "2283",
+      "loading": "lazy"
+    },
+    "cover_style": "--native-height:86.151%;--native-x:0.000%;--native-y:0.000%"
+  },
+  {
+    "href": "cases/drafts/enem/",
+    "title": "Preparador do ENEM",
+    "description": "Official questions, guided learning and AI explanations.",
+    "tags": [
+      "AI learning",
+      "Product design"
+    ],
+    "classes": "work-card work-card--new",
+    "cover_classes": "work-image work-image--device work-image--phone-shell",
+    "image": {
+      "src": "cases/drafts/enem/media/app-captures/00-entry.png",
+      "alt": "The ENEM entry screen with subject choices and guided study",
+      "width": "1170",
+      "height": "2532",
+      "loading": "lazy"
+    }
+  },
+  {
+    "href": "work/outback.html",
+    "title": "Outback",
+    "description": "A connected dining journey · +29% sales reported.",
+    "tags": [
+      "Customer experience",
+      "Service design"
+    ],
+    "classes": "work-card",
+    "cover_classes": "work-image work-image--device",
+    "image": {
+      "src": "img/parallax-4.png",
+      "alt": "Outback mobile dining experience shown in a rounded phone mockup",
+      "width": "541",
+      "height": "980",
+      "loading": "lazy"
+    },
+    "cover_style": "--native-height:98.804%;--native-x:4.621%;--native-y:0.357%"
+  },
+  {
+    "href": "cases/drafts/webapp/",
+    "title": "Luzia · Web app",
+    "description": "A responsive assistant built for keyboard, browsing and reading.",
+    "tags": [
+      "AI product",
+      "Web experience"
+    ],
+    "classes": "work-card work-card--new",
+    "cover_classes": "work-image work-image--editorial work-image--tablet-shell",
+    "image": {
+      "src": "cases/source-kits/portfolio-cases/webapp/01-home-dark.png",
+      "alt": "Luzia web app home in dark mode, with its navigation and assistant composer",
+      "width": "2880",
+      "height": "1800",
+      "loading": "lazy"
+    }
+  },
+  {
+    "href": "work/card-dynamics.html",
+    "title": "Card Dynamics",
+    "description": "White-label financial flows from retail offer to account connection.",
+    "tags": [
+      "Fintech",
+      "Product and brand direction"
+    ],
+    "classes": "work-card",
+    "cover_classes": "work-image work-image--device work-image--compact",
+    "image": {
+      "src": "img/card_dynamics/1.png",
+      "alt": "Card Dynamics and Carrefour mortgage flow shown in a rounded phone mockup",
+      "width": "1109",
+      "height": "2283"
+    },
+    "cover_style": "--native-height:86.151%;--native-x:0.000%;--native-y:0.000%"
+  },
+  {
+    "href": "work/ipiranga.html",
+    "title": "Ipiranga",
+    "description": "Routes, station discovery and rewards in one mobility product.",
+    "tags": [
+      "Super app",
+      "Mobile product"
+    ],
+    "classes": "work-card work-card--behance",
+    "cover_classes": "work-image work-image--device work-image--native-phone",
+    "image": {
+      "src": "work/ipiranga/assets/mockups/ipiranga-store.webp",
+      "alt": "Ipiranga products, rewards and convenience in its original iPhone mockup",
+      "width": "1700",
+      "height": "3080",
+      "loading": "lazy"
+    },
+    "cover_style": "--native-height:99.058%;--native-x:7.059%;--native-y:0.519%"
+  },
+  {
+    "href": "work/raio.html",
+    "title": "Raiô",
+    "description": "A benefits wallet for employees and management tools for HR.",
+    "tags": [
+      "Employee benefits",
+      "UX/UI"
+    ],
+    "classes": "work-card work-card--behance",
+    "cover_classes": "work-image work-image--device work-image--native-phone",
+    "image": {
+      "src": "work/raio/assets/mockups/raio-iphone-benefits.webp",
+      "alt": "Raiô employee balances and benefits in its original iPhone mockup",
+      "width": "968",
+      "height": "2568",
+      "loading": "lazy"
+    },
+    "cover_style": "--native-height:86.235%;--native-x:0.310%;--native-y:0.136%"
+  },
+  {
+    "href": "work/skateking.html",
+    "title": "SkateKing",
+    "description": "Personal onboarding and map-based discovery for skaters.",
+    "tags": [
+      "Community app",
+      "Sport"
+    ],
+    "classes": "work-card work-card--behance",
+    "cover_classes": "work-image work-image--device work-image--native-phone",
+    "image": {
+      "src": "work/skateking/assets/mockups/skateking-iphone-01.webp",
+      "alt": "SkateKing discovery and community screen in its original iPhone mockup",
+      "width": "1480",
+      "height": "2739",
+      "loading": "lazy"
+    },
+    "cover_style": "--native-height:98.025%;--native-x:8.649%;--native-y:1.606%"
+  },
+  {
+    "href": "cases/impulse.html",
+    "title": "Impulse",
+    "description": "A wearable finance concept with budget context and phone approval.",
+    "tags": [
+      "Independent concept",
+      "Speculative design"
+    ],
+    "classes": "work-card work-card--concept",
+    "cover_classes": "work-image work-image--device work-image--phone-screen work-image--compact",
+    "image": {
+      "src": "cases/img/sc1.png",
+      "alt": "Impulse Financial Assistant settings in a rounded phone mockup",
+      "width": "430",
+      "height": "932",
+      "loading": "lazy"
+    }
+  },
+  {
+    "href": "work/invisipayment.html",
+    "title": "Invisipayment",
+    "description": "A hands-free payment concept with confirmation and dispute.",
+    "tags": [
+      "Independent concept",
+      "Speculative design"
+    ],
+    "classes": "work-card work-card--concept",
+    "cover_classes": "work-image work-image--device work-image--watch",
+    "image": {
+      "src": "work/invisipayment/assets/selected/invisipayment-watch-receipt-2x.png",
+      "alt": "Invisipayment watch receipt with a clear purchase amount and an immediate dispute action",
+      "width": "442",
+      "height": "498",
+      "loading": "lazy"
+    }
+  },
+  {
+    "href": "cases/drafts/mi-mundo/",
+    "title": "Mi Mundo",
+    "description": "A voice-first concept from spoken intent to a shareable world.",
+    "tags": [
+      "Concept exploration",
+      "Voice interaction"
+    ],
+    "classes": "work-card work-card--new work-card--concept",
+    "cover_classes": "work-image work-image--device work-image--phone-shell",
+    "image": {
+      "src": "cases/drafts/mi-mundo/media/06-reveal.png",
+      "alt": "Mi Mundo voice-first creation concept reveal",
+      "width": "720",
+      "height": "1600",
+      "loading": "lazy"
+    }
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "work/luzia-new-chat/index.html": {
+    "description": "Related Luzia work, from learning and discovery to a broader web surface.",
+    "cases": [
+      {"href": "cases/drafts/enem/", "reason": "AI · Learning"},
+      {"href": "cases/drafts/services-hub/", "reason": "AI · Service design"},
+      {"href": "cases/drafts/webapp/", "reason": "AI · Web product"}
+    ]
+  },
+  "work/atletico-de-madrid.html": {
+    "description": "Different audiences, same need for a service that feels clear, recognisable and easy to use.",
+    "cases": [
+      {"href": "work/pizza-hut.html", "reason": "Food · Mobile experience"},
+      {"href": "work/outback.html", "reason": "Hospitality · Customer experience"},
+      {"href": "work/card-dynamics.html", "reason": "Finance · Partner ecosystem"}
+    ]
+  },
+  "cases/drafts/services-hub/index.html": {
+    "description": "Explore how chat, discovery and a wider service ecosystem can work as one product.",
+    "cases": [
+      {"href": "work/luzia-new-chat/", "reason": "AI · Conversation"},
+      {"href": "cases/drafts/webapp/", "reason": "AI · Web product"},
+      {"href": "work/ipiranga.html", "reason": "Mobile · Super app"}
+    ]
+  },
+  "work/pizza-hut.html": {
+    "description": "Related work connecting physical service, mobile journeys and a familiar brand voice.",
+    "cases": [
+      {"href": "work/outback.html", "reason": "Hospitality · Service design"},
+      {"href": "work/atletico-de-madrid.html", "reason": "Sport · Fan experience"},
+      {"href": "work/ipiranga.html", "reason": "Retail · Connected services"}
+    ]
+  },
+  "cases/drafts/enem/index.html": {
+    "description": "More Luzia work across learning, conversation and open-ended creation.",
+    "cases": [
+      {"href": "work/luzia-new-chat/", "reason": "AI · Conversation"},
+      {"href": "cases/drafts/services-hub/", "reason": "AI · Product ecosystem"},
+      {"href": "cases/drafts/mi-mundo/", "reason": "AI · Voice and creation"}
+    ]
+  },
+  "work/outback.html": {
+    "description": "Hospitality, sport and retail journeys shaped around the moment a customer needs them.",
+    "cases": [
+      {"href": "work/pizza-hut.html", "reason": "Food · Ordering journey"},
+      {"href": "work/atletico-de-madrid.html", "reason": "Sport · Fan services"},
+      {"href": "work/ipiranga.html", "reason": "Retail · Mobile services"}
+    ]
+  },
+  "cases/drafts/webapp/index.html": {
+    "description": "Related Luzia product work spanning conversation, service access and creative tools.",
+    "cases": [
+      {"href": "work/luzia-new-chat/", "reason": "AI · Conversation"},
+      {"href": "cases/drafts/services-hub/", "reason": "AI · Services"},
+      {"href": "cases/drafts/mi-mundo/", "reason": "AI · Generative creation"}
+    ]
+  },
+  "work/card-dynamics.html": {
+    "description": "From account connection to everyday benefits, these cases make complex money tasks easier to follow.",
+    "cases": [
+      {"href": "work/atletico-de-madrid.html", "reason": "Scale · Multi-partner product"},
+      {"href": "work/ipiranga.html", "reason": "Mobile · Connected ecosystem"},
+      {"href": "work/raio.html", "reason": "Finance · Employee benefits"}
+    ]
+  },
+  "work/ipiranga.html": {
+    "description": "See how maps, benefits and ordering help customers move from finding an option to using it.",
+    "cases": [
+      {"href": "work/raio.html", "reason": "Benefits · Everyday value"},
+      {"href": "work/outback.html", "reason": "Hospitality · In-service journeys"},
+      {"href": "work/card-dynamics.html", "reason": "Finance · Connected services"}
+    ]
+  },
+  "work/raio.html": {
+    "description": "Related product work across employee choice, rewards and location-based discovery.",
+    "cases": [
+      {"href": "work/ipiranga.html", "reason": "Rewards · Mobile ecosystem"},
+      {"href": "work/card-dynamics.html", "reason": "Finance · Account connection"},
+      {"href": "work/skateking.html", "reason": "Community · Local discovery"}
+    ]
+  },
+  "work/skateking.html": {
+    "description": "These experiences help people express a preference, find what fits and take a useful next step.",
+    "cases": [
+      {"href": "work/raio.html", "reason": "People · Personal choice"},
+      {"href": "work/ipiranga.html", "reason": "Place · Map discovery"},
+      {"href": "cases/drafts/mi-mundo/", "reason": "Identity · Personal creation"}
+    ]
+  },
+  "cases/impulse.html": {
+    "description": "Explore speculative interactions alongside AI product work grounded in real tasks and boundaries.",
+    "cases": [
+      {"href": "work/invisipayment.html", "reason": "Concept · Emerging payments"},
+      {"href": "work/luzia-new-chat/", "reason": "AI · Interaction design"},
+      {"href": "cases/drafts/enem/", "reason": "AI · Responsible assistance"}
+    ]
+  },
+  "work/invisipayment.html": {
+    "description": "Concept work alongside products where clarity, context and confidence shape the experience.",
+    "cases": [
+      {"href": "cases/impulse.html", "reason": "Concept · Contextual finance"},
+      {"href": "work/card-dynamics.html", "reason": "Finance · Mobile product"},
+      {"href": "work/luzia-new-chat/", "reason": "AI · Interaction patterns"}
+    ]
+  },
+  "cases/drafts/mi-mundo/index.html": {
+    "description": "Related Luzia explorations, from starting a conversation to learning and navigating capabilities.",
+    "cases": [
+      {"href": "work/luzia-new-chat/", "reason": "AI · Voice and chat"},
+      {"href": "cases/drafts/enem/", "reason": "AI · Guided learning"},
+      {"href": "cases/drafts/services-hub/", "reason": "AI · Service discovery"}
+    ]
+  }
+}

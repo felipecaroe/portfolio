@@ -1,3 +1,16 @@
+const copyEmail = document.querySelector('[data-copy-email]');
+if (copyEmail) {
+  copyEmail.addEventListener('click', async () => {
+    const status = document.querySelector('.copy-email-status');
+    try {
+      await navigator.clipboard.writeText(copyEmail.dataset.copyEmail);
+      status.textContent = 'Email address copied.';
+    } catch {
+      status.textContent = `Copy this address: ${copyEmail.dataset.copyEmail}`;
+    }
+  });
+}
+
 const form = document.querySelector('#brief-form');
 
 if (form) {

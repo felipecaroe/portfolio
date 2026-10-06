@@ -1,0 +1,18 @@
+{
+  "raio-phones-trio": {
+    "width": 2616,
+    "height": 1964,
+    "variants": [
+      800,
+      1400
+    ]
+  },
+  "raio-laptop-dashboard": {
+    "width": 1936,
+    "height": 1170,
+    "variants": [
+      800,
+      1400
+    ]
+  }
+}
