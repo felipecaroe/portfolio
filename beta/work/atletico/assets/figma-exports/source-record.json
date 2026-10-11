@@ -1,0 +1,38 @@
+{
+  "source": "Original Atl\u00e9tico case board, exported at 2x",
+  "screens": [
+    [
+      "atletico-mobile-hub-2x.png",
+      "Fan-services hub",
+      "Club services organised around the fan\u2019s next task"
+    ],
+    [
+      "member-shop.png",
+      "Member shop",
+      "Club merchandise and member offers"
+    ],
+    [
+      "product-detail.png",
+      "Product detail",
+      "Shirt sizing, member pricing and personalisation"
+    ],
+    [
+      "unified-checkout.png",
+      "One basket, several merchants",
+      "Merchandise, food and tickets reviewed together before payment"
+    ]
+  ],
+  "product_detail_bounds": [
+    970,
+    3185,
+    1478,
+    4253
+  ],
+  "checkout_bounds": [
+    1723,
+    4411,
+    2359,
+    5740
+  ],
+  "note": "Original pixels only; no upscaling or recreated interface."
+}

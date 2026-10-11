@@ -9,8 +9,8 @@
       "compact_footer": true,
       "styles": [
         "cases/drafts/draft-case.css",
-        "cases/drafts/phone-shell.css",
-        "cases/drafts/enem/case.css"
+        "cases/drafts/enem/case.css",
+        "assets/prototype-flows.css"
       ],
       "schema": []
     },
@@ -31,7 +31,6 @@
       "compact_footer": true,
       "styles": [
         "cases/drafts/draft-case.css",
-        "cases/drafts/phone-shell.css",
         "cases/drafts/mi-mundo/case.css"
       ],
       "schema": []
@@ -43,8 +42,8 @@
       "section": "work",
       "compact_footer": true,
       "styles": [
-        "cases/drafts/phone-shell.css",
-        "cases/drafts/services-hub/case.css"
+        "cases/drafts/services-hub/case.css",
+        "assets/prototype-flows.css"
       ],
       "schema": []
     },
@@ -76,7 +75,7 @@
       "title": "Hire freelance UX/UI design support | Felipe Amorim",
       "description": "Contact Felipe Amorim for senior freelance UX/UI design support on agency client briefs or product team projects in Europe and the UK.",
       "section": "contact",
-      "compact_footer": false,
+      "compact_footer": true,
       "styles": [],
       "schema": [
         {
@@ -86,7 +85,7 @@
           "name": "Felipe Amorim",
           "url": "https://felipecaroe.github.io/portfolio/beta/",
           "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
-          "jobTitle": "Senior AI product designer and UX lead",
+          "jobTitle": "Senior AI Product Designer",
           "homeLocation": {
             "@type": "Place",
             "name": "Madrid, Spain"
@@ -112,7 +111,7 @@
     {
       "path": "index.html",
       "title": "Senior AI product designer for agencies | Felipe Amorim",
-      "description": "Senior AI product design and UX/UI for agencies and studios in Madrid, Europe and the UK. Clear conversational experiences, considered edge cases and developer-ready design.",
+      "description": "Senior AI product design and UX/UI for agencies and studios across Europe and the UK. From complex briefs to clear experiences and developer-ready design.",
       "section": "",
       "compact_footer": false,
       "styles": [],
@@ -124,7 +123,7 @@
           "name": "Felipe Amorim",
           "url": "https://felipecaroe.github.io/portfolio/beta/",
           "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
-          "jobTitle": "Senior AI product designer and UX lead",
+          "jobTitle": "Senior AI Product Designer",
           "homeLocation": {
             "@type": "Place",
             "name": "Madrid, Spain"
@@ -149,8 +148,8 @@
     },
     {
       "path": "leadership.html",
-      "title": "Senior AI product designer and UX lead | Felipe Amorim",
-      "description": "Felipe Amorim is a Madrid-based senior AI product designer with 20+ years across AI product experience, UX, service design and digital products. He works in Portuguese, English, Spanish and Italian.",
+      "title": "Senior AI Product Designer | Felipe Amorim",
+      "description": "Madrid-based senior AI product designer with 20+ years across AI, UX, service design and digital products. Working in Portuguese, English, Spanish and Italian.",
       "section": "leadership",
       "compact_footer": false,
       "styles": [],
@@ -162,7 +161,7 @@
           "name": "Felipe Amorim",
           "url": "https://felipecaroe.github.io/portfolio/beta/",
           "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
-          "jobTitle": "Senior AI product designer and UX lead",
+          "jobTitle": "Senior AI Product Designer",
           "homeLocation": {
             "@type": "Place",
             "name": "Madrid, Spain"
@@ -177,7 +176,7 @@
           "@type": "WebPage",
           "@id": "https://felipecaroe.github.io/portfolio/beta/leadership.html#webpage",
           "url": "https://felipecaroe.github.io/portfolio/beta/leadership.html",
-          "name": "Senior AI product designer and UX lead | Felipe Amorim",
+          "name": "Senior AI Product Designer | Felipe Amorim",
           "description": "Felipe Amorim is a Madrid-based senior AI product designer with 20+ years across AI product experience, UX, service design and digital products. He works in Portuguese, English, Spanish and Italian.",
           "author": {
             "@id": "https://felipecaroe.github.io/portfolio/beta/#felipe"
@@ -226,7 +225,7 @@
           "name": "Felipe Amorim",
           "url": "https://felipecaroe.github.io/portfolio/beta/",
           "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
-          "jobTitle": "Senior AI product designer and UX lead",
+          "jobTitle": "Senior AI Product Designer",
           "homeLocation": {
             "@type": "Place",
             "name": "Madrid, Spain"
@@ -265,7 +264,7 @@
     {
       "path": "services/ux-ui-brief.html",
       "title": "Focused AI product design and UX/UI brief | Felipe Amorim",
-      "description": "A focused UX/UI or AI interaction design brief for agency and studio teams. Senior design on one agreed flow, screen set or product review; pricing discussed directly.",
+      "description": "Focused UX/UI and AI interaction design for agency teams: one agreed flow, screen set or product review, shaped for developer handover.",
       "section": "services",
       "compact_footer": false,
       "styles": [],
@@ -277,7 +276,7 @@
           "name": "Felipe Amorim",
           "url": "https://felipecaroe.github.io/portfolio/beta/",
           "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
-          "jobTitle": "Senior AI product designer and UX lead",
+          "jobTitle": "Senior AI Product Designer",
           "homeLocation": {
             "@type": "Place",
             "name": "Madrid, Spain"
@@ -316,7 +315,7 @@
     {
       "path": "services.html",
       "title": "AI product design and UX/UI for agencies | Felipe Amorim",
-      "description": "Senior AI product design and UX/UI support for agencies and studios in Madrid, Europe and the UK. Focused briefs and monthly capacity, with pricing discussed directly.",
+      "description": "Senior AI product design and UX/UI for agencies and studios across Europe and the UK. Focused briefs and monthly capacity; discuss pricing directly.",
       "section": "services",
       "compact_footer": false,
       "styles": [],
@@ -328,7 +327,7 @@
           "name": "Felipe Amorim",
           "url": "https://felipecaroe.github.io/portfolio/beta/",
           "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
-          "jobTitle": "Senior AI product designer and UX lead",
+          "jobTitle": "Senior AI Product Designer",
           "homeLocation": {
             "@type": "Place",
             "name": "Madrid, Spain"
@@ -387,7 +386,7 @@
           "name": "Felipe Amorim",
           "url": "https://felipecaroe.github.io/portfolio/beta/",
           "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
-          "jobTitle": "Senior AI product designer and UX lead",
+          "jobTitle": "Senior AI Product Designer",
           "homeLocation": {
             "@type": "Place",
             "name": "Madrid, Spain"
@@ -425,7 +424,7 @@
           "name": "Felipe Amorim",
           "url": "https://felipecaroe.github.io/portfolio/beta/",
           "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
-          "jobTitle": "Senior AI product designer and UX lead",
+          "jobTitle": "Senior AI Product Designer",
           "homeLocation": {
             "@type": "Place",
             "name": "Madrid, Spain"
@@ -463,7 +462,7 @@
           "name": "Felipe Amorim",
           "url": "https://felipecaroe.github.io/portfolio/beta/",
           "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
-          "jobTitle": "Senior AI product designer and UX lead",
+          "jobTitle": "Senior AI Product Designer",
           "homeLocation": {
             "@type": "Place",
             "name": "Madrid, Spain"
@@ -503,7 +502,7 @@
           "name": "Felipe Amorim",
           "url": "https://felipecaroe.github.io/portfolio/beta/",
           "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
-          "jobTitle": "Senior AI product designer and UX lead",
+          "jobTitle": "Senior AI Product Designer",
           "homeLocation": {
             "@type": "Place",
             "name": "Madrid, Spain"
@@ -533,7 +532,8 @@
       "section": "work",
       "compact_footer": true,
       "styles": [
-        "work/luzia-new-chat/assets/case.css"
+        "work/luzia-new-chat/assets/case.css",
+        "assets/prototype-flows.css"
       ],
       "schema": []
     },
@@ -552,7 +552,7 @@
           "name": "Felipe Amorim",
           "url": "https://felipecaroe.github.io/portfolio/beta/",
           "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
-          "jobTitle": "Senior AI product designer and UX lead",
+          "jobTitle": "Senior AI Product Designer",
           "homeLocation": {
             "@type": "Place",
             "name": "Madrid, Spain"
@@ -590,7 +590,7 @@
           "name": "Felipe Amorim",
           "url": "https://felipecaroe.github.io/portfolio/beta/",
           "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
-          "jobTitle": "Senior AI product designer and UX lead",
+          "jobTitle": "Senior AI Product Designer",
           "homeLocation": {
             "@type": "Place",
             "name": "Madrid, Spain"
@@ -630,7 +630,7 @@
           "name": "Felipe Amorim",
           "url": "https://felipecaroe.github.io/portfolio/beta/",
           "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
-          "jobTitle": "Senior AI product designer and UX lead",
+          "jobTitle": "Senior AI Product Designer",
           "homeLocation": {
             "@type": "Place",
             "name": "Madrid, Spain"
@@ -660,7 +660,8 @@
       "section": "work",
       "compact_footer": true,
       "styles": [
-        "assets/case-compositions.css"
+        "assets/case-compositions.css",
+        "assets/prototype-flows.css"
       ],
       "schema": [
         {
@@ -670,7 +671,7 @@
           "name": "Felipe Amorim",
           "url": "https://felipecaroe.github.io/portfolio/beta/",
           "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
-          "jobTitle": "Senior AI product designer and UX lead",
+          "jobTitle": "Senior AI Product Designer",
           "homeLocation": {
             "@type": "Place",
             "name": "Madrid, Spain"
@@ -708,7 +709,7 @@
           "name": "Felipe Amorim",
           "url": "https://felipecaroe.github.io/portfolio/beta/",
           "image": "https://felipecaroe.github.io/portfolio/beta/img/felipe.png",
-          "jobTitle": "Senior AI product designer and UX lead",
+          "jobTitle": "Senior AI Product Designer",
           "homeLocation": {
             "@type": "Place",
             "name": "Madrid, Spain"
@@ -730,6 +731,17 @@
           }
         }
       ]
+    },
+    {
+      "path": "work/rcd-espanyol.html",
+      "title": "RCD Espanyol · Fan experience | Felipe Amorim",
+      "description": "RCD Espanyol app design: in-person discovery, fan research and a mobile experience connecting club content, matchday and member services.",
+      "section": "work",
+      "compact_footer": true,
+      "styles": [
+        "work/espanyol/case.css"
+      ],
+      "schema": []
     }
   ]
 }

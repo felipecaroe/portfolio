@@ -1,0 +1,779 @@
+{
+  "work/luzia-new-chat/assets/first-entrance-shell.png": {
+    "size": [
+      417,
+      881
+    ],
+    "bounds": [
+      0,
+      0,
+      417,
+      881
+    ]
+  },
+  "work/luzia-new-chat/assets/first-entrance.png": {
+    "size": [
+      465,
+      900
+    ],
+    "bounds": [
+      24,
+      10,
+      441,
+      891
+    ]
+  },
+  "work/luzia-new-chat/assets/chat-keyboard.png": {
+    "size": [
+      465,
+      900
+    ],
+    "bounds": [
+      24,
+      10,
+      441,
+      891
+    ]
+  },
+  "work/luzia-new-chat/assets/drawer-open.png": {
+    "size": [
+      465,
+      900
+    ],
+    "bounds": [
+      24,
+      10,
+      441,
+      891
+    ]
+  },
+  "img/home-atletico-shell.png": {
+    "size": [
+      483,
+      932
+    ],
+    "bounds": [
+      33,
+      33,
+      449,
+      901
+    ]
+  },
+  "work/atletico/assets/figma-exports/atletico-mobile-hub-2x.png": {
+    "size": [
+      720,
+      1510
+    ],
+    "bounds": [
+      18,
+      65,
+      703,
+      1508
+    ],
+    "clip": true
+  },
+  "img/home_pizza.png": {
+    "size": [
+      1109,
+      2283
+    ],
+    "bounds": [
+      2,
+      2,
+      1107,
+      2281
+    ]
+  },
+  "img/parallax-4.png": {
+    "size": [
+      541,
+      980
+    ],
+    "bounds": [
+      39,
+      60,
+      452,
+      913
+    ],
+    "shadow": true
+  },
+  "img/parallax-5.png": {
+    "size": [
+      635,
+      636
+    ],
+    "bounds": [
+      55,
+      31,
+      521,
+      573
+    ],
+    "shadow": true
+  },
+  "img/card_dynamics/1.png": {
+    "size": [
+      1109,
+      2283
+    ],
+    "bounds": [
+      2,
+      2,
+      1107,
+      2281
+    ]
+  },
+  "img/card_dynamics/2.png": {
+    "size": [
+      1109,
+      2283
+    ],
+    "bounds": [
+      2,
+      2,
+      1107,
+      2281
+    ]
+  },
+  "img/card_dynamics/3.png": {
+    "size": [
+      1109,
+      2283
+    ],
+    "bounds": [
+      2,
+      2,
+      1107,
+      2281
+    ]
+  },
+  "work/ipiranga/assets/mockups/ipiranga-route.webp": {
+    "size": [
+      1720,
+      3120
+    ],
+    "bounds": [
+      82,
+      186,
+      1399,
+      2902
+    ],
+    "shadow": true
+  },
+  "work/ipiranga/assets/mockups/ipiranga-store.webp": {
+    "size": [
+      1700,
+      3080
+    ],
+    "bounds": [
+      82,
+      186,
+      1379,
+      2862
+    ],
+    "shadow": true
+  },
+  "work/ipiranga/assets/mockups/ipiranga-home.webp": {
+    "size": [
+      2476,
+      3980
+    ],
+    "bounds": [
+      530,
+      546,
+      1914,
+      3402
+    ],
+    "shadow": true
+  },
+  "work/raio/assets/mockups/raio-iphone-benefits.webp": {
+    "size": [
+      968,
+      2568
+    ],
+    "bounds": [
+      0,
+      0,
+      963,
+      2562
+    ]
+  },
+  "work/skateking/assets/mockups/skateking-iphone-01.webp": {
+    "size": [
+      1480,
+      2739
+    ],
+    "bounds": [
+      12,
+      124,
+      1212,
+      2527
+    ],
+    "shadow": true
+  },
+  "work/skateking/assets/mockups/skateking-iphone-confirmation.webp": {
+    "size": [
+      1480,
+      2740
+    ],
+    "bounds": [
+      12,
+      124,
+      1212,
+      2529
+    ],
+    "shadow": true
+  },
+  "work/skateking/assets/mockups/skateking-iphone-map-with-hand.webp": {
+    "size": [
+      1852,
+      2908
+    ],
+    "bounds": [
+      33,
+      124,
+      1566,
+      2752
+    ],
+    "shadow": true
+  },
+  "work/invisipayment/assets/selected/invisipayment-watch-receipt-2x.png": {
+    "size": [
+      442,
+      498
+    ],
+    "bounds": [
+      0,
+      1,
+      440,
+      496
+    ]
+  },
+  "cases/img/sc1.png": {
+    "size": [
+      430,
+      932
+    ]
+  },
+  "cases/img/sc2.png": {
+    "size": [
+      430,
+      932
+    ]
+  },
+  "cases/img/sc3.png": {
+    "size": [
+      430,
+      932
+    ]
+  },
+  "cases/img/sc4.png": {
+    "size": [
+      430,
+      1128
+    ]
+  },
+  "cases/drafts/mi-mundo/media/03-understood.png": {
+    "size": [
+      720,
+      1600
+    ]
+  },
+  "cases/drafts/mi-mundo/media/04-vibe.png": {
+    "size": [
+      720,
+      1600
+    ]
+  },
+  "cases/drafts/mi-mundo/media/06-reveal.png": {
+    "size": [
+      720,
+      1600
+    ]
+  },
+  "cases/drafts/mi-mundo/media/02-dump.png": {
+    "size": [
+      720,
+      1600
+    ]
+  },
+  "cases/drafts/enem/media/app-captures/05-hint.png": {
+    "size": [
+      1170,
+      2532
+    ]
+  },
+  "cases/drafts/enem/media/app-captures/01-study-mode.png": {
+    "size": [
+      1170,
+      2532
+    ]
+  },
+  "cases/drafts/enem/media/app-captures/07-history.png": {
+    "size": [
+      1170,
+      2532
+    ]
+  },
+  "cases/drafts/enem/media/app-captures/00-entry.png": {
+    "size": [
+      1170,
+      2532
+    ]
+  },
+  "cases/drafts/enem/media/app-captures/06-explanation.png": {
+    "size": [
+      1170,
+      2532
+    ]
+  },
+  "cases/drafts/enem/media/app-captures/03-lesson.png": {
+    "size": [
+      1170,
+      2532
+    ]
+  },
+  "cases/drafts/enem/media/app-captures/04-question.png": {
+    "size": [
+      1170,
+      2532
+    ]
+  },
+  "cases/source-kits/portfolio-cases/services-hub/02-shop-lobby.png": {
+    "size": [
+      375,
+      812
+    ]
+  },
+  "cases/source-kits/portfolio-cases/services-hub/01-all-services-lobby.png": {
+    "size": [
+      375,
+      812
+    ]
+  },
+  "cases/source-kits/portfolio-cases/services-hub/03-bookings-lobby.png": {
+    "size": [
+      375,
+      812
+    ]
+  },
+  "cases/source-kits/portfolio-cases/webapp/01-home-dark.png": {
+    "size": [
+      2880,
+      1800
+    ]
+  },
+  "cases/source-kits/portfolio-cases/webapp/03-tools.png": {
+    "size": [
+      2880,
+      1800
+    ]
+  },
+  "cases/source-kits/portfolio-cases/webapp/02-ideas.png": {
+    "size": [
+      2880,
+      1800
+    ]
+  },
+  "work/skateking/assets/mockups/skateking-screen-avatar.webp": {
+    "size": [
+      1179,
+      2553
+    ]
+  },
+  "work/skateking/assets/mockups/skateking-screen-create-account.webp": {
+    "size": [
+      1179,
+      2553
+    ]
+  },
+  "work/skateking/assets/mockups/skateking-screen-style.webp": {
+    "size": [
+      1179,
+      2553
+    ]
+  },
+  "cases/drafts/services-hub/media/ifood-basket-ready.svg": {
+    "size": [
+      720,
+      1600
+    ]
+  },
+  "cases/drafts/services-hub/media/ifood-delivery-options.png": {
+    "size": [
+      841,
+      1871
+    ]
+  },
+  "work/atletico/assets/figma-exports/product-detail.png": {
+    "size": [
+      508,
+      1068
+    ],
+    "bounds": [
+      0,
+      0,
+      508,
+      1068
+    ]
+  },
+  "work/atletico/assets/figma-exports/unified-checkout.png": {
+    "size": [
+      636,
+      1329
+    ],
+    "bounds": [
+      0,
+      0,
+      636,
+      1329
+    ]
+  },
+  "work/atletico/assets/figma-exports/member-shop.png": {
+    "size": [
+      483,
+      932
+    ],
+    "bounds": [
+      33,
+      33,
+      449,
+      901
+    ]
+  },
+  "work/espanyol/assets/05-media-story.png": {
+    "size": [
+      860,
+      1862
+    ],
+    "bounds": [
+      0,
+      0,
+      860,
+      1862
+    ]
+  },
+  "work/espanyol/assets/01-home.png": {
+    "size": [
+      430,
+      932
+    ],
+    "bounds": [
+      0,
+      0,
+      430,
+      932
+    ]
+  },
+  "work/espanyol/assets/04-navigation.png": {
+    "size": [
+      860,
+      1862
+    ],
+    "bounds": [
+      0,
+      0,
+      860,
+      1862
+    ]
+  },
+  "work/espanyol/assets/02-matchday.png": {
+    "size": [
+      430,
+      931
+    ],
+    "bounds": [
+      0,
+      0,
+      430,
+      931
+    ]
+  },
+  "work/espanyol/assets/03-member-services.png": {
+    "size": [
+      860,
+      1862
+    ],
+    "bounds": [
+      0,
+      0,
+      860,
+      1862
+    ]
+  },
+  "work/espanyol/assets/06-content-recovery.png": {
+    "size": [
+      860,
+      1862
+    ],
+    "bounds": [
+      0,
+      0,
+      860,
+      1862
+    ]
+  },
+  "work/espanyol/assets/03-navigation.png": {
+    "size": [
+      860,
+      1862
+    ],
+    "bounds": [
+      0,
+      0,
+      860,
+      1862
+    ]
+  },
+  "work/espanyol/assets/04-member-services.png": {
+    "size": [
+      430,
+      931
+    ],
+    "bounds": [
+      0,
+      0,
+      430,
+      931
+    ]
+  },
+  "work/espanyol/assets/06-calendar.png": {
+    "size": [
+      860,
+      1862
+    ],
+    "bounds": [
+      0,
+      0,
+      860,
+      1862
+    ]
+  },
+  "work/luzia-new-chat/assets/flows/routine-02.webp": {
+    "size": [
+      1178,
+      2554
+    ]
+  },
+  "work/luzia-new-chat/assets/flows/conversation-01.webp": {
+    "size": [
+      1178,
+      2554
+    ]
+  },
+  "work/luzia-new-chat/assets/flows/routine-03.webp": {
+    "size": [
+      1178,
+      2554
+    ]
+  },
+  "work/luzia-new-chat/assets/flows/routine-08.webp": {
+    "size": [
+      1178,
+      2554
+    ]
+  },
+  "work/luzia-new-chat/assets/flows/routine-04.webp": {
+    "size": [
+      1178,
+      2554
+    ]
+  },
+  "work/luzia-new-chat/assets/flows/conversation-07.webp": {
+    "size": [
+      1178,
+      2554
+    ]
+  },
+  "work/luzia-new-chat/assets/flows/conversation-06.webp": {
+    "size": [
+      1178,
+      2554
+    ]
+  },
+  "work/luzia-new-chat/assets/flows/routine-05.webp": {
+    "size": [
+      1178,
+      2554
+    ]
+  },
+  "work/luzia-new-chat/assets/flows/routine-09.webp": {
+    "size": [
+      1178,
+      2554
+    ]
+  },
+  "work/luzia-new-chat/assets/flows/routine-10.webp": {
+    "size": [
+      1178,
+      2554
+    ]
+  },
+  "work/luzia-new-chat/assets/flows/conversation-05.webp": {
+    "size": [
+      1178,
+      2554
+    ]
+  },
+  "work/luzia-new-chat/assets/flows/routine-06.webp": {
+    "size": [
+      1178,
+      2554
+    ]
+  },
+  "work/luzia-new-chat/assets/flows/routine-07.webp": {
+    "size": [
+      1178,
+      2554
+    ]
+  },
+  "work/luzia-new-chat/assets/flows/conversation-04.webp": {
+    "size": [
+      1178,
+      2554
+    ]
+  },
+  "work/luzia-new-chat/assets/flows/conversation-03.webp": {
+    "size": [
+      1178,
+      2554
+    ]
+  },
+  "work/luzia-new-chat/assets/flows/routine-01.webp": {
+    "size": [
+      1178,
+      2554
+    ]
+  },
+  "work/luzia-new-chat/assets/flows/conversation-02.webp": {
+    "size": [
+      1178,
+      2554
+    ]
+  },
+  "work/luzia-new-chat/assets/contextual-inference.png": {
+    "size": [
+      1179,
+      2556
+    ]
+  },
+  "cases/drafts/services-hub/media/routine-rich-output.png": {
+    "size": [
+      375,
+      812
+    ]
+  },
+  "work/skateking/assets/mockups/skateking-map-home.webp": {
+    "size": [
+      1179,
+      2553
+    ]
+  },
+  "work/skateking/assets/mockups/skateking-map-search.webp": {
+    "size": [
+      1179,
+      2553
+    ]
+  },
+  "work/skateking/assets/mockups/skateking-spot-open.webp": {
+    "size": [
+      1179,
+      2553
+    ]
+  },
+  "work/outback/assets/screens/outback-checkout.png": {
+    "size": [
+      750,
+      1624
+    ]
+  },
+  "work/outback/assets/screens/outback-queue.png": {
+    "size": [
+      750,
+      1624
+    ]
+  },
+  "work/outback/assets/screens/outback-menu.png": {
+    "size": [
+      750,
+      1624
+    ]
+  },
+  "work/ipiranga/assets/mockups/ipiranga-trio-vantagens.png": {
+    "size": [
+      771,
+      1360
+    ]
+  },
+  "work/webapp/assets/source-captures/01-home-collapsed.jpg": {
+    "size": [
+      2880,
+      1566
+    ]
+  },
+  "work/webapp/assets/source-captures/02-composer-focused.jpg": {
+    "size": [
+      2880,
+      1566
+    ]
+  },
+  "work/webapp/assets/source-captures/03-message-sent.jpg": {
+    "size": [
+      2880,
+      1566
+    ]
+  },
+  "work/webapp/assets/case-display/03-message-sent.jpg": {
+    "size": [
+      2880,
+      1566
+    ]
+  },
+  "work/webapp/assets/source-captures/04-ideas.jpg": {
+    "size": [
+      2880,
+      1566
+    ]
+  },
+  "img/home-outback-shell.png": {
+    "size": [
+      429,
+      877
+    ]
+  },
+  "work/outback/assets/screens/bold-profile-ipad.png": {
+    "size": [
+      2732,
+      2048
+    ]
+  },
+  "work/pizza-hut/assets/screens/01-home.png": {
+    "size": [
+      750,
+      1624
+    ]
+  },
+  "work/pizza-hut/assets/screens/02-basket.png": {
+    "size": [
+      750,
+      1624
+    ]
+  },
+  "work/pizza-hut/assets/screens/03-delivery-home.png": {
+    "size": [
+      750,
+      1624
+    ]
+  },
+  "work/pizza-hut/assets/screens/04-product.png": {
+    "size": [
+      750,
+      1624
+    ]
+  },
+  "work/pizza-hut/assets/screens/05-payment.png": {
+    "size": [
+      750,
+      1624
+    ]
+  }
+}

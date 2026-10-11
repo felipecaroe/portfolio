@@ -1,0 +1,5965 @@
+[
+  {
+    "path": "work.html",
+    "mode": "desktop",
+    "headings": [
+      "Selected work.",
+      "Selected projects",
+      "A senior partner who stays close to the delivery.",
+      "Let’s talk about the work ahead."
+    ],
+    "height": 6697,
+    "images": [
+      {
+        "alt": "Luzia new-chat experience shown in its finished iPhone shell",
+        "displayH": 414,
+        "displayW": 196,
+        "h": 881,
+        "loaded": true,
+        "src": "work/luzia-new-chat/assets/first-entrance-shell.png?v=e355717a6546",
+        "w": 417
+      },
+      {
+        "alt": "Atlético de Madrid fan-services app in a clean phone shell",
+        "displayH": 444,
+        "displayW": 230,
+        "h": 932,
+        "loaded": true,
+        "src": "img/home-atletico-shell.png?v=0f30805e3897",
+        "w": 483
+      },
+      {
+        "alt": "Luzia Services Hub grocery basket with product images and editable quantities",
+        "displayH": 407,
+        "displayW": 183,
+        "h": 1600,
+        "loaded": true,
+        "src": "cases/drafts/services-hub/media/ifood-basket-ready.svg?v=4d24e88f1161",
+        "w": 720
+      },
+      {
+        "alt": "Pizza Hut mobile ordering shown in a rounded phone mockup",
+        "displayH": 414,
+        "displayW": 201,
+        "h": 2283,
+        "loaded": true,
+        "src": "img/home_pizza.png?v=bce950a0939f",
+        "w": 1109
+      },
+      {
+        "alt": "RCD Espanyol home with club news, fixtures and personal services",
+        "displayH": 406,
+        "displayW": 188,
+        "h": 932,
+        "loaded": true,
+        "src": "work/espanyol/assets/01-home.png?v=504b888e7d88",
+        "w": 430
+      },
+      {
+        "alt": "The ENEM entry screen with subject choices and guided study",
+        "displayH": 406,
+        "displayW": 188,
+        "h": 2532,
+        "loaded": true,
+        "src": "cases/drafts/enem/media/app-captures/00-entry.png?v=42da15302c4c",
+        "w": 1170
+      },
+      {
+        "alt": "Outback mobile dining experience shown in a rounded phone mockup",
+        "displayH": 475,
+        "displayW": 262,
+        "h": 0,
+        "loaded": false,
+        "src": "img/parallax-4.png?v=93c3b1758288",
+        "w": 0
+      },
+      {
+        "alt": "Luzia web app home in dark mode, with its navigation and assistant composer",
+        "displayH": 328,
+        "displayW": 525,
+        "h": 0,
+        "loaded": false,
+        "src": "cases/source-kits/portfolio-cases/webapp/01-home-dark.png?v=ce4b7ac79cd9",
+        "w": 0
+      },
+      {
+        "alt": "Card Dynamics and Carrefour mortgage flow shown in a rounded phone mockup",
+        "displayH": 414,
+        "displayW": 201,
+        "h": 2283,
+        "loaded": true,
+        "src": "img/card_dynamics/1.png?v=feec49075d9c",
+        "w": 1109
+      },
+      {
+        "alt": "Ipiranga products, rewards and convenience in its original iPhone mockup",
+        "displayH": 476,
+        "displayW": 263,
+        "h": 0,
+        "loaded": false,
+        "src": "work/ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "w": 0
+      },
+      {
+        "alt": "Raiô employee balances and benefits in its original iPhone mockup",
+        "displayH": 415,
+        "displayW": 156,
+        "h": 0,
+        "loaded": false,
+        "src": "work/raio/assets/mockups/raio-iphone-benefits.webp?v=91e67edeb23a",
+        "w": 0
+      },
+      {
+        "alt": "SkateKing discovery and community screen in its original iPhone mockup",
+        "displayH": 472,
+        "displayW": 255,
+        "h": 0,
+        "loaded": false,
+        "src": "work/skateking/assets/mockups/skateking-iphone-01.webp?v=dd5c0b3f942d",
+        "w": 0
+      },
+      {
+        "alt": "Impulse Financial Assistant settings in a rounded phone mockup",
+        "displayH": 406,
+        "displayW": 188,
+        "h": 0,
+        "loaded": false,
+        "src": "cases/img/sc1.png?v=efb375e61944",
+        "w": 0
+      },
+      {
+        "alt": "Invisipayment watch receipt with a clear purchase amount and an immediate dispute action",
+        "displayH": 294,
+        "displayW": 261,
+        "h": 0,
+        "loaded": false,
+        "src": "work/invisipayment/assets/selected/invisipayment-watch-receipt-2x.png?v=efa6718ec072",
+        "w": 0
+      },
+      {
+        "alt": "Mi Mundo voice-first creation concept reveal",
+        "displayH": 407,
+        "displayW": 183,
+        "h": 0,
+        "loaded": false,
+        "src": "cases/drafts/mi-mundo/media/06-reveal.png?v=4d54f42bd8c7",
+        "w": 0
+      }
+    ],
+    "links": [
+      {
+        "href": "work/luzia-new-chat/",
+        "text": "AI productProduct strategyLuzia · New chatChat-first entry, with the composer and thread history redesigned."
+      },
+      {
+        "href": "work/atletico-de-madrid.html",
+        "text": "Fan servicesMobile productAtlético de MadridConnected fan services · +€350k monthly revenue reported."
+      },
+      {
+        "href": "cases/drafts/services-hub/",
+        "text": "AI productService designLuzia · Services HubBookings, commerce and routines inside an AI conversation."
+      },
+      {
+        "href": "work/pizza-hut.html",
+        "text": "Service designMobile orderingPizza HutA clearer ordering journey · satisfaction reported from 82% to 95%."
+      },
+      {
+        "href": "work/rcd-espanyol.html",
+        "text": "Fan experienceProduct strategyRCD EspanyolClub content, matchday and member services brought into one fan experience."
+      },
+      {
+        "href": "cases/drafts/enem/",
+        "text": "AI productLearning experiencePreparador do ENEMOfficial questions, guided learning and AI explanations."
+      },
+      {
+        "href": "work/outback.html",
+        "text": "Customer experienceService designOutbackA connected dining journey · +29% sales reported."
+      },
+      {
+        "href": "cases/drafts/webapp/",
+        "text": "AI productWeb experienceLuzia · Web appA responsive assistant built for keyboard, browsing and reading."
+      },
+      {
+        "href": "work/card-dynamics.html",
+        "text": "FintechProduct and brandCard DynamicsWhite-label financial flows from retail offer to account connection."
+      },
+      {
+        "href": "work/ipiranga.html",
+        "text": "Super appMobile productIpirangaRoutes, station discovery and rewards in one mobility product."
+      },
+      {
+        "href": "work/raio.html",
+        "text": "Employee benefitsUX/UIRaiôA benefits wallet for employees and management tools for HR."
+      },
+      {
+        "href": "work/skateking.html",
+        "text": "Community appSportSkateKingPersonal onboarding and map-based discovery for skaters."
+      },
+      {
+        "href": "cases/impulse.html",
+        "text": "Concept explorationSpeculative designImpulseA wearable finance concept with budget context and phone approval."
+      },
+      {
+        "href": "work/invisipayment.html",
+        "text": "Concept explorationSpeculative designInvisipaymentA hands-free payment concept with confirmation and dispute."
+      },
+      {
+        "href": "cases/drafts/mi-mundo/",
+        "text": "Concept explorationVoice interactionMi MundoA voice-first concept from spoken intent to a shareable world."
+      },
+      {
+        "href": "leadership.html",
+        "text": "Meet Felipe and see his experience"
+      }
+    ],
+    "scrollWidth": 1425,
+    "title": "Product and UX/UI case studies | Felipe Amorim",
+    "videos": [
+      {
+        "display": "block",
+        "paused": false,
+        "ready": 4,
+        "src": "http://localhost:8766/beta/img/foammedium.webm?v=082a2c5f1ca5"
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "path": "services.html",
+    "mode": "desktop",
+    "headings": [
+      "Extra design capacity. Senior from day one.",
+      "Design for what happens around the answer.",
+      "Make the next step easier to take.",
+      "Make the product clear on screen.",
+      "Find the changes worth making first.",
+      "Give the team a shared way forward.",
+      "Start with the brief in front of you.",
+      "Clear scope. Direct collaboration.",
+      "Let’s talk about the work ahead."
+    ],
+    "height": 4418,
+    "images": [],
+    "links": [
+      {
+        "href": "contact.html?service=agency",
+        "text": "Discuss a client brief"
+      },
+      {
+        "href": "contact.html?service=agency",
+        "text": "Discuss an agency project"
+      },
+      {
+        "href": "contact.html?service=brief",
+        "text": "Pricing by conversationDiscuss scope and pricing."
+      },
+      {
+        "href": "services/ux-ui-brief.html",
+        "text": "Explore the focused brief"
+      },
+      {
+        "href": "contact.html?service=monthly",
+        "text": "Pricing by conversationDiscuss scope and pricing."
+      },
+      {
+        "href": "services/monthly-design.html",
+        "text": "Explore monthly support"
+      },
+      {
+        "href": "contact.html?service=product",
+        "text": "Get in touch about direct product support"
+      },
+      {
+        "href": "contact.html",
+        "text": "Tell me what you need"
+      }
+    ],
+    "scrollWidth": 1425,
+    "title": "AI product design and UX/UI for agencies | Felipe Amorim",
+    "videos": [
+      {
+        "display": "block",
+        "paused": false,
+        "ready": 4,
+        "src": "http://localhost:8766/beta/img/foammedium.webm?v=082a2c5f1ca5"
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "path": "contact.html",
+    "mode": "desktop",
+    "headings": [
+      "Tell me about your project.",
+      "Prepare your brief.",
+      "Let’s talk about the work ahead."
+    ],
+    "height": 1812,
+    "images": [],
+    "links": [
+      {
+        "href": "mailto:felipie@gmail.com",
+        "text": "felipie@gmail.com"
+      },
+      {
+        "href": "mailto:felipie@gmail.com",
+        "text": "Email me directly"
+      },
+      {
+        "href": "#brief-form",
+        "text": "Use the brief form"
+      }
+    ],
+    "scrollWidth": 1425,
+    "title": "Hire freelance UX/UI design support | Felipe Amorim",
+    "videos": [
+      {
+        "display": "block",
+        "paused": false,
+        "ready": 4,
+        "src": "http://localhost:8766/beta/img/foammedium.webm?v=082a2c5f1ca5"
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "path": "index.html",
+    "mode": "desktop",
+    "headings": [
+      "Senior AI product designer for your next project.",
+      "Design that moves the brief forward.",
+      "Good design grows in good company.",
+      "Senior design for your next client brief.",
+      "From product question to usable design.",
+      "Twenty years of perspective.",
+      "Let’s talk about the work ahead."
+    ],
+    "height": 5934,
+    "images": [
+      {
+        "alt": "Felipe Amorim, senior freelance product designer in Madrid",
+        "displayH": 790,
+        "displayW": 568,
+        "h": 768,
+        "loaded": true,
+        "src": "img/felipe.png?v=33c8b9fc9804",
+        "w": 598
+      },
+      {
+        "alt": "",
+        "displayH": 32,
+        "displayW": 25,
+        "h": 215,
+        "loaded": true,
+        "src": "img/logo_atletico_white.svg?v=d17c844425e5",
+        "w": 168
+      },
+      {
+        "alt": "",
+        "displayH": 32,
+        "displayW": 34,
+        "h": 33,
+        "loaded": true,
+        "src": "img/logo_cd.svg?v=6faebbb996f7",
+        "w": 38
+      },
+      {
+        "alt": "Outback",
+        "displayH": 42,
+        "displayW": 152,
+        "h": 21,
+        "loaded": true,
+        "src": "img/logo_out.svg?v=652756376c55",
+        "w": 76
+      },
+      {
+        "alt": "Pizza Hut",
+        "displayH": 42,
+        "displayW": 45,
+        "h": 562,
+        "loaded": true,
+        "src": "img/logo_pizza.png?v=04f83dadd0c6",
+        "w": 599
+      },
+      {
+        "alt": "",
+        "displayH": 34,
+        "displayW": 41,
+        "h": 1080,
+        "loaded": true,
+        "src": "img/logo_caixabank.png?v=9aef551c63eb",
+        "w": 1290
+      },
+      {
+        "alt": "",
+        "displayH": 40,
+        "displayW": 40,
+        "h": 1200,
+        "loaded": true,
+        "src": "img/logo_espanyol_white.svg?v=fc156f55b790",
+        "w": 1200
+      },
+      {
+        "alt": "Itaú",
+        "displayH": 42,
+        "displayW": 42,
+        "h": 500,
+        "loaded": true,
+        "src": "img/logo_itau.svg?v=efe25b538d0a",
+        "w": 500
+      },
+      {
+        "alt": "Luzia new-chat experience shown in its finished iPhone shell",
+        "displayH": 414,
+        "displayW": 196,
+        "h": 881,
+        "loaded": true,
+        "src": "work/luzia-new-chat/assets/first-entrance-shell.png?v=e355717a6546",
+        "w": 417
+      },
+      {
+        "alt": "Atlético de Madrid fan-services app in a clean phone shell",
+        "displayH": 444,
+        "displayW": 230,
+        "h": 932,
+        "loaded": true,
+        "src": "img/home-atletico-shell.png?v=0f30805e3897",
+        "w": 483
+      },
+      {
+        "alt": "Luzia Services Hub grocery basket with product images and editable quantities",
+        "displayH": 407,
+        "displayW": 183,
+        "h": 1600,
+        "loaded": true,
+        "src": "cases/drafts/services-hub/media/ifood-basket-ready.svg?v=4d24e88f1161",
+        "w": 720
+      },
+      {
+        "alt": "Pizza Hut mobile ordering shown in a rounded phone mockup",
+        "displayH": 414,
+        "displayW": 201,
+        "h": 2283,
+        "loaded": true,
+        "src": "img/home_pizza.png?v=bce950a0939f",
+        "w": 1109
+      },
+      {
+        "alt": "MadUX",
+        "displayH": 52,
+        "displayW": 150,
+        "h": 765,
+        "loaded": true,
+        "src": "img/community/logos/madux.svg?v=335914df0631",
+        "w": 837
+      },
+      {
+        "alt": "IxDF",
+        "displayH": 52,
+        "displayW": 150,
+        "h": 98,
+        "loaded": true,
+        "src": "img/community/logos/ixdf.svg?v=ead8a68ba0b2",
+        "w": 300
+      },
+      {
+        "alt": "UXDX",
+        "displayH": 52,
+        "displayW": 150,
+        "h": 100,
+        "loaded": true,
+        "src": "img/community/logos/uxdx.svg?v=95f34f7b6aba",
+        "w": 262
+      },
+      {
+        "alt": "Arcasiles",
+        "displayH": 52,
+        "displayW": 150,
+        "h": 1616,
+        "loaded": true,
+        "src": "img/community/logos/arcasiles.png?v=a6ab197cf880",
+        "w": 2425
+      },
+      {
+        "alt": "Felipe Amorim speaking at an Augmented Designer talk",
+        "displayH": 497,
+        "displayW": 597,
+        "h": 4032,
+        "loaded": true,
+        "src": "img/felipe-augmented-designer-speaking.jpeg?v=fea5fb1f53b4",
+        "w": 3024
+      }
+    ],
+    "links": [
+      {
+        "href": "contact.html?service=agency",
+        "text": "Start a conversation"
+      },
+      {
+        "href": "#selected-work",
+        "text": "See selected work"
+      },
+      {
+        "href": "work/luzia-new-chat/",
+        "text": "Luzia AI product"
+      },
+      {
+        "href": "work/atletico-de-madrid.html",
+        "text": "Atlético de Madrid Fan product"
+      },
+      {
+        "href": "contact.html?service=agency",
+        "text": "Start a conversation"
+      },
+      {
+        "href": "#selected-work",
+        "text": "See selected work"
+      },
+      {
+        "href": "work/luzia-new-chat/",
+        "text": "AI productProduct strategyLuzia · New chatChat-first entry, with the composer and thread history redesigned."
+      },
+      {
+        "href": "work/atletico-de-madrid.html",
+        "text": "Fan servicesMobile productAtlético de MadridConnected fan services · +€350k monthly revenue reported."
+      },
+      {
+        "href": "cases/drafts/services-hub/",
+        "text": "AI productService designLuzia · Services HubBookings, commerce and routines inside an AI conversation."
+      },
+      {
+        "href": "work/pizza-hut.html",
+        "text": "Service designMobile orderingPizza HutA clearer ordering journey · satisfaction reported from 82% to 95%."
+      },
+      {
+        "href": "work.html",
+        "text": "Explore all selected work"
+      },
+      {
+        "href": "leadership.html#community-and-talks",
+        "text": "Community, talks and workshops"
+      },
+      {
+        "href": "contact.html?service=agency",
+        "text": "Discuss an agency project"
+      },
+      {
+        "href": "contact.html?service=brief",
+        "text": "Pricing by conversationDiscuss scope and pricing."
+      },
+      {
+        "href": "services/ux-ui-brief.html",
+        "text": "See the focused brief"
+      },
+      {
+        "href": "contact.html?service=monthly",
+        "text": "Pricing by conversationDiscuss scope and pricing."
+      },
+      {
+        "href": "services/monthly-design.html",
+        "text": "See monthly support"
+      },
+      {
+        "href": "services.html",
+        "text": "Explore product-team support"
+      },
+      {
+        "href": "leadership.html",
+        "text": "More about my experience"
+      }
+    ],
+    "scrollWidth": 1425,
+    "title": "Senior AI product designer for agencies | Felipe Amorim",
+    "videos": [
+      {
+        "display": "block",
+        "paused": false,
+        "ready": 4,
+        "src": "http://localhost:8766/beta/img/foammedium.webm?v=082a2c5f1ca5"
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "path": "work.html",
+    "mode": "desktop",
+    "headings": [
+      "Selected work.",
+      "Selected projects",
+      "A senior partner who stays close to the delivery.",
+      "Let’s talk about the work ahead."
+    ],
+    "height": 6697,
+    "images": [
+      {
+        "alt": "Luzia new-chat experience shown in its finished iPhone shell",
+        "displayH": 414,
+        "displayW": 196,
+        "h": 881,
+        "loaded": true,
+        "src": "work/luzia-new-chat/assets/first-entrance-shell.png?v=e355717a6546",
+        "w": 417
+      },
+      {
+        "alt": "Atlético de Madrid fan-services app in a clean phone shell",
+        "displayH": 444,
+        "displayW": 230,
+        "h": 932,
+        "loaded": true,
+        "src": "img/home-atletico-shell.png?v=0f30805e3897",
+        "w": 483
+      },
+      {
+        "alt": "Luzia Services Hub grocery basket with product images and editable quantities",
+        "displayH": 407,
+        "displayW": 183,
+        "h": 1600,
+        "loaded": true,
+        "src": "cases/drafts/services-hub/media/ifood-basket-ready.svg?v=4d24e88f1161",
+        "w": 720
+      },
+      {
+        "alt": "Pizza Hut mobile ordering shown in a rounded phone mockup",
+        "displayH": 414,
+        "displayW": 201,
+        "h": 2283,
+        "loaded": true,
+        "src": "img/home_pizza.png?v=bce950a0939f",
+        "w": 1109
+      },
+      {
+        "alt": "RCD Espanyol home with club news, fixtures and personal services",
+        "displayH": 406,
+        "displayW": 188,
+        "h": 932,
+        "loaded": true,
+        "src": "work/espanyol/assets/01-home.png?v=504b888e7d88",
+        "w": 430
+      },
+      {
+        "alt": "The ENEM entry screen with subject choices and guided study",
+        "displayH": 406,
+        "displayW": 188,
+        "h": 2532,
+        "loaded": true,
+        "src": "cases/drafts/enem/media/app-captures/00-entry.png?v=42da15302c4c",
+        "w": 1170
+      },
+      {
+        "alt": "Outback mobile dining experience shown in a rounded phone mockup",
+        "displayH": 475,
+        "displayW": 262,
+        "h": 980,
+        "loaded": true,
+        "src": "img/parallax-4.png?v=93c3b1758288",
+        "w": 541
+      },
+      {
+        "alt": "Luzia web app home in dark mode, with its navigation and assistant composer",
+        "displayH": 328,
+        "displayW": 525,
+        "h": 1800,
+        "loaded": true,
+        "src": "cases/source-kits/portfolio-cases/webapp/01-home-dark.png?v=ce4b7ac79cd9",
+        "w": 2880
+      },
+      {
+        "alt": "Card Dynamics and Carrefour mortgage flow shown in a rounded phone mockup",
+        "displayH": 414,
+        "displayW": 201,
+        "h": 2283,
+        "loaded": true,
+        "src": "img/card_dynamics/1.png?v=feec49075d9c",
+        "w": 1109
+      },
+      {
+        "alt": "Ipiranga products, rewards and convenience in its original iPhone mockup",
+        "displayH": 476,
+        "displayW": 263,
+        "h": 3080,
+        "loaded": true,
+        "src": "work/ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "w": 1700
+      },
+      {
+        "alt": "Raiô employee balances and benefits in its original iPhone mockup",
+        "displayH": 415,
+        "displayW": 156,
+        "h": 2568,
+        "loaded": true,
+        "src": "work/raio/assets/mockups/raio-iphone-benefits.webp?v=91e67edeb23a",
+        "w": 968
+      },
+      {
+        "alt": "SkateKing discovery and community screen in its original iPhone mockup",
+        "displayH": 472,
+        "displayW": 255,
+        "h": 2739,
+        "loaded": true,
+        "src": "work/skateking/assets/mockups/skateking-iphone-01.webp?v=dd5c0b3f942d",
+        "w": 1480
+      },
+      {
+        "alt": "Impulse Financial Assistant settings in a rounded phone mockup",
+        "displayH": 406,
+        "displayW": 188,
+        "h": 932,
+        "loaded": true,
+        "src": "cases/img/sc1.png?v=efb375e61944",
+        "w": 430
+      },
+      {
+        "alt": "Invisipayment watch receipt with a clear purchase amount and an immediate dispute action",
+        "displayH": 294,
+        "displayW": 261,
+        "h": 498,
+        "loaded": true,
+        "src": "work/invisipayment/assets/selected/invisipayment-watch-receipt-2x.png?v=efa6718ec072",
+        "w": 442
+      },
+      {
+        "alt": "Mi Mundo voice-first creation concept reveal",
+        "displayH": 407,
+        "displayW": 183,
+        "h": 1600,
+        "loaded": true,
+        "src": "cases/drafts/mi-mundo/media/06-reveal.png?v=4d54f42bd8c7",
+        "w": 720
+      }
+    ],
+    "links": [
+      {
+        "href": "work/luzia-new-chat/",
+        "text": "AI productProduct strategyLuzia · New chatChat-first entry, with the composer and thread history redesigned."
+      },
+      {
+        "href": "work/atletico-de-madrid.html",
+        "text": "Fan servicesMobile productAtlético de MadridConnected fan services · +€350k monthly revenue reported."
+      },
+      {
+        "href": "cases/drafts/services-hub/",
+        "text": "AI productService designLuzia · Services HubBookings, commerce and routines inside an AI conversation."
+      },
+      {
+        "href": "work/pizza-hut.html",
+        "text": "Service designMobile orderingPizza HutA clearer ordering journey · satisfaction reported from 82% to 95%."
+      },
+      {
+        "href": "work/rcd-espanyol.html",
+        "text": "Fan experienceProduct strategyRCD EspanyolClub content, matchday and member services brought into one fan experience."
+      },
+      {
+        "href": "cases/drafts/enem/",
+        "text": "AI productLearning experiencePreparador do ENEMOfficial questions, guided learning and AI explanations."
+      },
+      {
+        "href": "work/outback.html",
+        "text": "Customer experienceService designOutbackA connected dining journey · +29% sales reported."
+      },
+      {
+        "href": "cases/drafts/webapp/",
+        "text": "AI productWeb experienceLuzia · Web appA responsive assistant built for keyboard, browsing and reading."
+      },
+      {
+        "href": "work/card-dynamics.html",
+        "text": "FintechProduct and brandCard DynamicsWhite-label financial flows from retail offer to account connection."
+      },
+      {
+        "href": "work/ipiranga.html",
+        "text": "Super appMobile productIpirangaRoutes, station discovery and rewards in one mobility product."
+      },
+      {
+        "href": "work/raio.html",
+        "text": "Employee benefitsUX/UIRaiôA benefits wallet for employees and management tools for HR."
+      },
+      {
+        "href": "work/skateking.html",
+        "text": "Community appSportSkateKingPersonal onboarding and map-based discovery for skaters."
+      },
+      {
+        "href": "cases/impulse.html",
+        "text": "Concept explorationSpeculative designImpulseA wearable finance concept with budget context and phone approval."
+      },
+      {
+        "href": "work/invisipayment.html",
+        "text": "Concept explorationSpeculative designInvisipaymentA hands-free payment concept with confirmation and dispute."
+      },
+      {
+        "href": "cases/drafts/mi-mundo/",
+        "text": "Concept explorationVoice interactionMi MundoA voice-first concept from spoken intent to a shareable world."
+      },
+      {
+        "href": "leadership.html",
+        "text": "Meet Felipe and see his experience"
+      }
+    ],
+    "scrollWidth": 1425,
+    "title": "Product and UX/UI case studies | Felipe Amorim",
+    "videos": [
+      {
+        "display": "block",
+        "paused": false,
+        "ready": 4,
+        "src": "http://localhost:8766/beta/img/foammedium.webm?v=082a2c5f1ca5"
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "path": "leadership.html",
+    "mode": "desktop",
+    "headings": [
+      "Design leader by experience.Designer by practice.",
+      "Senior perspective. Hands-on delivery.",
+      "Ideas get better when they’re shared.",
+      "Hire me if you need…",
+      "Experience you can put to work.",
+      "Design leadership",
+      "Building ventures",
+      "Product and future thinking",
+      "Let’s talk about the work ahead."
+    ],
+    "height": 5989,
+    "images": [
+      {
+        "alt": "Felipe speaking at MadUX Lightning Talks in Madrid",
+        "displayH": 308,
+        "displayW": 411,
+        "h": 1536,
+        "loaded": true,
+        "src": "img/community/madux-lightning-talks.jpg?v=13fcf3b64489",
+        "w": 1152
+      },
+      {
+        "alt": "Felipe presenting a design masterclass for IxDF Madrid",
+        "displayH": 308,
+        "displayW": 411,
+        "h": 438,
+        "loaded": true,
+        "src": "img/community/ixdf-masterclass.jpg?v=5e4dc54f0357",
+        "w": 582
+      },
+      {
+        "alt": "Felipe guiding a product alignment roundtable at UXDX Madrid",
+        "displayH": 308,
+        "displayW": 411,
+        "h": 1536,
+        "loaded": true,
+        "src": "img/community/uxdx-roundtable.jpg?v=b84357d5d6f6",
+        "w": 1152
+      },
+      {
+        "alt": "",
+        "displayH": 210,
+        "displayW": 438,
+        "h": 505,
+        "loaded": true,
+        "src": "img/image-10.png?v=f72415ca0179",
+        "w": 755
+      },
+      {
+        "alt": "",
+        "displayH": 210,
+        "displayW": 438,
+        "h": 1220,
+        "loaded": true,
+        "src": "img/product-design.png?v=44e4059ca32b",
+        "w": 755
+      },
+      {
+        "alt": "",
+        "displayH": 210,
+        "displayW": 438,
+        "h": 2133,
+        "loaded": true,
+        "src": "img/pexels/revenue-abstract.jpg?v=b5f4ab732043",
+        "w": 1200
+      },
+      {
+        "alt": "",
+        "displayH": 210,
+        "displayW": 438,
+        "h": 1800,
+        "loaded": true,
+        "src": "img/pexels/innovation-abstract.jpg?v=464f496d1895",
+        "w": 1200
+      },
+      {
+        "alt": "",
+        "displayH": 210,
+        "displayW": 438,
+        "h": 505,
+        "loaded": true,
+        "src": "img/image-11.png?v=d9b2a18e080d",
+        "w": 755
+      },
+      {
+        "alt": "",
+        "displayH": 210,
+        "displayW": 438,
+        "h": 0,
+        "loaded": false,
+        "src": "img/pexels/brand-warm-abstract.jpg?v=1ba6c34ce2ea",
+        "w": 0
+      }
+    ],
+    "links": [
+      {
+        "href": "https://www.linkedin.com/posts/felipecaroe_lightningtalks-madux-uxdesign-activity-7427637687265841152-_c-p",
+        "text": "View LinkedIn post"
+      },
+      {
+        "href": "https://www.linkedin.com/posts/felipecaroe_augmenteddesigner-cyberpunk-nonconformity-activity-7399027836621090817-sAZs",
+        "text": "View LinkedIn post"
+      },
+      {
+        "href": "https://www.linkedin.com/posts/felipecaroe_product-uxdesign-uxdxemea2026-activity-7444299303168131072-k3Si",
+        "text": "View LinkedIn post"
+      },
+      {
+        "href": "https://www.linkedin.com/posts/felipecaroe_lightningtalks-madux-uxdesign-activity-7427637687265841152-_c-p",
+        "text": "Lightning Talks: Show and Tell"
+      },
+      {
+        "href": "https://luma.com/cmbdmc02",
+        "text": "“The Augmented Designer”"
+      },
+      {
+        "href": "https://uxdx.com/community/community-madrid-2026-03-26/",
+        "text": "See the event"
+      },
+      {
+        "href": "resume.html",
+        "text": "View résumé"
+      },
+      {
+        "href": "contact.html",
+        "text": "Start a conversation"
+      }
+    ],
+    "scrollWidth": 1425,
+    "title": "Senior AI Product Designer | Felipe Amorim",
+    "videos": [],
+    "width": 1440
+  },
+  {
+    "path": "resume.html",
+    "mode": "desktop",
+    "headings": [
+      "Felipe Amorim\n          Senior AI product designer · UX/UI · Product strategy",
+      "Let’s talk about the work ahead."
+    ],
+    "height": 4164,
+    "images": [],
+    "links": [
+      {
+        "href": "index.html",
+        "text": "← Portfolio"
+      },
+      {
+        "href": "work/luzia-new-chat/index.html",
+        "text": "View Luzia work"
+      },
+      {
+        "href": "mailto:felipie@gmail.com",
+        "text": "felipie@gmail.com"
+      },
+      {
+        "href": "https://www.linkedin.com/in/felipecaroe/",
+        "text": "linkedin.com/in/felipecaroe"
+      },
+      {
+        "href": "https://www.behance.net/felipecaroe",
+        "text": "behance.net/felipecaroe"
+      }
+    ],
+    "scrollWidth": 1425,
+    "title": "Experience and résumé | Felipe Amorim",
+    "videos": [
+      {
+        "display": "block",
+        "paused": false,
+        "ready": 4,
+        "src": "http://localhost:8766/beta/img/foammedium.webm?v=082a2c5f1ca5"
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "path": "work/luzia-new-chat/index.html",
+    "mode": "desktop",
+    "headings": [
+      "Make the first chat feel effortless.",
+      "Say it. Check it.",
+      "Designed as a flow.",
+      "From a product directory to a conversation.",
+      "A deliberate reset.",
+      "Quiet structure.Useful cues.",
+      "One language.More than a screen.",
+      "A focused release.A broader exploration.",
+      "Help someone start. Then get out of the way.",
+      "Making an AI product easier to start using?"
+    ],
+    "height": 7552,
+    "images": [
+      {
+        "alt": "Luzia first-chat screen with a welcome, prompt suggestions, notification invitation and compact composer",
+        "displayH": 530,
+        "displayW": 251,
+        "h": 881,
+        "loaded": true,
+        "src": "assets/first-entrance-shell.png?v=e355717a6546",
+        "w": 417
+      },
+      {
+        "alt": "First entrance with a short greeting, three suggestions, a notification opt-in card and the composer",
+        "displayH": 530,
+        "displayW": 274,
+        "h": 900,
+        "loaded": true,
+        "src": "assets/first-entrance.png?v=19103ac77ce6",
+        "w": 465
+      },
+      {
+        "alt": "Luzia chat with the keyboard open and a compact composer",
+        "displayH": 530,
+        "displayW": 274,
+        "h": 900,
+        "loaded": true,
+        "src": "assets/chat-keyboard.png?v=a1fbe56ab2bf",
+        "w": 465
+      },
+      {
+        "alt": "Luzia side drawer with conversations, search and visual tools",
+        "displayH": 530,
+        "displayW": 274,
+        "h": 900,
+        "loaded": true,
+        "src": "assets/drawer-open.png?v=b64709fa1eaf",
+        "w": 465
+      },
+      {
+        "alt": "",
+        "displayH": 100,
+        "displayW": 46,
+        "h": 2532,
+        "loaded": true,
+        "src": "../../cases/drafts/enem/media/app-captures/00-entry.png?v=42da15302c4c",
+        "w": 1170
+      },
+      {
+        "alt": "",
+        "displayH": 100,
+        "displayW": 45,
+        "h": 1600,
+        "loaded": true,
+        "src": "../../cases/drafts/services-hub/media/ifood-basket-ready.svg?v=4d24e88f1161",
+        "w": 720
+      },
+      {
+        "alt": "",
+        "displayH": 72,
+        "displayW": 116,
+        "h": 1800,
+        "loaded": true,
+        "src": "../../cases/source-kits/portfolio-cases/webapp/01-home-dark.png?v=ce4b7ac79cd9",
+        "w": 2880
+      }
+    ],
+    "links": [
+      {
+        "href": "../../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "assets/newchat-voice-1080p.mp4",
+        "text": "Open the MP4 directly."
+      },
+      {
+        "href": "../../cases/drafts/enem/",
+        "text": "AI · LearningPreparador do ENEMOfficial questions, guided learning and AI explanations.Explore case"
+      },
+      {
+        "href": "../../cases/drafts/services-hub/",
+        "text": "AI · Service designLuzia · Services HubBookings, commerce and routines inside an AI conversation.Explore case"
+      },
+      {
+        "href": "../../cases/drafts/webapp/",
+        "text": "AI · Web productLuzia · Web appA responsive assistant built for keyboard, browsing and reading.Explore case"
+      },
+      {
+        "href": "../../contact.html?service=agency",
+        "text": "Talk through a similar challenge"
+      }
+    ],
+    "scrollWidth": 1425,
+    "title": "Luzia · New chat | Felipe Amorim",
+    "videos": [
+      {
+        "display": "block",
+        "paused": true,
+        "ready": 4,
+        "src": "http://localhost:8766/beta/work/luzia-new-chat/assets/newchat-voice-1080p.mp4?v=e7e4ddc6e41e"
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "path": "work/atletico-de-madrid.html",
+    "mode": "desktop",
+    "headings": [
+      "Bringing the fan journey into one app.",
+      "Match day brings several jobs at once.",
+      "Organise around what the fan needs to do.",
+      "From a fan’s next task to one checkout.",
+      "Start where the service happens.",
+      "Give services a place beyond the feed.",
+      "Connecting services and commerce in one product?"
+    ],
+    "height": 4895,
+    "images": [
+      {
+        "alt": "Atlético de Madrid fan services and member shop displayed in a clean phone shell",
+        "displayH": 569,
+        "displayW": 295,
+        "h": 932,
+        "loaded": true,
+        "src": "../img/home-atletico-shell.png?v=0f30805e3897",
+        "w": 483
+      },
+      {
+        "alt": "Club services organised around the fan’s next task",
+        "displayH": 542,
+        "displayW": 259,
+        "h": 1510,
+        "loaded": true,
+        "src": "atletico/assets/figma-exports/atletico-mobile-hub-2x.png?v=f4b355d2d535",
+        "w": 720
+      },
+      {
+        "alt": "Club merchandise and member offers",
+        "displayH": 557,
+        "displayW": 288,
+        "h": 932,
+        "loaded": true,
+        "src": "atletico/assets/figma-exports/member-shop.png?v=0f30805e3897",
+        "w": 483
+      },
+      {
+        "alt": "Shirt sizing, member pricing and personalisation",
+        "displayH": 518,
+        "displayW": 247,
+        "h": 1068,
+        "loaded": true,
+        "src": "atletico/assets/figma-exports/product-detail.png?v=b05cfa416524",
+        "w": 508
+      },
+      {
+        "alt": "Merchandise, food and tickets reviewed together before payment",
+        "displayH": 518,
+        "displayW": 248,
+        "h": 1329,
+        "loaded": true,
+        "src": "atletico/assets/figma-exports/unified-checkout.png?v=28d7447b3abb",
+        "w": 636
+      },
+      {
+        "alt": "Fans buying food and drinks at a stadium concession",
+        "displayH": 380,
+        "displayW": 624,
+        "h": 1224,
+        "loaded": true,
+        "src": "atletico/assets/figma-exports/matchday-concession.jpg?v=20f66d587676",
+        "w": 1018
+      },
+      {
+        "alt": "Atleti Pay terminal at the stadium counter",
+        "displayH": 380,
+        "displayW": 624,
+        "h": 830,
+        "loaded": true,
+        "src": "atletico/assets/figma-exports/atleti-pay-terminal.jpg?v=20cf36c1561f",
+        "w": 900
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 50,
+        "h": 2283,
+        "loaded": true,
+        "src": "../img/home_pizza.png?v=bce950a0939f",
+        "w": 1109
+      },
+      {
+        "alt": "",
+        "displayH": 117,
+        "displayW": 65,
+        "h": 980,
+        "loaded": true,
+        "src": "../img/parallax-4.png?v=93c3b1758288",
+        "w": 541
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 50,
+        "h": 2283,
+        "loaded": true,
+        "src": "../img/card_dynamics/1.png?v=feec49075d9c",
+        "w": 1109
+      }
+    ],
+    "links": [
+      {
+        "href": "../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/201717263/Atletico-de-Madrid-Cashless-Marketplace",
+        "text": "View original project"
+      },
+      {
+        "href": "pizza-hut.html",
+        "text": "Food · Mobile experiencePizza HutA clearer ordering journey · satisfaction reported from 82% to 95%.Explore case"
+      },
+      {
+        "href": "outback.html",
+        "text": "Hospitality · Customer experienceOutbackA connected dining journey · +29% sales reported.Explore case"
+      },
+      {
+        "href": "card-dynamics.html",
+        "text": "Finance · Partner ecosystemCard DynamicsWhite-label financial flows from retail offer to account connection.Explore case"
+      },
+      {
+        "href": "../contact.html?service=agency",
+        "text": "Talk through a similar challenge"
+      },
+      {
+        "href": "../work.html",
+        "text": "← Back to selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/201717263/Atletico-de-Madrid-Cashless-Marketplace",
+        "text": "View original case study"
+      }
+    ],
+    "scrollWidth": 1425,
+    "title": "Atlético de Madrid · Fan services | Felipe Amorim",
+    "videos": [
+      {
+        "display": "block",
+        "paused": false,
+        "ready": 4,
+        "src": "http://localhost:8766/beta/img/foammedium.webm?v=082a2c5f1ca5"
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "path": "cases/drafts/services-hub/index.html",
+    "mode": "desktop",
+    "headings": [
+      "One home for everything the assistant does.",
+      "One service area. Different jobs, clear next steps.",
+      "Move from a useful list to a delivery choice.",
+      "Useful capabilities were scattered across the assistant.",
+      "Three service patterns. One partner foundation.",
+      "Design a vocabulary the assistant can compose.",
+      "Use conversation to build. Structure to commit.",
+      "Turning AI capabilities into a service people can use?"
+    ],
+    "height": 5403,
+    "images": [
+      {
+        "alt": "Services Hub, with service categories and assistant capabilities",
+        "displayH": 521,
+        "displayW": 241,
+        "h": 812,
+        "loaded": true,
+        "src": "../../source-kits/portfolio-cases/services-hub/01-all-services-lobby.png?v=22f415538915",
+        "w": 375
+      },
+      {
+        "alt": "Bookings grouped into active and completed requests, with clear reply states",
+        "displayH": 509,
+        "displayW": 235,
+        "h": 812,
+        "loaded": true,
+        "src": "../../source-kits/portfolio-cases/services-hub/03-bookings-lobby.png?v=99872b029ba6",
+        "w": 375
+      },
+      {
+        "alt": "A grocery basket with product photos and editable quantities",
+        "displayH": 510,
+        "displayW": 229,
+        "h": 1600,
+        "loaded": true,
+        "src": "media/ifood-basket-ready.svg?v=4d24e88f1161",
+        "w": 720
+      },
+      {
+        "alt": "Delivery timing choices, with personal address and prices removed",
+        "displayH": 510,
+        "displayW": 229,
+        "h": 1871,
+        "loaded": true,
+        "src": "media/ifood-delivery-options.png?v=85daf9b4d135",
+        "w": 841
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 48,
+        "h": 881,
+        "loaded": true,
+        "src": "../../../work/luzia-new-chat/assets/first-entrance-shell.png?v=e355717a6546",
+        "w": 417
+      },
+      {
+        "alt": "",
+        "displayH": 72,
+        "displayW": 116,
+        "h": 1800,
+        "loaded": true,
+        "src": "../../../cases/source-kits/portfolio-cases/webapp/01-home-dark.png?v=ce4b7ac79cd9",
+        "w": 2880
+      },
+      {
+        "alt": "",
+        "displayH": 118,
+        "displayW": 65,
+        "h": 3080,
+        "loaded": true,
+        "src": "../../../work/ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "w": 1700
+      }
+    ],
+    "links": [
+      {
+        "href": "../../../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "../../../work/luzia-new-chat/",
+        "text": "AI · ConversationLuzia · New chatChat-first entry, with the composer and thread history redesigned.Explore case"
+      },
+      {
+        "href": "../webapp/",
+        "text": "AI · Web productLuzia · Web appA responsive assistant built for keyboard, browsing and reading.Explore case"
+      },
+      {
+        "href": "../../../work/ipiranga.html",
+        "text": "Mobile · Super appIpirangaRoutes, station discovery and rewards in one mobility product.Explore case"
+      },
+      {
+        "href": "../../../contact.html?service=agency",
+        "text": "Discuss an agency brief"
+      },
+      {
+        "href": "../../../work.html",
+        "text": "← Back to selected work"
+      }
+    ],
+    "scrollWidth": 1425,
+    "title": "Luzia · Services Hub | Felipe Amorim",
+    "videos": [],
+    "width": 1440
+  },
+  {
+    "path": "work/pizza-hut.html",
+    "mode": "desktop",
+    "headings": [
+      "Easing the wait between order and arrival.",
+      "Delivery anxiety was a system problem.",
+      "Prioritise the moments that change confidence.",
+      "A connected experience from browse to delivery.",
+      "Make the wait part of the designed service.",
+      "Finding the friction across a whole ordering service?"
+    ],
+    "height": 3706,
+    "images": [
+      {
+        "alt": "Pizza Hut mobile ordering in a rounded phone mockup",
+        "displayH": 531,
+        "displayW": 258,
+        "h": 2283,
+        "loaded": true,
+        "src": "../img/home_pizza.png?v=bce950a0939f",
+        "w": 1109
+      },
+      {
+        "alt": "Pizza Hut service design project cover for the Brazilian customer experience",
+        "displayH": 455,
+        "displayW": 604,
+        "h": 1357,
+        "loaded": true,
+        "src": "pizza-hut/assets/selected/hero.jpg?v=aefd0672efed",
+        "w": 1800
+      },
+      {
+        "alt": "Pizza Hut mobile product prototype screens",
+        "displayH": 607,
+        "displayW": 604,
+        "h": 1800,
+        "loaded": true,
+        "src": "pizza-hut/assets/selected/prototype.jpg?v=44e07d86d9ad",
+        "w": 1791
+      },
+      {
+        "alt": "",
+        "displayH": 117,
+        "displayW": 65,
+        "h": 980,
+        "loaded": true,
+        "src": "../img/parallax-4.png?v=93c3b1758288",
+        "w": 541
+      },
+      {
+        "alt": "",
+        "displayH": 110,
+        "displayW": 57,
+        "h": 932,
+        "loaded": true,
+        "src": "../img/home-atletico-shell.png?v=0f30805e3897",
+        "w": 483
+      },
+      {
+        "alt": "",
+        "displayH": 118,
+        "displayW": 65,
+        "h": 3080,
+        "loaded": true,
+        "src": "../work/ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "w": 1700
+      }
+    ],
+    "links": [
+      {
+        "href": "../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/241661977/Service-Design-for-Pizza-Hut",
+        "text": "View original project"
+      },
+      {
+        "href": "outback.html",
+        "text": "Hospitality · Service designOutbackA connected dining journey · +29% sales reported.Explore case"
+      },
+      {
+        "href": "atletico-de-madrid.html",
+        "text": "Sport · Fan experienceAtlético de MadridConnected fan services · +€350k monthly revenue reported.Explore case"
+      },
+      {
+        "href": "ipiranga.html",
+        "text": "Retail · Connected servicesIpirangaRoutes, station discovery and rewards in one mobility product.Explore case"
+      },
+      {
+        "href": "../contact.html?service=agency",
+        "text": "Talk through a similar challenge"
+      },
+      {
+        "href": "../work.html",
+        "text": "← Back to selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/241661977/Service-Design-for-Pizza-Hut",
+        "text": "View original case study"
+      }
+    ],
+    "scrollWidth": 1425,
+    "title": "Pizza Hut · Service design | Felipe Amorim",
+    "videos": [
+      {
+        "display": "block",
+        "paused": false,
+        "ready": 4,
+        "src": "http://localhost:8766/beta/img/foammedium.webm?v=082a2c5f1ca5"
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "path": "cases/drafts/enem/index.html",
+    "mode": "desktop",
+    "headings": [
+      "From a quick question to a study habit.",
+      "A question becomes a reason to return.",
+      "The answer ended the visit.",
+      "Design the learning loop and the content behind it.",
+      "Shorten the route to the first question.",
+      "Designing an AI experience where correctness matters?"
+    ],
+    "height": 4813,
+    "images": [
+      {
+        "alt": "The ENEM entry screen with subject choices and a short guided start",
+        "displayH": 521,
+        "displayW": 241,
+        "h": 2532,
+        "loaded": true,
+        "src": "media/app-captures/00-entry.png?v=42da15302c4c",
+        "w": 1170
+      },
+      {
+        "alt": "Real ENEM study modes, including guided learning, questions and timed practice",
+        "displayH": 509,
+        "displayW": 235,
+        "h": 2532,
+        "loaded": true,
+        "src": "media/app-captures/01-study-mode.png?v=98692340b81a",
+        "w": 1170
+      },
+      {
+        "alt": "The ENEM lesson explaining percentage multipliers and a common misconception",
+        "displayH": 509,
+        "displayW": 235,
+        "h": 2532,
+        "loaded": true,
+        "src": "media/app-captures/03-lesson.png?v=b1b7465e53cf",
+        "w": 1170
+      },
+      {
+        "alt": "Official ENEM question with reservoir-flow diagrams and answer feedback",
+        "displayH": 509,
+        "displayW": 235,
+        "h": 2532,
+        "loaded": true,
+        "src": "media/app-captures/04-question.png?v=8e42fbd2b5ec",
+        "w": 1170
+      },
+      {
+        "alt": "The real ENEM contextual hint sheet, with the question softened behind it",
+        "displayH": 509,
+        "displayW": 235,
+        "h": 2532,
+        "loaded": true,
+        "src": "media/app-captures/05-hint.png?v=3da8e1b553be",
+        "w": 1170
+      },
+      {
+        "alt": "Correct answer feedback and the worked explanation in the ENEM app",
+        "displayH": 509,
+        "displayW": 235,
+        "h": 2532,
+        "loaded": true,
+        "src": "media/app-captures/06-explanation.png?v=91b4e5c5531a",
+        "w": 1170
+      },
+      {
+        "alt": "The real ENEM study history with recent questions and a retry action",
+        "displayH": 509,
+        "displayW": 235,
+        "h": 2532,
+        "loaded": true,
+        "src": "media/app-captures/07-history.png?v=259cecb26274",
+        "w": 1170
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 48,
+        "h": 881,
+        "loaded": true,
+        "src": "../../../work/luzia-new-chat/assets/first-entrance-shell.png?v=e355717a6546",
+        "w": 417
+      },
+      {
+        "alt": "",
+        "displayH": 100,
+        "displayW": 45,
+        "h": 1600,
+        "loaded": true,
+        "src": "../../../cases/drafts/services-hub/media/ifood-basket-ready.svg?v=4d24e88f1161",
+        "w": 720
+      },
+      {
+        "alt": "",
+        "displayH": 100,
+        "displayW": 45,
+        "h": 1600,
+        "loaded": true,
+        "src": "../../../cases/drafts/mi-mundo/media/06-reveal.png?v=4d54f42bd8c7",
+        "w": 720
+      }
+    ],
+    "links": [
+      {
+        "href": "../../../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "../../../work/luzia-new-chat/",
+        "text": "AI · ConversationLuzia · New chatChat-first entry, with the composer and thread history redesigned.Explore case"
+      },
+      {
+        "href": "../services-hub/",
+        "text": "AI · Product ecosystemLuzia · Services HubBookings, commerce and routines inside an AI conversation.Explore case"
+      },
+      {
+        "href": "../mi-mundo/",
+        "text": "AI · Voice and creationMi MundoA voice-first concept from spoken intent to a shareable world.Explore case"
+      },
+      {
+        "href": "../../../contact.html?service=agency",
+        "text": "Discuss an agency brief"
+      },
+      {
+        "href": "../../../work.html",
+        "text": "← Back to selected work"
+      }
+    ],
+    "scrollWidth": 1425,
+    "title": "Preparador do ENEM | Felipe Amorim",
+    "videos": [],
+    "width": 1440
+  },
+  {
+    "path": "work/rcd-espanyol.html",
+    "mode": "desktop",
+    "headings": [
+      "A club app built around being a fan.",
+      "Useful on matchday. Worth opening between matches.",
+      "Many services. One fragmented experience.",
+      "Keep the brief, the design and delivery connected.",
+      "Build a shared view before building the app.",
+      "Let context set the hierarchy.",
+      "Follow the club. Plan the next match.",
+      "A coherent experience needs connected systems.",
+      "A shared direction for the fan experience.",
+      "Several services. One experience to get right?"
+    ],
+    "height": 7072,
+    "images": [
+      {
+        "alt": "",
+        "displayH": 521,
+        "displayW": 240,
+        "h": 1862,
+        "loaded": true,
+        "src": "espanyol/assets/03-navigation.png?v=6d855a112895",
+        "w": 860
+      },
+      {
+        "alt": "RCD Espanyol app home with club news, fixtures and personal services",
+        "displayH": 521,
+        "displayW": 240,
+        "h": 932,
+        "loaded": true,
+        "src": "espanyol/assets/01-home.png?v=504b888e7d88",
+        "w": 430
+      },
+      {
+        "alt": "Espanyol home with upcoming match, ticket purchase, news and personal services",
+        "displayH": 509,
+        "displayW": 235,
+        "h": 932,
+        "loaded": true,
+        "src": "espanyol/assets/01-home.png?v=504b888e7d88",
+        "w": 430
+      },
+      {
+        "alt": "Matchday home with a prominent fixture and practical fan services",
+        "displayH": 509,
+        "displayW": 235,
+        "h": 931,
+        "loaded": true,
+        "src": "espanyol/assets/02-matchday.png?v=93b6ce4559ad",
+        "w": 430
+      },
+      {
+        "alt": "Espanyol navigation separating commercial actions, club content and personal tasks",
+        "displayH": 509,
+        "displayW": 235,
+        "h": 1862,
+        "loaded": true,
+        "src": "espanyol/assets/03-navigation.png?v=6d855a112895",
+        "w": 860
+      },
+      {
+        "alt": "Personal services sheet with food, stadium tour, shop, seat release and membership actions",
+        "displayH": 509,
+        "displayW": 235,
+        "h": 931,
+        "loaded": true,
+        "src": "espanyol/assets/04-member-services.png?v=d67844913156",
+        "w": 430
+      },
+      {
+        "alt": "Felipe facilitating an in-person discovery workshop with Espanyol department representatives",
+        "displayH": 470,
+        "displayW": 626,
+        "h": 600,
+        "loaded": true,
+        "src": "espanyol/assets/discovery-01.jpg?v=e180ffc17a53",
+        "w": 800
+      },
+      {
+        "alt": "Espanyol stakeholders discussing a certainties, assumptions and doubts board overlooking the stadium",
+        "displayH": 470,
+        "displayW": 626,
+        "h": 600,
+        "loaded": true,
+        "src": "espanyol/assets/discovery-02.jpg?v=e17625134425",
+        "w": 800
+      },
+      {
+        "alt": "Full-screen Espanyol media story with close and progress controls",
+        "displayH": 509,
+        "displayW": 235,
+        "h": 1862,
+        "loaded": true,
+        "src": "espanyol/assets/05-media-story.png?v=83c8ac99939e",
+        "w": 860
+      },
+      {
+        "alt": "Espanyol calendar with upcoming fixtures and stadium services",
+        "displayH": 509,
+        "displayW": 235,
+        "h": 1862,
+        "loaded": true,
+        "src": "espanyol/assets/06-calendar.png?v=e1924fae22b9",
+        "w": 860
+      },
+      {
+        "alt": "",
+        "displayH": 110,
+        "displayW": 57,
+        "h": 932,
+        "loaded": true,
+        "src": "../img/home-atletico-shell.png?v=0f30805e3897",
+        "w": 483
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 50,
+        "h": 2283,
+        "loaded": true,
+        "src": "../img/home_pizza.png?v=bce950a0939f",
+        "w": 1109
+      },
+      {
+        "alt": "",
+        "displayH": 118,
+        "displayW": 65,
+        "h": 3080,
+        "loaded": true,
+        "src": "../work/ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "w": 1700
+      }
+    ],
+    "links": [
+      {
+        "href": "../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "https://www.linkedin.com/posts/felipecaroe_designthinking-uxdesign-productdesign-ugcPost-7432764660472365056-WGA5/",
+        "text": "Read the workshop post"
+      },
+      {
+        "href": "atletico-de-madrid.html",
+        "text": "Sport · Fan servicesAtlético de MadridConnected fan services · +€350k monthly revenue reported.Explore case"
+      },
+      {
+        "href": "pizza-hut.html",
+        "text": "Service design · CommercePizza HutA clearer ordering journey · satisfaction reported from 82% to 95%.Explore case"
+      },
+      {
+        "href": "ipiranga.html",
+        "text": "Membership · Connected servicesIpirangaRoutes, station discovery and rewards in one mobility product.Explore case"
+      },
+      {
+        "href": "../contact.html?service=agency",
+        "text": "Talk through your brief"
+      },
+      {
+        "href": "../work.html",
+        "text": "Back to selected work"
+      }
+    ],
+    "scrollWidth": 1425,
+    "title": "RCD Espanyol · Fan experience | Felipe Amorim",
+    "videos": [
+      {
+        "display": "block",
+        "paused": false,
+        "ready": 4,
+        "src": "http://localhost:8766/beta/img/foammedium.webm?v=082a2c5f1ca5"
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "path": "work/card-dynamics.html",
+    "mode": "desktop",
+    "headings": [
+      "Making financial flows feel navigable.",
+      "The brand changes. The task must stay clear.",
+      "Design the flow and the operating foundation.",
+      "One financial task, across partner identities.",
+      "Keep bank selection easy to scan.",
+      "Keep consent next to the account choice.",
+      "Designing a financial flow across partner brands?"
+    ],
+    "height": 4559,
+    "images": [
+      {
+        "alt": "Card Dynamics home-loan application in a rounded phone mockup",
+        "displayH": 531,
+        "displayW": 258,
+        "h": 2283,
+        "loaded": true,
+        "src": "../img/card_dynamics/1.png?v=feec49075d9c",
+        "w": 1109
+      },
+      {
+        "alt": "Carrefour home-loan entry screen in a rounded phone mockup",
+        "displayH": 519,
+        "displayW": 252,
+        "h": 2283,
+        "loaded": true,
+        "src": "../img/card_dynamics/1.png?v=feec49075d9c",
+        "w": 1109
+      },
+      {
+        "alt": "CaixaBank account-selection screen in a rounded phone mockup",
+        "displayH": 519,
+        "displayW": 252,
+        "h": 2283,
+        "loaded": true,
+        "src": "../img/card_dynamics/2.png?v=f674fffbe189",
+        "w": 1109
+      },
+      {
+        "alt": "Carrefour account-connection details in a rounded phone mockup",
+        "displayH": 519,
+        "displayW": 252,
+        "h": 2283,
+        "loaded": true,
+        "src": "../img/card_dynamics/3.png?v=d4dff78ee8d8",
+        "w": 1109
+      },
+      {
+        "alt": "Bank provider picker with search, frequently used banks, additional providers and a clear connect action",
+        "displayH": 627,
+        "displayW": 747,
+        "h": 1206,
+        "loaded": true,
+        "src": "card-dynamics/assets/selected/card-dynamics-bank-provider-picker.png?v=f43aba5362a4",
+        "w": 1436
+      },
+      {
+        "alt": "",
+        "displayH": 110,
+        "displayW": 57,
+        "h": 932,
+        "loaded": true,
+        "src": "../img/home-atletico-shell.png?v=0f30805e3897",
+        "w": 483
+      },
+      {
+        "alt": "",
+        "displayH": 118,
+        "displayW": 65,
+        "h": 3080,
+        "loaded": true,
+        "src": "../work/ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "w": 1700
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 39,
+        "h": 2568,
+        "loaded": true,
+        "src": "../work/raio/assets/mockups/raio-iphone-benefits.webp?v=91e67edeb23a",
+        "w": 968
+      }
+    ],
+    "links": [
+      {
+        "href": "../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/234892939/Card-Dynamics-Revamp",
+        "text": "View original project"
+      },
+      {
+        "href": "atletico-de-madrid.html",
+        "text": "Scale · Multi-partner productAtlético de MadridConnected fan services · +€350k monthly revenue reported.Explore case"
+      },
+      {
+        "href": "ipiranga.html",
+        "text": "Mobile · Connected ecosystemIpirangaRoutes, station discovery and rewards in one mobility product.Explore case"
+      },
+      {
+        "href": "raio.html",
+        "text": "Finance · Employee benefitsRaiôA benefits wallet for employees and management tools for HR.Explore case"
+      },
+      {
+        "href": "../contact.html?service=agency",
+        "text": "Talk through a similar challenge"
+      },
+      {
+        "href": "../work.html",
+        "text": "← Back to selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/234892939/Card-Dynamics-Revamp",
+        "text": "View original case study"
+      }
+    ],
+    "scrollWidth": 1425,
+    "title": "Card Dynamics · White-label fintech | Felipe Amorim",
+    "videos": [
+      {
+        "display": "block",
+        "paused": false,
+        "ready": 4,
+        "src": "http://localhost:8766/beta/img/foammedium.webm?v=082a2c5f1ca5"
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "path": "work/outback.html",
+    "mode": "desktop",
+    "headings": [
+      "A better dining journey, from first tap to table.",
+      "The same meal can start in different places.",
+      "Turn research into recognisable service choices.",
+      "Choose how to dine. Then explore the menu.",
+      "Ask how they want to dine before they commit.",
+      "Bringing a physical service into a digital journey?"
+    ],
+    "height": 3618,
+    "images": [
+      {
+        "alt": "Outback mobile dining experience in a rounded phone mockup",
+        "displayH": 609,
+        "displayW": 336,
+        "h": 980,
+        "loaded": true,
+        "src": "../img/parallax-4.png?v=93c3b1758288",
+        "w": 541
+      },
+      {
+        "alt": "Outback mobile app for menu browsing, delivery, collection, reservations and queueing",
+        "displayH": 596,
+        "displayW": 329,
+        "h": 980,
+        "loaded": true,
+        "src": "../img/parallax-4.png?v=93c3b1758288",
+        "w": 541
+      },
+      {
+        "alt": "Outback menu and ordering screens shown together in two angled phones",
+        "displayH": 608,
+        "displayW": 607,
+        "h": 636,
+        "loaded": true,
+        "src": "../img/parallax-5.png?v=182dd3f08068",
+        "w": 635
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 50,
+        "h": 2283,
+        "loaded": true,
+        "src": "../img/home_pizza.png?v=bce950a0939f",
+        "w": 1109
+      },
+      {
+        "alt": "",
+        "displayH": 110,
+        "displayW": 57,
+        "h": 932,
+        "loaded": true,
+        "src": "../img/home-atletico-shell.png?v=0f30805e3897",
+        "w": 483
+      },
+      {
+        "alt": "",
+        "displayH": 118,
+        "displayW": 65,
+        "h": 3080,
+        "loaded": true,
+        "src": "../work/ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "w": 1700
+      }
+    ],
+    "links": [
+      {
+        "href": "../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/201713907/Outback-Customer-Experience",
+        "text": "View original project"
+      },
+      {
+        "href": "pizza-hut.html",
+        "text": "Food · Ordering journeyPizza HutA clearer ordering journey · satisfaction reported from 82% to 95%.Explore case"
+      },
+      {
+        "href": "atletico-de-madrid.html",
+        "text": "Sport · Fan servicesAtlético de MadridConnected fan services · +€350k monthly revenue reported.Explore case"
+      },
+      {
+        "href": "ipiranga.html",
+        "text": "Retail · Mobile servicesIpirangaRoutes, station discovery and rewards in one mobility product.Explore case"
+      },
+      {
+        "href": "../contact.html?service=agency",
+        "text": "Talk through a similar challenge"
+      },
+      {
+        "href": "../work.html",
+        "text": "← Back to selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/201713907/Outback-Customer-Experience",
+        "text": "View original case study"
+      }
+    ],
+    "scrollWidth": 1425,
+    "title": "Outback · Dining service design | Felipe Amorim",
+    "videos": [
+      {
+        "display": "block",
+        "paused": false,
+        "ready": 4,
+        "src": "http://localhost:8766/beta/img/foammedium.webm?v=082a2c5f1ca5"
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "path": "cases/drafts/webapp/index.html",
+    "mode": "desktop",
+    "headings": [
+      "A considered home for Luzia on the web.",
+      "Built for browsing and getting things done.",
+      "A larger screen changes the interaction.",
+      "Deliver decisions in working interfaces.",
+      "Give the answer its own work surface.",
+      "Taking a mobile product into a considered web experience?"
+    ],
+    "height": 3238,
+    "images": [
+      {
+        "alt": "Luzia web home in dark mode, showing navigation and the assistant composer",
+        "displayH": 370,
+        "displayW": 592,
+        "h": 1800,
+        "loaded": true,
+        "src": "../../source-kits/portfolio-cases/webapp/01-home-dark.png?v=ce4b7ac79cd9",
+        "w": 2880
+      },
+      {
+        "alt": "Image-led Ideas surface within the Luzia web shell",
+        "displayH": 305,
+        "displayW": 488,
+        "h": 1800,
+        "loaded": true,
+        "src": "../../source-kits/portfolio-cases/webapp/02-ideas.png?v=b6850bde90eb",
+        "w": 2880
+      },
+      {
+        "alt": "Browsable Luzia tools and capabilities surface",
+        "displayH": 305,
+        "displayW": 488,
+        "h": 1800,
+        "loaded": true,
+        "src": "../../source-kits/portfolio-cases/webapp/03-tools.png?v=73f384abd1ba",
+        "w": 2880
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 48,
+        "h": 881,
+        "loaded": true,
+        "src": "../../../work/luzia-new-chat/assets/first-entrance-shell.png?v=e355717a6546",
+        "w": 417
+      },
+      {
+        "alt": "",
+        "displayH": 100,
+        "displayW": 45,
+        "h": 1600,
+        "loaded": true,
+        "src": "../../../cases/drafts/services-hub/media/ifood-basket-ready.svg?v=4d24e88f1161",
+        "w": 720
+      },
+      {
+        "alt": "",
+        "displayH": 100,
+        "displayW": 45,
+        "h": 1600,
+        "loaded": true,
+        "src": "../../../cases/drafts/mi-mundo/media/06-reveal.png?v=4d54f42bd8c7",
+        "w": 720
+      }
+    ],
+    "links": [
+      {
+        "href": "../../../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "../../../work/luzia-new-chat/",
+        "text": "AI · ConversationLuzia · New chatChat-first entry, with the composer and thread history redesigned.Explore case"
+      },
+      {
+        "href": "../services-hub/",
+        "text": "AI · ServicesLuzia · Services HubBookings, commerce and routines inside an AI conversation.Explore case"
+      },
+      {
+        "href": "../mi-mundo/",
+        "text": "AI · Generative creationMi MundoA voice-first concept from spoken intent to a shareable world.Explore case"
+      },
+      {
+        "href": "../../../contact.html?service=agency",
+        "text": "Discuss an agency brief"
+      },
+      {
+        "href": "../../../work.html",
+        "text": "← Back to selected work"
+      }
+    ],
+    "scrollWidth": 1425,
+    "title": "Luzia · Web app | Felipe Amorim",
+    "videos": [],
+    "width": 1440
+  },
+  {
+    "path": "cases/drafts/mi-mundo/index.html",
+    "mode": "desktop",
+    "headings": [
+      "Say it out loud. Watch the idea take shape.",
+      "Speak freely. See the idea take shape.",
+      "An empty prompt asks for too much too early.",
+      "Let people correct the interpretation before the build.",
+      "Make creation orderly and the result expressive.",
+      "Helping people express intent in a generative product?"
+    ],
+    "height": 4312,
+    "images": [
+      {
+        "alt": "Mi Mundo concept reveal showing a generated visual direction",
+        "displayH": 521,
+        "displayW": 234,
+        "h": 1600,
+        "loaded": true,
+        "src": "media/06-reveal.png?v=4d54f42bd8c7",
+        "w": 720
+      },
+      {
+        "alt": "Voice-first open-ended input in the Mi Mundo concept",
+        "displayH": 510,
+        "displayW": 229,
+        "h": 1600,
+        "loaded": true,
+        "src": "media/02-dump.png?v=c66eaa98f670",
+        "w": 720
+      },
+      {
+        "alt": "Mi Mundo concept reflecting an organised interpretation",
+        "displayH": 510,
+        "displayW": 229,
+        "h": 1600,
+        "loaded": true,
+        "src": "media/03-understood.png?v=c146d7574f35",
+        "w": 720
+      },
+      {
+        "alt": "Mi Mundo presenting vivid creative directions",
+        "displayH": 510,
+        "displayW": 229,
+        "h": 1600,
+        "loaded": true,
+        "src": "media/04-vibe.png?v=67de23eab7e2",
+        "w": 720
+      },
+      {
+        "alt": "Mi Mundo concept ready to share, with preview and publish actions",
+        "displayH": 510,
+        "displayW": 229,
+        "h": 1600,
+        "loaded": true,
+        "src": "media/06-reveal.png?v=4d54f42bd8c7",
+        "w": 720
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 48,
+        "h": 881,
+        "loaded": true,
+        "src": "../../../work/luzia-new-chat/assets/first-entrance-shell.png?v=e355717a6546",
+        "w": 417
+      },
+      {
+        "alt": "",
+        "displayH": 100,
+        "displayW": 46,
+        "h": 2532,
+        "loaded": true,
+        "src": "../../../cases/drafts/enem/media/app-captures/00-entry.png?v=42da15302c4c",
+        "w": 1170
+      },
+      {
+        "alt": "",
+        "displayH": 100,
+        "displayW": 45,
+        "h": 1600,
+        "loaded": true,
+        "src": "../../../cases/drafts/services-hub/media/ifood-basket-ready.svg?v=4d24e88f1161",
+        "w": 720
+      }
+    ],
+    "links": [
+      {
+        "href": "../../../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "../../../work/luzia-new-chat/",
+        "text": "AI · Voice and chatLuzia · New chatChat-first entry, with the composer and thread history redesigned.Explore case"
+      },
+      {
+        "href": "../enem/",
+        "text": "AI · Guided learningPreparador do ENEMOfficial questions, guided learning and AI explanations.Explore case"
+      },
+      {
+        "href": "../services-hub/",
+        "text": "AI · Service discoveryLuzia · Services HubBookings, commerce and routines inside an AI conversation.Explore case"
+      },
+      {
+        "href": "../../../contact.html?service=agency",
+        "text": "Discuss an agency brief"
+      },
+      {
+        "href": "../../../work.html",
+        "text": "← Back to selected work"
+      }
+    ],
+    "scrollWidth": 1425,
+    "title": "Mi Mundo · Voice-first creation | Felipe Amorim",
+    "videos": [],
+    "width": 1440
+  },
+  {
+    "path": "work/ipiranga.html",
+    "mode": "desktop",
+    "headings": [
+      "A super app for everyday mobility.",
+      "From the journeyto the everyday.",
+      "The services existed. Their connection was unclear.",
+      "Make the ecosystem useful at the next stop.",
+      "Turning separate services into a coherent product?"
+    ],
+    "height": 3265,
+    "images": [
+      {
+        "alt": "Ipiranga route planning screen",
+        "displayH": 498,
+        "displayW": 341,
+        "h": 653,
+        "loaded": true,
+        "src": "ipiranga/assets/mockups/ipiranga-route.webp?v=0f64b6517410",
+        "w": 360
+      },
+      {
+        "alt": "Ipiranga convenience store screen",
+        "displayH": 498,
+        "displayW": 341,
+        "h": 652,
+        "loaded": true,
+        "src": "ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "w": 360
+      },
+      {
+        "alt": "Ipiranga home connecting fuel, payments, routes and rewards",
+        "displayH": 547,
+        "displayW": 340,
+        "h": 578,
+        "loaded": true,
+        "src": "ipiranga/assets/mockups/ipiranga-home.webp?v=3c78530a60f0",
+        "w": 360
+      },
+      {
+        "alt": "Ipiranga route planning and nearby station interface",
+        "displayH": 595,
+        "displayW": 328,
+        "h": 871,
+        "loaded": true,
+        "src": "ipiranga/assets/mockups/ipiranga-route.webp?v=0f64b6517410",
+        "w": 480
+      },
+      {
+        "alt": "Ipiranga convenience store product browsing",
+        "displayH": 597,
+        "displayW": 329,
+        "h": 869,
+        "loaded": true,
+        "src": "ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "w": 479
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 39,
+        "h": 2568,
+        "loaded": true,
+        "src": "../work/raio/assets/mockups/raio-iphone-benefits.webp?v=91e67edeb23a",
+        "w": 968
+      },
+      {
+        "alt": "",
+        "displayH": 117,
+        "displayW": 65,
+        "h": 980,
+        "loaded": true,
+        "src": "../img/parallax-4.png?v=93c3b1758288",
+        "w": 541
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 50,
+        "h": 2283,
+        "loaded": true,
+        "src": "../img/card_dynamics/1.png?v=feec49075d9c",
+        "w": 1109
+      }
+    ],
+    "links": [
+      {
+        "href": "../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "raio.html",
+        "text": "Benefits · Everyday valueRaiôA benefits wallet for employees and management tools for HR.Explore case"
+      },
+      {
+        "href": "outback.html",
+        "text": "Hospitality · In-service journeysOutbackA connected dining journey · +29% sales reported.Explore case"
+      },
+      {
+        "href": "card-dynamics.html",
+        "text": "Finance · Connected servicesCard DynamicsWhite-label financial flows from retail offer to account connection.Explore case"
+      },
+      {
+        "href": "../contact.html?service=agency",
+        "text": "Talk through a similar challenge"
+      },
+      {
+        "href": "../work.html",
+        "text": "← Back to selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/230861837/Ipiranga-Super-App",
+        "text": "View original case study"
+      }
+    ],
+    "scrollWidth": 1425,
+    "title": "Ipiranga · Mobility super app | Felipe Amorim",
+    "videos": [
+      {
+        "display": "block",
+        "paused": false,
+        "ready": 4,
+        "src": "http://localhost:8766/beta/img/foammedium.webm?v=082a2c5f1ca5"
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "path": "work/raio.html",
+    "mode": "desktop",
+    "headings": [
+      "Benefits made easier to understand and use.",
+      "Personal choice.A shared system.",
+      "Fragmented administration. Limited employee choice.",
+      "Design for the person using it and the team managing it.",
+      "Designing for customers and the teams serving them?"
+    ],
+    "height": 3046,
+    "images": [
+      {
+        "alt": "Raiô account, balances and benefits shown in the original three-phone composition",
+        "displayH": 538,
+        "displayW": 695,
+        "h": 503,
+        "loaded": true,
+        "src": "raio/assets/mockups/raio-phones-trio.webp?v=65450329e03c",
+        "w": 670
+      },
+      {
+        "alt": "Raiô business platform shown in its original laptop mockup",
+        "displayH": 303,
+        "displayW": 500,
+        "h": 302,
+        "loaded": true,
+        "src": "raio/assets/mockups/raio-laptop-dashboard.webp?v=ae5fc9893b7d",
+        "w": 500
+      },
+      {
+        "alt": "",
+        "displayH": 118,
+        "displayW": 65,
+        "h": 3080,
+        "loaded": true,
+        "src": "../work/ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "w": 1700
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 50,
+        "h": 2283,
+        "loaded": true,
+        "src": "../img/card_dynamics/1.png?v=feec49075d9c",
+        "w": 1109
+      },
+      {
+        "alt": "",
+        "displayH": 116,
+        "displayW": 63,
+        "h": 2739,
+        "loaded": true,
+        "src": "../work/skateking/assets/mockups/skateking-iphone-01.webp?v=dd5c0b3f942d",
+        "w": 1480
+      }
+    ],
+    "links": [
+      {
+        "href": "../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "ipiranga.html",
+        "text": "Rewards · Mobile ecosystemIpirangaRoutes, station discovery and rewards in one mobility product.Explore case"
+      },
+      {
+        "href": "card-dynamics.html",
+        "text": "Finance · Account connectionCard DynamicsWhite-label financial flows from retail offer to account connection.Explore case"
+      },
+      {
+        "href": "skateking.html",
+        "text": "Community · Local discoverySkateKingPersonal onboarding and map-based discovery for skaters.Explore case"
+      },
+      {
+        "href": "../contact.html?service=agency",
+        "text": "Talk through a similar challenge"
+      },
+      {
+        "href": "../work.html",
+        "text": "← Back to selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/233865357/UX-Raio-Beneficios",
+        "text": "View original case study"
+      }
+    ],
+    "scrollWidth": 1425,
+    "title": "Raiô · Employee benefits | Felipe Amorim",
+    "videos": [
+      {
+        "display": "block",
+        "paused": false,
+        "ready": 4,
+        "src": "http://localhost:8766/beta/img/foammedium.webm?v=082a2c5f1ca5"
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "path": "work/skateking.html",
+    "mode": "desktop",
+    "headings": [
+      "Find your next spot. Then go skate.",
+      "A little identity.A lot of local discovery.",
+      "A place to skate is a specific kind of discovery.",
+      "Connect personal identity with local discovery.",
+      "Building a useful product for a distinct community?"
+    ],
+    "height": 3801,
+    "images": [
+      {
+        "alt": "",
+        "displayH": 78,
+        "displayW": 78,
+        "h": 150,
+        "loaded": true,
+        "src": "skateking/assets/illustrations/skate-street.svg?v=d85c27d76451",
+        "w": 150
+      },
+      {
+        "alt": "",
+        "displayH": 81,
+        "displayW": 81,
+        "h": 150,
+        "loaded": true,
+        "src": "skateking/assets/illustrations/skate-downhill.svg?v=08ad33fa6a3d",
+        "w": 150
+      },
+      {
+        "alt": "",
+        "displayH": 43,
+        "displayW": 43,
+        "h": 150,
+        "loaded": true,
+        "src": "skateking/assets/illustrations/skate-street.svg?v=d85c27d76451",
+        "w": 150
+      },
+      {
+        "alt": "SkateKing splash screen in its original iPhone mockup",
+        "displayH": 501,
+        "displayW": 323,
+        "h": 666,
+        "loaded": true,
+        "src": "skateking/assets/mockups/skateking-iphone-01.webp?v=dd5c0b3f942d",
+        "w": 360
+      },
+      {
+        "alt": "SkateKing account confirmation with the next action kept visible",
+        "displayH": 498,
+        "displayW": 315,
+        "h": 666,
+        "loaded": true,
+        "src": "skateking/assets/mockups/skateking-iphone-confirmation.webp?v=7a88859c06d1",
+        "w": 360
+      },
+      {
+        "alt": "SkateKing create-account screen",
+        "displayH": 509,
+        "displayW": 253,
+        "h": 964,
+        "loaded": true,
+        "src": "skateking/assets/mockups/skateking-screen-create-account.webp?v=6f13396a0789",
+        "w": 480
+      },
+      {
+        "alt": "SkateKing avatar selection screen",
+        "displayH": 509,
+        "displayW": 253,
+        "h": 964,
+        "loaded": true,
+        "src": "skateking/assets/mockups/skateking-screen-avatar.webp?v=4fba59b28b3b",
+        "w": 480
+      },
+      {
+        "alt": "SkateKing skating-style selection screen",
+        "displayH": 509,
+        "displayW": 253,
+        "h": 964,
+        "loaded": true,
+        "src": "skateking/assets/mockups/skateking-screen-style.webp?v=841da560951b",
+        "w": 480
+      },
+      {
+        "alt": "SkateKing map and skate spot details in the original handheld iPhone mockup",
+        "displayH": 574,
+        "displayW": 365,
+        "h": 754,
+        "loaded": true,
+        "src": "skateking/assets/mockups/skateking-iphone-map-with-hand.webp?v=23fa0c47e015",
+        "w": 480
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 39,
+        "h": 2568,
+        "loaded": true,
+        "src": "../work/raio/assets/mockups/raio-iphone-benefits.webp?v=91e67edeb23a",
+        "w": 968
+      },
+      {
+        "alt": "",
+        "displayH": 118,
+        "displayW": 65,
+        "h": 3080,
+        "loaded": true,
+        "src": "../work/ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "w": 1700
+      },
+      {
+        "alt": "",
+        "displayH": 100,
+        "displayW": 45,
+        "h": 1600,
+        "loaded": true,
+        "src": "../cases/drafts/mi-mundo/media/06-reveal.png?v=4d54f42bd8c7",
+        "w": 720
+      }
+    ],
+    "links": [
+      {
+        "href": "../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "raio.html",
+        "text": "People · Personal choiceRaiôA benefits wallet for employees and management tools for HR.Explore case"
+      },
+      {
+        "href": "ipiranga.html",
+        "text": "Place · Map discoveryIpirangaRoutes, station discovery and rewards in one mobility product.Explore case"
+      },
+      {
+        "href": "../cases/drafts/mi-mundo/",
+        "text": "Identity · Personal creationMi MundoA voice-first concept from spoken intent to a shareable world.Explore case"
+      },
+      {
+        "href": "../contact.html?service=agency",
+        "text": "Talk through a similar challenge"
+      },
+      {
+        "href": "../work.html",
+        "text": "← Back to selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/102679835/SkateKing-App",
+        "text": "View original case study"
+      }
+    ],
+    "scrollWidth": 1425,
+    "title": "SkateKing · Skate community app | Felipe Amorim",
+    "videos": [
+      {
+        "display": "block",
+        "paused": false,
+        "ready": 4,
+        "src": "http://localhost:8766/beta/img/foammedium.webm?v=082a2c5f1ca5"
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "path": "cases/impulse.html",
+    "mode": "desktop",
+    "headings": [
+      "Impulse Spend with more clarity.",
+      "What happens between wanting and buying?",
+      "Work back from a preferred financial future.",
+      "Keep the prompt light. Make approval deliberate.",
+      "From a moment of interest to a considered choice.",
+      "Two paths through the same idea.",
+      "A companion that can be tuned.",
+      "Map the dependencies behind the promise.",
+      "Defining how an AI assistant should intervene?"
+    ],
+    "height": 6259,
+    "images": [
+      {
+        "alt": "Impulse Financial Assistant settings on a phone screen",
+        "displayH": 521,
+        "displayW": 240,
+        "h": 932,
+        "loaded": true,
+        "src": "img/sc1.png?v=efb375e61944",
+        "w": 430
+      },
+      {
+        "alt": "A calm smart-glasses view before the assistant activates",
+        "displayH": 236,
+        "displayW": 415,
+        "h": 328,
+        "loaded": true,
+        "src": "img/image-step-1.png?v=750bd2003a5c",
+        "w": 580
+      },
+      {
+        "alt": "Impulse recognises an object of interest and offers contextual guidance",
+        "displayH": 236,
+        "displayW": 415,
+        "h": 327,
+        "loaded": true,
+        "src": "img/image-step-2.png?v=72b701da34c9",
+        "w": 580
+      },
+      {
+        "alt": "A personalised savings option appears in the wearable experience",
+        "displayH": 236,
+        "displayW": 415,
+        "h": 338,
+        "loaded": true,
+        "src": "img/image-step-3.png?v=3967b6f25d48",
+        "w": 599
+      },
+      {
+        "alt": "Impulse settings for choosing the assistant's mode",
+        "displayH": 509,
+        "displayW": 235,
+        "h": 932,
+        "loaded": true,
+        "src": "img/sc2.png?v=6ef368d866da",
+        "w": 430
+      },
+      {
+        "alt": "Impulse settings for suggestion frequency and voice notifications",
+        "displayH": 509,
+        "displayW": 235,
+        "h": 932,
+        "loaded": true,
+        "src": "img/sc3.png?v=de069a8e9351",
+        "w": 430
+      },
+      {
+        "alt": "Impulse interest profile for personalising suggestions",
+        "displayH": 511,
+        "displayW": 195,
+        "h": 1128,
+        "loaded": true,
+        "src": "img/sc4.png?v=261453e63142",
+        "w": 430
+      },
+      {
+        "alt": "Impulse system diagram connecting the wearable assistant, companion app, financial information and merchant services",
+        "displayH": 616,
+        "displayW": 601,
+        "h": 914,
+        "loaded": true,
+        "src": "img/diagrama.svg?v=56d568a7dc99",
+        "w": 892
+      },
+      {
+        "alt": "",
+        "displayH": 79,
+        "displayW": 70,
+        "h": 498,
+        "loaded": true,
+        "src": "../work/invisipayment/assets/selected/invisipayment-watch-receipt-2x.png?v=efa6718ec072",
+        "w": 442
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 48,
+        "h": 881,
+        "loaded": true,
+        "src": "../work/luzia-new-chat/assets/first-entrance-shell.png?v=e355717a6546",
+        "w": 417
+      },
+      {
+        "alt": "",
+        "displayH": 100,
+        "displayW": 46,
+        "h": 2532,
+        "loaded": true,
+        "src": "../cases/drafts/enem/media/app-captures/00-entry.png?v=42da15302c4c",
+        "w": 1170
+      }
+    ],
+    "links": [
+      {
+        "href": "../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "../work/invisipayment.html",
+        "text": "Invisipayment concept"
+      },
+      {
+        "href": "../work/invisipayment.html",
+        "text": "Concept · Emerging paymentsInvisipaymentA hands-free payment concept with confirmation and dispute.Explore case"
+      },
+      {
+        "href": "../work/luzia-new-chat/",
+        "text": "AI · Interaction designLuzia · New chatChat-first entry, with the composer and thread history redesigned.Explore case"
+      },
+      {
+        "href": "drafts/enem/",
+        "text": "AI · Responsible assistancePreparador do ENEMOfficial questions, guided learning and AI explanations.Explore case"
+      },
+      {
+        "href": "../contact.html?service=agency",
+        "text": "Talk through a similar challenge"
+      },
+      {
+        "href": "../work.html",
+        "text": "← Back to selected work"
+      }
+    ],
+    "scrollWidth": 1425,
+    "title": "Impulse · Contextual finance concept | Felipe Amorim",
+    "videos": [
+      {
+        "display": "block",
+        "paused": false,
+        "ready": 4,
+        "src": "http://localhost:8766/beta/img/foammedium.webm?v=082a2c5f1ca5"
+      },
+      {
+        "display": "block",
+        "paused": true,
+        "ready": 0,
+        "src": "http://localhost:8766/beta/cases/impulse_v1_fined.mp4?v=5514d3b02929"
+      },
+      {
+        "display": "block",
+        "paused": true,
+        "ready": 0,
+        "src": "http://localhost:8766/beta/cases/impulse_v1_bnpl.mp4?v=a884bea28ea5"
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "path": "work/invisipayment.html",
+    "mode": "desktop",
+    "headings": [
+      "A more human future for everyday payments.",
+      "Hands-free payment still needs confidence.",
+      "Follow a shopper through the whole transaction.",
+      "From arrival to an informed yes.",
+      "Checkout friction peaks at the moment of paying.",
+      "Make the last step unmistakable.",
+      "Keep a way to challenge the payment within reach.",
+      "Exploring an emerging interaction before committing to a product?"
+    ],
+    "height": 4882,
+    "images": [
+      {
+        "alt": "Invisipayment watch receipt with the purchase amount and an immediate dispute action",
+        "displayH": 352,
+        "displayW": 313,
+        "h": 498,
+        "loaded": true,
+        "src": "../work/invisipayment/assets/selected/invisipayment-watch-receipt-2x.png?v=efa6718ec072",
+        "w": 442
+      },
+      {
+        "alt": "Ana carrying shopping bags while walking with her daughter",
+        "displayH": 173,
+        "displayW": 187,
+        "h": 420,
+        "loaded": true,
+        "src": "invisipayment/assets/selected/flow/01-shopper-arrives.webp?v=f5485aab1a3a",
+        "w": 454
+      },
+      {
+        "alt": "A payment point waiting in an open checkout zone",
+        "displayH": 173,
+        "displayW": 187,
+        "h": 420,
+        "loaded": true,
+        "src": "invisipayment/assets/selected/flow/02-payment-zone.webp?v=bfd9f4c30f4b",
+        "w": 454
+      },
+      {
+        "alt": "The display greets Ana and shows a voice waveform",
+        "displayH": 173,
+        "displayW": 187,
+        "h": 420,
+        "loaded": true,
+        "src": "invisipayment/assets/selected/flow/03-recognition.webp?v=b02139caee7c",
+        "w": 455
+      },
+      {
+        "alt": "A payment display shows a 47 dollar total and asks for voice confirmation",
+        "displayH": 173,
+        "displayW": 187,
+        "h": 420,
+        "loaded": true,
+        "src": "invisipayment/assets/selected/flow/04-voice-confirmation.webp?v=b626ecb4165b",
+        "w": 454
+      },
+      {
+        "alt": "Survey chart: 55.9% of supermarket responses and 50% of general retail responses gave the moment of paying the strongest rating, 5 out of 5",
+        "displayH": 323,
+        "displayW": 767,
+        "h": 1012,
+        "loaded": true,
+        "src": "invisipayment/assets/selected/invisipayment-survey-results.png?v=91abcd0999ae",
+        "w": 2400
+      },
+      {
+        "alt": "",
+        "displayH": 0,
+        "displayW": 0,
+        "h": 500,
+        "loaded": true,
+        "src": "invisipayment/assets/selected/invisipayment-survey-supermarket.png?v=2124d0bbfa48",
+        "w": 1350
+      },
+      {
+        "alt": "",
+        "displayH": 0,
+        "displayW": 0,
+        "h": 510,
+        "loaded": true,
+        "src": "invisipayment/assets/selected/invisipayment-survey-retail.png?v=61fce1d51e47",
+        "w": 1350
+      },
+      {
+        "alt": "Horizontal payment display showing a 47 dollar checkout bill, a voice-confirmation prompt and an audio waveform",
+        "displayH": 547,
+        "displayW": 767,
+        "h": 1498,
+        "loaded": true,
+        "src": "invisipayment/assets/selected/invisipayment-voice-confirmation-ipad.png?v=a633409b5e8b",
+        "w": 2098
+      },
+      {
+        "alt": "",
+        "displayH": 100,
+        "displayW": 46,
+        "h": 932,
+        "loaded": true,
+        "src": "../cases/img/sc1.png?v=efb375e61944",
+        "w": 430
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 50,
+        "h": 2283,
+        "loaded": true,
+        "src": "../img/card_dynamics/1.png?v=feec49075d9c",
+        "w": 1109
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 48,
+        "h": 881,
+        "loaded": true,
+        "src": "../work/luzia-new-chat/assets/first-entrance-shell.png?v=e355717a6546",
+        "w": 417
+      }
+    ],
+    "links": [
+      {
+        "href": "../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/221562325/Invisipayment-A-concept-for-the-future-of-payments",
+        "text": "View original project"
+      },
+      {
+        "href": "../cases/impulse.html",
+        "text": "Concept · Contextual financeImpulseA wearable finance concept with budget context and phone approval.Explore case"
+      },
+      {
+        "href": "card-dynamics.html",
+        "text": "Finance · Mobile productCard DynamicsWhite-label financial flows from retail offer to account connection.Explore case"
+      },
+      {
+        "href": "luzia-new-chat/",
+        "text": "AI · Interaction patternsLuzia · New chatChat-first entry, with the composer and thread history redesigned.Explore case"
+      },
+      {
+        "href": "../contact.html?service=agency",
+        "text": "Talk through a similar challenge"
+      },
+      {
+        "href": "../work.html",
+        "text": "← Back to selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/221562325/Invisipayment-A-concept-for-the-future-of-payments",
+        "text": "View original case study"
+      }
+    ],
+    "scrollWidth": 1425,
+    "title": "Invisipayment · Payment concept | Felipe Amorim",
+    "videos": [
+      {
+        "display": "block",
+        "paused": false,
+        "ready": 4,
+        "src": "http://localhost:8766/beta/img/foammedium.webm?v=082a2c5f1ca5"
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "path": "cases/drafts/index.html",
+    "mode": "desktop",
+    "headings": [
+      "Case drafts"
+    ],
+    "height": 900,
+    "images": [],
+    "links": [
+      {
+        "href": "services-hub/",
+        "text": "Services HubiFood grocery flow included01"
+      },
+      {
+        "href": "enem/",
+        "text": "Preparador do ENEMShipped · prototype visuals02"
+      },
+      {
+        "href": "webapp/",
+        "text": "Luzia on the webPartially shipped03"
+      },
+      {
+        "href": "mi-mundo/",
+        "text": "Mi MundoConcept exploration · not shipped04"
+      }
+    ],
+    "scrollWidth": 1440,
+    "title": "Case review index | Felipe Amorim",
+    "videos": [],
+    "width": 1440
+  },
+  {
+    "path": "services/ux-ui-brief.html",
+    "mode": "desktop",
+    "headings": [
+      "Move one important design decision forward.",
+      "A contained problem with a clear next step.",
+      "Design you can act on.",
+      "Scope it. Design it. Hand it over.",
+      "Common questions",
+      "Let’s talk about the work ahead."
+    ],
+    "height": 3107,
+    "images": [],
+    "links": [
+      {
+        "href": "../services.html",
+        "text": "Services"
+      },
+      {
+        "href": "../contact.html?service=brief",
+        "text": "Pricing by conversationDiscuss scope and pricing."
+      },
+      {
+        "href": "../contact.html?service=brief",
+        "text": "Discuss your brief"
+      }
+    ],
+    "scrollWidth": 1425,
+    "title": "Focused AI product design and UX/UI brief | Felipe Amorim",
+    "videos": [
+      {
+        "display": "block",
+        "paused": false,
+        "ready": 4,
+        "src": "http://localhost:8766/beta/img/foammedium.webm?v=082a2c5f1ca5"
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "path": "services/monthly-design.html",
+    "mode": "desktop",
+    "headings": [
+      "A senior design partner for your busy months.",
+      "More client work than in-house design time.",
+      "Known capacity. Agreed priorities.",
+      "Thoughtful, mostly async.",
+      "Common questions",
+      "Let’s talk about the work ahead."
+    ],
+    "height": 2999,
+    "images": [],
+    "links": [
+      {
+        "href": "../services.html",
+        "text": "Services"
+      },
+      {
+        "href": "../contact.html?service=monthly",
+        "text": "Pricing by conversationDiscuss scope and pricing."
+      },
+      {
+        "href": "../contact.html?service=monthly",
+        "text": "Discuss monthly support"
+      }
+    ],
+    "scrollWidth": 1425,
+    "title": "Monthly freelance UX/UI for agencies | Felipe Amorim",
+    "videos": [
+      {
+        "display": "block",
+        "paused": false,
+        "ready": 4,
+        "src": "http://localhost:8766/beta/img/foammedium.webm?v=082a2c5f1ca5"
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "path": "index.html",
+    "mode": "mobile",
+    "headings": [
+      "Senior AI product designer for your next project.",
+      "Design that moves the brief forward.",
+      "Good design grows in good company.",
+      "Senior design for your next client brief.",
+      "From product question to usable design.",
+      "Twenty years of perspective.",
+      "Let’s talk about the work ahead."
+    ],
+    "height": 7111,
+    "images": [
+      {
+        "alt": "Felipe Amorim, senior freelance product designer in Madrid",
+        "displayH": 482,
+        "displayW": 375,
+        "h": 768,
+        "loaded": true,
+        "src": "img/felipe.png?v=33c8b9fc9804",
+        "w": 598
+      },
+      {
+        "alt": "",
+        "displayH": 25,
+        "displayW": 20,
+        "h": 215,
+        "loaded": true,
+        "src": "img/logo_atletico_white.svg?v=d17c844425e5",
+        "w": 168
+      },
+      {
+        "alt": "",
+        "displayH": 25,
+        "displayW": 29,
+        "h": 33,
+        "loaded": true,
+        "src": "img/logo_cd.svg?v=6faebbb996f7",
+        "w": 38
+      },
+      {
+        "alt": "Outback",
+        "displayH": 32,
+        "displayW": 77,
+        "h": 21,
+        "loaded": true,
+        "src": "img/logo_out.svg?v=652756376c55",
+        "w": 76
+      },
+      {
+        "alt": "Pizza Hut",
+        "displayH": 32,
+        "displayW": 34,
+        "h": 562,
+        "loaded": true,
+        "src": "img/logo_pizza.png?v=04f83dadd0c6",
+        "w": 599
+      },
+      {
+        "alt": "",
+        "displayH": 25,
+        "displayW": 30,
+        "h": 1080,
+        "loaded": true,
+        "src": "img/logo_caixabank.png?v=9aef551c63eb",
+        "w": 1290
+      },
+      {
+        "alt": "",
+        "displayH": 30,
+        "displayW": 30,
+        "h": 1200,
+        "loaded": true,
+        "src": "img/logo_espanyol_white.svg?v=fc156f55b790",
+        "w": 1200
+      },
+      {
+        "alt": "Itaú",
+        "displayH": 32,
+        "displayW": 32,
+        "h": 500,
+        "loaded": true,
+        "src": "img/logo_itau.svg?v=efe25b538d0a",
+        "w": 500
+      },
+      {
+        "alt": "Luzia new-chat experience shown in its finished iPhone shell",
+        "displayH": 235,
+        "displayW": 111,
+        "h": 881,
+        "loaded": true,
+        "src": "work/luzia-new-chat/assets/first-entrance-shell.png?v=e355717a6546",
+        "w": 417
+      },
+      {
+        "alt": "Atlético de Madrid fan-services app in a clean phone shell",
+        "displayH": 252,
+        "displayW": 131,
+        "h": 932,
+        "loaded": true,
+        "src": "img/home-atletico-shell.png?v=0f30805e3897",
+        "w": 483
+      },
+      {
+        "alt": "Luzia Services Hub grocery basket with product images and editable quantities",
+        "displayH": 231,
+        "displayW": 104,
+        "h": 1600,
+        "loaded": true,
+        "src": "cases/drafts/services-hub/media/ifood-basket-ready.svg?v=4d24e88f1161",
+        "w": 720
+      },
+      {
+        "alt": "Pizza Hut mobile ordering shown in a rounded phone mockup",
+        "displayH": 235,
+        "displayW": 114,
+        "h": 2283,
+        "loaded": true,
+        "src": "img/home_pizza.png?v=bce950a0939f",
+        "w": 1109
+      },
+      {
+        "alt": "MadUX",
+        "displayH": 44,
+        "displayW": 150,
+        "h": 765,
+        "loaded": true,
+        "src": "img/community/logos/madux.svg?v=335914df0631",
+        "w": 837
+      },
+      {
+        "alt": "IxDF",
+        "displayH": 44,
+        "displayW": 150,
+        "h": 98,
+        "loaded": true,
+        "src": "img/community/logos/ixdf.svg?v=ead8a68ba0b2",
+        "w": 300
+      },
+      {
+        "alt": "UXDX",
+        "displayH": 44,
+        "displayW": 150,
+        "h": 100,
+        "loaded": true,
+        "src": "img/community/logos/uxdx.svg?v=95f34f7b6aba",
+        "w": 262
+      },
+      {
+        "alt": "Arcasiles",
+        "displayH": 44,
+        "displayW": 150,
+        "h": 1616,
+        "loaded": true,
+        "src": "img/community/logos/arcasiles.png?v=a6ab197cf880",
+        "w": 2425
+      },
+      {
+        "alt": "Felipe Amorim speaking at an Augmented Designer talk",
+        "displayH": 286,
+        "displayW": 343,
+        "h": 4032,
+        "loaded": true,
+        "src": "img/felipe-augmented-designer-speaking.jpeg?v=fea5fb1f53b4",
+        "w": 3024
+      }
+    ],
+    "links": [
+      {
+        "href": "contact.html?service=agency",
+        "text": "Start a conversation"
+      },
+      {
+        "href": "#selected-work",
+        "text": "See selected work"
+      },
+      {
+        "href": "work/luzia-new-chat/",
+        "text": "Luzia AI product"
+      },
+      {
+        "href": "work/atletico-de-madrid.html",
+        "text": "Atlético de Madrid Fan product"
+      },
+      {
+        "href": "contact.html?service=agency",
+        "text": "Start a conversation"
+      },
+      {
+        "href": "#selected-work",
+        "text": "See selected work"
+      },
+      {
+        "href": "work/luzia-new-chat/",
+        "text": "AI productProduct strategyLuzia · New chatChat-first entry, with the composer and thread history redesigned."
+      },
+      {
+        "href": "work/atletico-de-madrid.html",
+        "text": "Fan servicesMobile productAtlético de MadridConnected fan services · +€350k monthly revenue reported."
+      },
+      {
+        "href": "cases/drafts/services-hub/",
+        "text": "AI productService designLuzia · Services HubBookings, commerce and routines inside an AI conversation."
+      },
+      {
+        "href": "work/pizza-hut.html",
+        "text": "Service designMobile orderingPizza HutA clearer ordering journey · satisfaction reported from 82% to 95%."
+      },
+      {
+        "href": "work.html",
+        "text": "Explore all selected work"
+      },
+      {
+        "href": "leadership.html#community-and-talks",
+        "text": "Community, talks and workshops"
+      },
+      {
+        "href": "contact.html?service=agency",
+        "text": "Discuss an agency project"
+      },
+      {
+        "href": "contact.html?service=brief",
+        "text": "Pricing by conversationDiscuss scope and pricing."
+      },
+      {
+        "href": "services/ux-ui-brief.html",
+        "text": "See the focused brief"
+      },
+      {
+        "href": "contact.html?service=monthly",
+        "text": "Pricing by conversationDiscuss scope and pricing."
+      },
+      {
+        "href": "services/monthly-design.html",
+        "text": "See monthly support"
+      },
+      {
+        "href": "services.html",
+        "text": "Explore product-team support"
+      },
+      {
+        "href": "leadership.html",
+        "text": "More about my experience"
+      }
+    ],
+    "scrollWidth": 375,
+    "title": "Senior AI product designer for agencies | Felipe Amorim",
+    "videos": [
+      {
+        "display": "none",
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      }
+    ],
+    "width": 390
+  },
+  {
+    "path": "work.html",
+    "mode": "mobile",
+    "headings": [
+      "Selected work.",
+      "Selected projects",
+      "A senior partner who stays close to the delivery.",
+      "Let’s talk about the work ahead."
+    ],
+    "height": 7906,
+    "images": [
+      {
+        "alt": "Luzia new-chat experience shown in its finished iPhone shell",
+        "displayH": 235,
+        "displayW": 111,
+        "h": 881,
+        "loaded": true,
+        "src": "work/luzia-new-chat/assets/first-entrance-shell.png?v=e355717a6546",
+        "w": 417
+      },
+      {
+        "alt": "Atlético de Madrid fan-services app in a clean phone shell",
+        "displayH": 252,
+        "displayW": 131,
+        "h": 932,
+        "loaded": true,
+        "src": "img/home-atletico-shell.png?v=0f30805e3897",
+        "w": 483
+      },
+      {
+        "alt": "Luzia Services Hub grocery basket with product images and editable quantities",
+        "displayH": 231,
+        "displayW": 104,
+        "h": 1600,
+        "loaded": true,
+        "src": "cases/drafts/services-hub/media/ifood-basket-ready.svg?v=4d24e88f1161",
+        "w": 720
+      },
+      {
+        "alt": "Pizza Hut mobile ordering shown in a rounded phone mockup",
+        "displayH": 235,
+        "displayW": 114,
+        "h": 2283,
+        "loaded": true,
+        "src": "img/home_pizza.png?v=bce950a0939f",
+        "w": 1109
+      },
+      {
+        "alt": "RCD Espanyol home with club news, fixtures and personal services",
+        "displayH": 231,
+        "displayW": 106,
+        "h": 932,
+        "loaded": true,
+        "src": "work/espanyol/assets/01-home.png?v=504b888e7d88",
+        "w": 430
+      },
+      {
+        "alt": "The ENEM entry screen with subject choices and guided study",
+        "displayH": 231,
+        "displayW": 107,
+        "h": 2532,
+        "loaded": true,
+        "src": "cases/drafts/enem/media/app-captures/00-entry.png?v=42da15302c4c",
+        "w": 1170
+      },
+      {
+        "alt": "Outback mobile dining experience shown in a rounded phone mockup",
+        "displayH": 270,
+        "displayW": 149,
+        "h": 980,
+        "loaded": true,
+        "src": "img/parallax-4.png?v=93c3b1758288",
+        "w": 541
+      },
+      {
+        "alt": "Luzia web app home in dark mode, with its navigation and assistant composer",
+        "displayH": 180,
+        "displayW": 288,
+        "h": 1800,
+        "loaded": true,
+        "src": "cases/source-kits/portfolio-cases/webapp/01-home-dark.png?v=ce4b7ac79cd9",
+        "w": 2880
+      },
+      {
+        "alt": "Card Dynamics and Carrefour mortgage flow shown in a rounded phone mockup",
+        "displayH": 235,
+        "displayW": 114,
+        "h": 2283,
+        "loaded": true,
+        "src": "img/card_dynamics/1.png?v=feec49075d9c",
+        "w": 1109
+      },
+      {
+        "alt": "Ipiranga products, rewards and convenience in its original iPhone mockup",
+        "displayH": 270,
+        "displayW": 149,
+        "h": 3080,
+        "loaded": true,
+        "src": "work/ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "w": 1700
+      },
+      {
+        "alt": "Raiô employee balances and benefits in its original iPhone mockup",
+        "displayH": 235,
+        "displayW": 89,
+        "h": 2568,
+        "loaded": true,
+        "src": "work/raio/assets/mockups/raio-iphone-benefits.webp?v=91e67edeb23a",
+        "w": 968
+      },
+      {
+        "alt": "SkateKing discovery and community screen in its original iPhone mockup",
+        "displayH": 267,
+        "displayW": 145,
+        "h": 2739,
+        "loaded": true,
+        "src": "work/skateking/assets/mockups/skateking-iphone-01.webp?v=dd5c0b3f942d",
+        "w": 1480
+      },
+      {
+        "alt": "Impulse Financial Assistant settings in a rounded phone mockup",
+        "displayH": 231,
+        "displayW": 106,
+        "h": 932,
+        "loaded": true,
+        "src": "cases/img/sc1.png?v=efb375e61944",
+        "w": 430
+      },
+      {
+        "alt": "Invisipayment watch receipt with a clear purchase amount and an immediate dispute action",
+        "displayH": 170,
+        "displayW": 150,
+        "h": 498,
+        "loaded": true,
+        "src": "work/invisipayment/assets/selected/invisipayment-watch-receipt-2x.png?v=efa6718ec072",
+        "w": 442
+      },
+      {
+        "alt": "Mi Mundo voice-first creation concept reveal",
+        "displayH": 231,
+        "displayW": 104,
+        "h": 1600,
+        "loaded": true,
+        "src": "cases/drafts/mi-mundo/media/06-reveal.png?v=4d54f42bd8c7",
+        "w": 720
+      }
+    ],
+    "links": [
+      {
+        "href": "work/luzia-new-chat/",
+        "text": "AI productProduct strategyLuzia · New chatChat-first entry, with the composer and thread history redesigned."
+      },
+      {
+        "href": "work/atletico-de-madrid.html",
+        "text": "Fan servicesMobile productAtlético de MadridConnected fan services · +€350k monthly revenue reported."
+      },
+      {
+        "href": "cases/drafts/services-hub/",
+        "text": "AI productService designLuzia · Services HubBookings, commerce and routines inside an AI conversation."
+      },
+      {
+        "href": "work/pizza-hut.html",
+        "text": "Service designMobile orderingPizza HutA clearer ordering journey · satisfaction reported from 82% to 95%."
+      },
+      {
+        "href": "work/rcd-espanyol.html",
+        "text": "Fan experienceProduct strategyRCD EspanyolClub content, matchday and member services brought into one fan experience."
+      },
+      {
+        "href": "cases/drafts/enem/",
+        "text": "AI productLearning experiencePreparador do ENEMOfficial questions, guided learning and AI explanations."
+      },
+      {
+        "href": "work/outback.html",
+        "text": "Customer experienceService designOutbackA connected dining journey · +29% sales reported."
+      },
+      {
+        "href": "cases/drafts/webapp/",
+        "text": "AI productWeb experienceLuzia · Web appA responsive assistant built for keyboard, browsing and reading."
+      },
+      {
+        "href": "work/card-dynamics.html",
+        "text": "FintechProduct and brandCard DynamicsWhite-label financial flows from retail offer to account connection."
+      },
+      {
+        "href": "work/ipiranga.html",
+        "text": "Super appMobile productIpirangaRoutes, station discovery and rewards in one mobility product."
+      },
+      {
+        "href": "work/raio.html",
+        "text": "Employee benefitsUX/UIRaiôA benefits wallet for employees and management tools for HR."
+      },
+      {
+        "href": "work/skateking.html",
+        "text": "Community appSportSkateKingPersonal onboarding and map-based discovery for skaters."
+      },
+      {
+        "href": "cases/impulse.html",
+        "text": "Concept explorationSpeculative designImpulseA wearable finance concept with budget context and phone approval."
+      },
+      {
+        "href": "work/invisipayment.html",
+        "text": "Concept explorationSpeculative designInvisipaymentA hands-free payment concept with confirmation and dispute."
+      },
+      {
+        "href": "cases/drafts/mi-mundo/",
+        "text": "Concept explorationVoice interactionMi MundoA voice-first concept from spoken intent to a shareable world."
+      },
+      {
+        "href": "leadership.html",
+        "text": "Meet Felipe and see his experience"
+      }
+    ],
+    "scrollWidth": 375,
+    "title": "Product and UX/UI case studies | Felipe Amorim",
+    "videos": [
+      {
+        "display": "none",
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      }
+    ],
+    "width": 390
+  },
+  {
+    "path": "leadership.html",
+    "mode": "mobile",
+    "headings": [
+      "Design leader by experience.Designer by practice.",
+      "Senior perspective. Hands-on delivery.",
+      "Ideas get better when they’re shared.",
+      "Hire me if you need…",
+      "Experience you can put to work.",
+      "Design leadership",
+      "Building ventures",
+      "Product and future thinking",
+      "Let’s talk about the work ahead."
+    ],
+    "height": 7935,
+    "images": [
+      {
+        "alt": "Felipe speaking at MadUX Lightning Talks in Madrid",
+        "displayH": 242,
+        "displayW": 343,
+        "h": 1536,
+        "loaded": true,
+        "src": "img/community/madux-lightning-talks.jpg?v=13fcf3b64489",
+        "w": 1152
+      },
+      {
+        "alt": "Felipe presenting a design masterclass for IxDF Madrid",
+        "displayH": 242,
+        "displayW": 343,
+        "h": 438,
+        "loaded": true,
+        "src": "img/community/ixdf-masterclass.jpg?v=5e4dc54f0357",
+        "w": 582
+      },
+      {
+        "alt": "Felipe guiding a product alignment roundtable at UXDX Madrid",
+        "displayH": 242,
+        "displayW": 343,
+        "h": 1536,
+        "loaded": true,
+        "src": "img/community/uxdx-roundtable.jpg?v=b84357d5d6f6",
+        "w": 1152
+      },
+      {
+        "alt": "",
+        "displayH": 180,
+        "displayW": 333,
+        "h": 505,
+        "loaded": true,
+        "src": "img/image-10.png?v=f72415ca0179",
+        "w": 755
+      },
+      {
+        "alt": "",
+        "displayH": 180,
+        "displayW": 333,
+        "h": 1220,
+        "loaded": true,
+        "src": "img/product-design.png?v=44e4059ca32b",
+        "w": 755
+      },
+      {
+        "alt": "",
+        "displayH": 180,
+        "displayW": 333,
+        "h": 2133,
+        "loaded": true,
+        "src": "img/pexels/revenue-abstract.jpg?v=b5f4ab732043",
+        "w": 1200
+      },
+      {
+        "alt": "",
+        "displayH": 180,
+        "displayW": 333,
+        "h": 0,
+        "loaded": false,
+        "src": "img/pexels/innovation-abstract.jpg?v=464f496d1895",
+        "w": 0
+      },
+      {
+        "alt": "",
+        "displayH": 180,
+        "displayW": 333,
+        "h": 0,
+        "loaded": false,
+        "src": "img/image-11.png?v=d9b2a18e080d",
+        "w": 0
+      },
+      {
+        "alt": "",
+        "displayH": 180,
+        "displayW": 333,
+        "h": 0,
+        "loaded": false,
+        "src": "img/pexels/brand-warm-abstract.jpg?v=1ba6c34ce2ea",
+        "w": 0
+      }
+    ],
+    "links": [
+      {
+        "href": "https://www.linkedin.com/posts/felipecaroe_lightningtalks-madux-uxdesign-activity-7427637687265841152-_c-p",
+        "text": "View LinkedIn post"
+      },
+      {
+        "href": "https://www.linkedin.com/posts/felipecaroe_augmenteddesigner-cyberpunk-nonconformity-activity-7399027836621090817-sAZs",
+        "text": "View LinkedIn post"
+      },
+      {
+        "href": "https://www.linkedin.com/posts/felipecaroe_product-uxdesign-uxdxemea2026-activity-7444299303168131072-k3Si",
+        "text": "View LinkedIn post"
+      },
+      {
+        "href": "https://www.linkedin.com/posts/felipecaroe_lightningtalks-madux-uxdesign-activity-7427637687265841152-_c-p",
+        "text": "Lightning Talks: Show and Tell"
+      },
+      {
+        "href": "https://luma.com/cmbdmc02",
+        "text": "“The Augmented Designer”"
+      },
+      {
+        "href": "https://uxdx.com/community/community-madrid-2026-03-26/",
+        "text": "See the event"
+      },
+      {
+        "href": "resume.html",
+        "text": "View résumé"
+      },
+      {
+        "href": "contact.html",
+        "text": "Start a conversation"
+      }
+    ],
+    "scrollWidth": 375,
+    "title": "Senior AI Product Designer | Felipe Amorim",
+    "videos": [],
+    "width": 390
+  },
+  {
+    "path": "resume.html",
+    "mode": "mobile",
+    "headings": [
+      "Felipe Amorim\n          Senior AI product designer · UX/UI · Product strategy",
+      "Let’s talk about the work ahead."
+    ],
+    "height": 5912,
+    "images": [],
+    "links": [
+      {
+        "href": "index.html",
+        "text": "← Portfolio"
+      },
+      {
+        "href": "work/luzia-new-chat/index.html",
+        "text": "View Luzia work"
+      },
+      {
+        "href": "mailto:felipie@gmail.com",
+        "text": "felipie@gmail.com"
+      },
+      {
+        "href": "https://www.linkedin.com/in/felipecaroe/",
+        "text": "linkedin.com/in/felipecaroe"
+      },
+      {
+        "href": "https://www.behance.net/felipecaroe",
+        "text": "behance.net/felipecaroe"
+      }
+    ],
+    "scrollWidth": 375,
+    "title": "Experience and résumé | Felipe Amorim",
+    "videos": [
+      {
+        "display": "none",
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      }
+    ],
+    "width": 390
+  },
+  {
+    "path": "services.html",
+    "mode": "mobile",
+    "headings": [
+      "Extra design capacity. Senior from day one.",
+      "Design for what happens around the answer.",
+      "Make the next step easier to take.",
+      "Make the product clear on screen.",
+      "Find the changes worth making first.",
+      "Give the team a shared way forward.",
+      "Start with the brief in front of you.",
+      "Clear scope. Direct collaboration.",
+      "Let’s talk about the work ahead."
+    ],
+    "height": 4966,
+    "images": [],
+    "links": [
+      {
+        "href": "contact.html?service=agency",
+        "text": "Discuss a client brief"
+      },
+      {
+        "href": "contact.html?service=agency",
+        "text": "Discuss an agency project"
+      },
+      {
+        "href": "contact.html?service=brief",
+        "text": "Pricing by conversationDiscuss scope and pricing."
+      },
+      {
+        "href": "services/ux-ui-brief.html",
+        "text": "Explore the focused brief"
+      },
+      {
+        "href": "contact.html?service=monthly",
+        "text": "Pricing by conversationDiscuss scope and pricing."
+      },
+      {
+        "href": "services/monthly-design.html",
+        "text": "Explore monthly support"
+      },
+      {
+        "href": "contact.html?service=product",
+        "text": "Get in touch about direct product support"
+      },
+      {
+        "href": "contact.html",
+        "text": "Tell me what you need"
+      }
+    ],
+    "scrollWidth": 375,
+    "title": "AI product design and UX/UI for agencies | Felipe Amorim",
+    "videos": [
+      {
+        "display": "none",
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      }
+    ],
+    "width": 390
+  },
+  {
+    "path": "services/ux-ui-brief.html",
+    "mode": "mobile",
+    "headings": [
+      "Move one important design decision forward.",
+      "A contained problem with a clear next step.",
+      "Design you can act on.",
+      "Scope it. Design it. Hand it over.",
+      "Common questions",
+      "Let’s talk about the work ahead."
+    ],
+    "height": 3360,
+    "images": [],
+    "links": [
+      {
+        "href": "../services.html",
+        "text": "Services"
+      },
+      {
+        "href": "../contact.html?service=brief",
+        "text": "Pricing by conversationDiscuss scope and pricing."
+      },
+      {
+        "href": "../contact.html?service=brief",
+        "text": "Discuss your brief"
+      }
+    ],
+    "scrollWidth": 375,
+    "title": "Focused AI product design and UX/UI brief | Felipe Amorim",
+    "videos": [
+      {
+        "display": "none",
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      }
+    ],
+    "width": 390
+  },
+  {
+    "path": "services/monthly-design.html",
+    "mode": "mobile",
+    "headings": [
+      "A senior design partner for your busy months.",
+      "More client work than in-house design time.",
+      "Known capacity. Agreed priorities.",
+      "Thoughtful, mostly async.",
+      "Common questions",
+      "Let’s talk about the work ahead."
+    ],
+    "height": 3388,
+    "images": [],
+    "links": [
+      {
+        "href": "../services.html",
+        "text": "Services"
+      },
+      {
+        "href": "../contact.html?service=monthly",
+        "text": "Pricing by conversationDiscuss scope and pricing."
+      },
+      {
+        "href": "../contact.html?service=monthly",
+        "text": "Discuss monthly support"
+      }
+    ],
+    "scrollWidth": 375,
+    "title": "Monthly freelance UX/UI for agencies | Felipe Amorim",
+    "videos": [
+      {
+        "display": "none",
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      }
+    ],
+    "width": 390
+  },
+  {
+    "path": "contact.html",
+    "mode": "mobile",
+    "headings": [
+      "Tell me about your project.",
+      "Prepare your brief.",
+      "Let’s talk about the work ahead."
+    ],
+    "height": 2137,
+    "images": [],
+    "links": [
+      {
+        "href": "mailto:felipie@gmail.com",
+        "text": "felipie@gmail.com"
+      },
+      {
+        "href": "mailto:felipie@gmail.com",
+        "text": "Email me directly"
+      },
+      {
+        "href": "#brief-form",
+        "text": "Use the brief form"
+      }
+    ],
+    "scrollWidth": 375,
+    "title": "Hire freelance UX/UI design support | Felipe Amorim",
+    "videos": [
+      {
+        "display": "none",
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      }
+    ],
+    "width": 390
+  },
+  {
+    "path": "work/luzia-new-chat/index.html",
+    "mode": "mobile",
+    "headings": [
+      "Make the first chat feel effortless.",
+      "Say it. Check it.",
+      "Designed as a flow.",
+      "From a product directory to a conversation.",
+      "A deliberate reset.",
+      "Quiet structure.Useful cues.",
+      "One language.More than a screen.",
+      "A focused release.A broader exploration.",
+      "Help someone start. Then get out of the way.",
+      "Making an AI product easier to start using?"
+    ],
+    "height": 10521,
+    "images": [
+      {
+        "alt": "Luzia first-chat screen with a welcome, prompt suggestions, notification invitation and compact composer",
+        "displayH": 398,
+        "displayW": 188,
+        "h": 881,
+        "loaded": true,
+        "src": "assets/first-entrance-shell.png?v=e355717a6546",
+        "w": 417
+      },
+      {
+        "alt": "First entrance with a short greeting, three suggestions, a notification opt-in card and the composer",
+        "displayH": 542,
+        "displayW": 280,
+        "h": 900,
+        "loaded": true,
+        "src": "assets/first-entrance.png?v=19103ac77ce6",
+        "w": 465
+      },
+      {
+        "alt": "Luzia chat with the keyboard open and a compact composer",
+        "displayH": 542,
+        "displayW": 280,
+        "h": 900,
+        "loaded": true,
+        "src": "assets/chat-keyboard.png?v=a1fbe56ab2bf",
+        "w": 465
+      },
+      {
+        "alt": "Luzia side drawer with conversations, search and visual tools",
+        "displayH": 542,
+        "displayW": 280,
+        "h": 900,
+        "loaded": true,
+        "src": "assets/drawer-open.png?v=b64709fa1eaf",
+        "w": 465
+      },
+      {
+        "alt": "",
+        "displayH": 87,
+        "displayW": 40,
+        "h": 2532,
+        "loaded": true,
+        "src": "../../cases/drafts/enem/media/app-captures/00-entry.png?v=42da15302c4c",
+        "w": 1170
+      },
+      {
+        "alt": "",
+        "displayH": 87,
+        "displayW": 39,
+        "h": 1600,
+        "loaded": true,
+        "src": "../../cases/drafts/services-hub/media/ifood-basket-ready.svg?v=4d24e88f1161",
+        "w": 720
+      },
+      {
+        "alt": "",
+        "displayH": 63,
+        "displayW": 101,
+        "h": 1800,
+        "loaded": true,
+        "src": "../../cases/source-kits/portfolio-cases/webapp/01-home-dark.png?v=ce4b7ac79cd9",
+        "w": 2880
+      }
+    ],
+    "links": [
+      {
+        "href": "../../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "assets/newchat-voice-1080p.mp4",
+        "text": "Open the MP4 directly."
+      },
+      {
+        "href": "../../cases/drafts/enem/",
+        "text": "AI · LearningPreparador do ENEMOfficial questions, guided learning and AI explanations.Explore case"
+      },
+      {
+        "href": "../../cases/drafts/services-hub/",
+        "text": "AI · Service designLuzia · Services HubBookings, commerce and routines inside an AI conversation.Explore case"
+      },
+      {
+        "href": "../../cases/drafts/webapp/",
+        "text": "AI · Web productLuzia · Web appA responsive assistant built for keyboard, browsing and reading.Explore case"
+      },
+      {
+        "href": "../../contact.html?service=agency",
+        "text": "Talk through a similar challenge"
+      }
+    ],
+    "scrollWidth": 375,
+    "title": "Luzia · New chat | Felipe Amorim",
+    "videos": [
+      {
+        "display": "block",
+        "paused": true,
+        "ready": 4,
+        "src": "http://localhost:8766/beta/work/luzia-new-chat/assets/newchat-voice-1080p.mp4?v=e7e4ddc6e41e"
+      }
+    ],
+    "width": 390
+  },
+  {
+    "path": "work/atletico-de-madrid.html",
+    "mode": "mobile",
+    "headings": [
+      "Bringing the fan journey into one app.",
+      "Match day brings several jobs at once.",
+      "Organise around what the fan needs to do.",
+      "From a fan’s next task to one checkout.",
+      "Start where the service happens.",
+      "Give services a place beyond the feed.",
+      "Connecting services and commerce in one product?"
+    ],
+    "height": 7531,
+    "images": [
+      {
+        "alt": "Atlético de Madrid fan services and member shop displayed in a clean phone shell",
+        "displayH": 427,
+        "displayW": 221,
+        "h": 932,
+        "loaded": true,
+        "src": "../img/home-atletico-shell.png?v=0f30805e3897",
+        "w": 483
+      },
+      {
+        "alt": "Club services organised around the fan’s next task",
+        "displayH": 555,
+        "displayW": 265,
+        "h": 1510,
+        "loaded": true,
+        "src": "atletico/assets/figma-exports/atletico-mobile-hub-2x.png?v=f4b355d2d535",
+        "w": 720
+      },
+      {
+        "alt": "Club merchandise and member offers",
+        "displayH": 569,
+        "displayW": 295,
+        "h": 932,
+        "loaded": true,
+        "src": "atletico/assets/figma-exports/member-shop.png?v=0f30805e3897",
+        "w": 483
+      },
+      {
+        "alt": "Shirt sizing, member pricing and personalisation",
+        "displayH": 530,
+        "displayW": 252,
+        "h": 1068,
+        "loaded": true,
+        "src": "atletico/assets/figma-exports/product-detail.png?v=b05cfa416524",
+        "w": 508
+      },
+      {
+        "alt": "Merchandise, food and tickets reviewed together before payment",
+        "displayH": 530,
+        "displayW": 254,
+        "h": 1329,
+        "loaded": true,
+        "src": "atletico/assets/figma-exports/unified-checkout.png?v=28d7447b3abb",
+        "w": 636
+      },
+      {
+        "alt": "Fans buying food and drinks at a stadium concession",
+        "displayH": 412,
+        "displayW": 343,
+        "h": 1224,
+        "loaded": true,
+        "src": "atletico/assets/figma-exports/matchday-concession.jpg?v=20f66d587676",
+        "w": 1018
+      },
+      {
+        "alt": "Atleti Pay terminal at the stadium counter",
+        "displayH": 316,
+        "displayW": 343,
+        "h": 830,
+        "loaded": true,
+        "src": "atletico/assets/figma-exports/atleti-pay-terminal.jpg?v=20cf36c1561f",
+        "w": 900
+      },
+      {
+        "alt": "",
+        "displayH": 89,
+        "displayW": 43,
+        "h": 2283,
+        "loaded": true,
+        "src": "../img/home_pizza.png?v=bce950a0939f",
+        "w": 1109
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 56,
+        "h": 980,
+        "loaded": true,
+        "src": "../img/parallax-4.png?v=93c3b1758288",
+        "w": 541
+      },
+      {
+        "alt": "",
+        "displayH": 89,
+        "displayW": 43,
+        "h": 2283,
+        "loaded": true,
+        "src": "../img/card_dynamics/1.png?v=feec49075d9c",
+        "w": 1109
+      }
+    ],
+    "links": [
+      {
+        "href": "../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/201717263/Atletico-de-Madrid-Cashless-Marketplace",
+        "text": "View original project"
+      },
+      {
+        "href": "pizza-hut.html",
+        "text": "Food · Mobile experiencePizza HutA clearer ordering journey · satisfaction reported from 82% to 95%.Explore case"
+      },
+      {
+        "href": "outback.html",
+        "text": "Hospitality · Customer experienceOutbackA connected dining journey · +29% sales reported.Explore case"
+      },
+      {
+        "href": "card-dynamics.html",
+        "text": "Finance · Partner ecosystemCard DynamicsWhite-label financial flows from retail offer to account connection.Explore case"
+      },
+      {
+        "href": "../contact.html?service=agency",
+        "text": "Talk through a similar challenge"
+      },
+      {
+        "href": "../work.html",
+        "text": "← Back to selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/201717263/Atletico-de-Madrid-Cashless-Marketplace",
+        "text": "View original case study"
+      }
+    ],
+    "scrollWidth": 375,
+    "title": "Atlético de Madrid · Fan services | Felipe Amorim",
+    "videos": [
+      {
+        "display": "none",
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      }
+    ],
+    "width": 390
+  },
+  {
+    "path": "cases/drafts/services-hub/index.html",
+    "mode": "mobile",
+    "headings": [
+      "One home for everything the assistant does.",
+      "One service area. Different jobs, clear next steps.",
+      "Move from a useful list to a delivery choice.",
+      "Useful capabilities were scattered across the assistant.",
+      "Three service patterns. One partner foundation.",
+      "Design a vocabulary the assistant can compose.",
+      "Use conversation to build. Structure to commit.",
+      "Turning AI capabilities into a service people can use?"
+    ],
+    "height": 7059,
+    "images": [
+      {
+        "alt": "Services Hub, with service categories and assistant capabilities",
+        "displayH": 391,
+        "displayW": 181,
+        "h": 812,
+        "loaded": true,
+        "src": "../../source-kits/portfolio-cases/services-hub/01-all-services-lobby.png?v=22f415538915",
+        "w": 375
+      },
+      {
+        "alt": "Bookings grouped into active and completed requests, with clear reply states",
+        "displayH": 521,
+        "displayW": 241,
+        "h": 812,
+        "loaded": true,
+        "src": "../../source-kits/portfolio-cases/services-hub/03-bookings-lobby.png?v=99872b029ba6",
+        "w": 375
+      },
+      {
+        "alt": "A grocery basket with product photos and editable quantities",
+        "displayH": 521,
+        "displayW": 235,
+        "h": 1600,
+        "loaded": true,
+        "src": "media/ifood-basket-ready.svg?v=4d24e88f1161",
+        "w": 720
+      },
+      {
+        "alt": "Delivery timing choices, with personal address and prices removed",
+        "displayH": 521,
+        "displayW": 234,
+        "h": 1871,
+        "loaded": true,
+        "src": "media/ifood-delivery-options.png?v=85daf9b4d135",
+        "w": 841
+      },
+      {
+        "alt": "",
+        "displayH": 89,
+        "displayW": 42,
+        "h": 881,
+        "loaded": true,
+        "src": "../../../work/luzia-new-chat/assets/first-entrance-shell.png?v=e355717a6546",
+        "w": 417
+      },
+      {
+        "alt": "",
+        "displayH": 63,
+        "displayW": 101,
+        "h": 1800,
+        "loaded": true,
+        "src": "../../../cases/source-kits/portfolio-cases/webapp/01-home-dark.png?v=ce4b7ac79cd9",
+        "w": 2880
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 56,
+        "h": 3080,
+        "loaded": true,
+        "src": "../../../work/ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "w": 1700
+      }
+    ],
+    "links": [
+      {
+        "href": "../../../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "../../../work/luzia-new-chat/",
+        "text": "AI · ConversationLuzia · New chatChat-first entry, with the composer and thread history redesigned.Explore case"
+      },
+      {
+        "href": "../webapp/",
+        "text": "AI · Web productLuzia · Web appA responsive assistant built for keyboard, browsing and reading.Explore case"
+      },
+      {
+        "href": "../../../work/ipiranga.html",
+        "text": "Mobile · Super appIpirangaRoutes, station discovery and rewards in one mobility product.Explore case"
+      },
+      {
+        "href": "../../../contact.html?service=agency",
+        "text": "Discuss an agency brief"
+      },
+      {
+        "href": "../../../work.html",
+        "text": "← Back to selected work"
+      }
+    ],
+    "scrollWidth": 375,
+    "title": "Luzia · Services Hub | Felipe Amorim",
+    "videos": [],
+    "width": 390
+  },
+  {
+    "path": "work/pizza-hut.html",
+    "mode": "mobile",
+    "headings": [
+      "Easing the wait between order and arrival.",
+      "Delivery anxiety was a system problem.",
+      "Prioritise the moments that change confidence.",
+      "A connected experience from browse to delivery.",
+      "Make the wait part of the designed service.",
+      "Finding the friction across a whole ordering service?"
+    ],
+    "height": 4737,
+    "images": [
+      {
+        "alt": "Pizza Hut mobile ordering in a rounded phone mockup",
+        "displayH": 398,
+        "displayW": 194,
+        "h": 2283,
+        "loaded": true,
+        "src": "../img/home_pizza.png?v=bce950a0939f",
+        "w": 1109
+      },
+      {
+        "alt": "Pizza Hut service design project cover for the Brazilian customer experience",
+        "displayH": 243,
+        "displayW": 322,
+        "h": 1357,
+        "loaded": true,
+        "src": "pizza-hut/assets/selected/hero.jpg?v=aefd0672efed",
+        "w": 1800
+      },
+      {
+        "alt": "Pizza Hut mobile product prototype screens",
+        "displayH": 324,
+        "displayW": 322,
+        "h": 1800,
+        "loaded": true,
+        "src": "pizza-hut/assets/selected/prototype.jpg?v=44e07d86d9ad",
+        "w": 1791
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 56,
+        "h": 980,
+        "loaded": true,
+        "src": "../img/parallax-4.png?v=93c3b1758288",
+        "w": 541
+      },
+      {
+        "alt": "",
+        "displayH": 95,
+        "displayW": 49,
+        "h": 932,
+        "loaded": true,
+        "src": "../img/home-atletico-shell.png?v=0f30805e3897",
+        "w": 483
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 56,
+        "h": 3080,
+        "loaded": true,
+        "src": "../work/ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "w": 1700
+      }
+    ],
+    "links": [
+      {
+        "href": "../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/241661977/Service-Design-for-Pizza-Hut",
+        "text": "View original project"
+      },
+      {
+        "href": "outback.html",
+        "text": "Hospitality · Service designOutbackA connected dining journey · +29% sales reported.Explore case"
+      },
+      {
+        "href": "atletico-de-madrid.html",
+        "text": "Sport · Fan experienceAtlético de MadridConnected fan services · +€350k monthly revenue reported.Explore case"
+      },
+      {
+        "href": "ipiranga.html",
+        "text": "Retail · Connected servicesIpirangaRoutes, station discovery and rewards in one mobility product.Explore case"
+      },
+      {
+        "href": "../contact.html?service=agency",
+        "text": "Talk through a similar challenge"
+      },
+      {
+        "href": "../work.html",
+        "text": "← Back to selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/241661977/Service-Design-for-Pizza-Hut",
+        "text": "View original case study"
+      }
+    ],
+    "scrollWidth": 375,
+    "title": "Pizza Hut · Service design | Felipe Amorim",
+    "videos": [
+      {
+        "display": "none",
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      }
+    ],
+    "width": 390
+  },
+  {
+    "path": "cases/drafts/enem/index.html",
+    "mode": "mobile",
+    "headings": [
+      "From a quick question to a study habit.",
+      "A question becomes a reason to return.",
+      "The answer ended the visit.",
+      "Design the learning loop and the content behind it.",
+      "Shorten the route to the first question.",
+      "Designing an AI experience where correctness matters?"
+    ],
+    "height": 7716,
+    "images": [
+      {
+        "alt": "The ENEM entry screen with subject choices and a short guided start",
+        "displayH": 391,
+        "displayW": 181,
+        "h": 2532,
+        "loaded": true,
+        "src": "media/app-captures/00-entry.png?v=42da15302c4c",
+        "w": 1170
+      },
+      {
+        "alt": "Real ENEM study modes, including guided learning, questions and timed practice",
+        "displayH": 521,
+        "displayW": 241,
+        "h": 2532,
+        "loaded": true,
+        "src": "media/app-captures/01-study-mode.png?v=98692340b81a",
+        "w": 1170
+      },
+      {
+        "alt": "The ENEM lesson explaining percentage multipliers and a common misconception",
+        "displayH": 521,
+        "displayW": 241,
+        "h": 2532,
+        "loaded": true,
+        "src": "media/app-captures/03-lesson.png?v=b1b7465e53cf",
+        "w": 1170
+      },
+      {
+        "alt": "Official ENEM question with reservoir-flow diagrams and answer feedback",
+        "displayH": 521,
+        "displayW": 241,
+        "h": 2532,
+        "loaded": true,
+        "src": "media/app-captures/04-question.png?v=8e42fbd2b5ec",
+        "w": 1170
+      },
+      {
+        "alt": "The real ENEM contextual hint sheet, with the question softened behind it",
+        "displayH": 521,
+        "displayW": 241,
+        "h": 2532,
+        "loaded": true,
+        "src": "media/app-captures/05-hint.png?v=3da8e1b553be",
+        "w": 1170
+      },
+      {
+        "alt": "Correct answer feedback and the worked explanation in the ENEM app",
+        "displayH": 521,
+        "displayW": 241,
+        "h": 2532,
+        "loaded": true,
+        "src": "media/app-captures/06-explanation.png?v=91b4e5c5531a",
+        "w": 1170
+      },
+      {
+        "alt": "The real ENEM study history with recent questions and a retry action",
+        "displayH": 521,
+        "displayW": 241,
+        "h": 2532,
+        "loaded": true,
+        "src": "media/app-captures/07-history.png?v=259cecb26274",
+        "w": 1170
+      },
+      {
+        "alt": "",
+        "displayH": 89,
+        "displayW": 42,
+        "h": 881,
+        "loaded": true,
+        "src": "../../../work/luzia-new-chat/assets/first-entrance-shell.png?v=e355717a6546",
+        "w": 417
+      },
+      {
+        "alt": "",
+        "displayH": 87,
+        "displayW": 39,
+        "h": 1600,
+        "loaded": true,
+        "src": "../../../cases/drafts/services-hub/media/ifood-basket-ready.svg?v=4d24e88f1161",
+        "w": 720
+      },
+      {
+        "alt": "",
+        "displayH": 87,
+        "displayW": 39,
+        "h": 1600,
+        "loaded": true,
+        "src": "../../../cases/drafts/mi-mundo/media/06-reveal.png?v=4d54f42bd8c7",
+        "w": 720
+      }
+    ],
+    "links": [
+      {
+        "href": "../../../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "../../../work/luzia-new-chat/",
+        "text": "AI · ConversationLuzia · New chatChat-first entry, with the composer and thread history redesigned.Explore case"
+      },
+      {
+        "href": "../services-hub/",
+        "text": "AI · Product ecosystemLuzia · Services HubBookings, commerce and routines inside an AI conversation.Explore case"
+      },
+      {
+        "href": "../mi-mundo/",
+        "text": "AI · Voice and creationMi MundoA voice-first concept from spoken intent to a shareable world.Explore case"
+      },
+      {
+        "href": "../../../contact.html?service=agency",
+        "text": "Discuss an agency brief"
+      },
+      {
+        "href": "../../../work.html",
+        "text": "← Back to selected work"
+      }
+    ],
+    "scrollWidth": 375,
+    "title": "Preparador do ENEM | Felipe Amorim",
+    "videos": [],
+    "width": 390
+  },
+  {
+    "path": "work/rcd-espanyol.html",
+    "mode": "mobile",
+    "headings": [
+      "A club app built around being a fan.",
+      "Useful on matchday. Worth opening between matches.",
+      "Many services. One fragmented experience.",
+      "Keep the brief, the design and delivery connected.",
+      "Build a shared view before building the app.",
+      "Let context set the hierarchy.",
+      "Follow the club. Plan the next match.",
+      "A coherent experience needs connected systems.",
+      "A shared direction for the fan experience.",
+      "Several services. One experience to get right?"
+    ],
+    "height": 10540,
+    "images": [
+      {
+        "alt": "",
+        "displayH": 391,
+        "displayW": 180,
+        "h": 1862,
+        "loaded": true,
+        "src": "espanyol/assets/03-navigation.png?v=6d855a112895",
+        "w": 860
+      },
+      {
+        "alt": "RCD Espanyol app home with club news, fixtures and personal services",
+        "displayH": 391,
+        "displayW": 180,
+        "h": 932,
+        "loaded": true,
+        "src": "espanyol/assets/01-home.png?v=504b888e7d88",
+        "w": 430
+      },
+      {
+        "alt": "Espanyol home with upcoming match, ticket purchase, news and personal services",
+        "displayH": 521,
+        "displayW": 240,
+        "h": 932,
+        "loaded": true,
+        "src": "espanyol/assets/01-home.png?v=504b888e7d88",
+        "w": 430
+      },
+      {
+        "alt": "Matchday home with a prominent fixture and practical fan services",
+        "displayH": 521,
+        "displayW": 241,
+        "h": 931,
+        "loaded": true,
+        "src": "espanyol/assets/02-matchday.png?v=93b6ce4559ad",
+        "w": 430
+      },
+      {
+        "alt": "Espanyol navigation separating commercial actions, club content and personal tasks",
+        "displayH": 521,
+        "displayW": 241,
+        "h": 1862,
+        "loaded": true,
+        "src": "espanyol/assets/03-navigation.png?v=6d855a112895",
+        "w": 860
+      },
+      {
+        "alt": "Personal services sheet with food, stadium tour, shop, seat release and membership actions",
+        "displayH": 521,
+        "displayW": 241,
+        "h": 931,
+        "loaded": true,
+        "src": "espanyol/assets/04-member-services.png?v=d67844913156",
+        "w": 430
+      },
+      {
+        "alt": "Felipe facilitating an in-person discovery workshop with Espanyol department representatives",
+        "displayH": 257,
+        "displayW": 343,
+        "h": 600,
+        "loaded": true,
+        "src": "espanyol/assets/discovery-01.jpg?v=e180ffc17a53",
+        "w": 800
+      },
+      {
+        "alt": "Espanyol stakeholders discussing a certainties, assumptions and doubts board overlooking the stadium",
+        "displayH": 257,
+        "displayW": 343,
+        "h": 600,
+        "loaded": true,
+        "src": "espanyol/assets/discovery-02.jpg?v=e17625134425",
+        "w": 800
+      },
+      {
+        "alt": "Full-screen Espanyol media story with close and progress controls",
+        "displayH": 521,
+        "displayW": 241,
+        "h": 1862,
+        "loaded": true,
+        "src": "espanyol/assets/05-media-story.png?v=83c8ac99939e",
+        "w": 860
+      },
+      {
+        "alt": "Espanyol calendar with upcoming fixtures and stadium services",
+        "displayH": 521,
+        "displayW": 241,
+        "h": 1862,
+        "loaded": true,
+        "src": "espanyol/assets/06-calendar.png?v=e1924fae22b9",
+        "w": 860
+      },
+      {
+        "alt": "",
+        "displayH": 95,
+        "displayW": 49,
+        "h": 932,
+        "loaded": true,
+        "src": "../img/home-atletico-shell.png?v=0f30805e3897",
+        "w": 483
+      },
+      {
+        "alt": "",
+        "displayH": 89,
+        "displayW": 43,
+        "h": 2283,
+        "loaded": true,
+        "src": "../img/home_pizza.png?v=bce950a0939f",
+        "w": 1109
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 56,
+        "h": 3080,
+        "loaded": true,
+        "src": "../work/ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "w": 1700
+      }
+    ],
+    "links": [
+      {
+        "href": "../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "https://www.linkedin.com/posts/felipecaroe_designthinking-uxdesign-productdesign-ugcPost-7432764660472365056-WGA5/",
+        "text": "Read the workshop post"
+      },
+      {
+        "href": "atletico-de-madrid.html",
+        "text": "Sport · Fan servicesAtlético de MadridConnected fan services · +€350k monthly revenue reported.Explore case"
+      },
+      {
+        "href": "pizza-hut.html",
+        "text": "Service design · CommercePizza HutA clearer ordering journey · satisfaction reported from 82% to 95%.Explore case"
+      },
+      {
+        "href": "ipiranga.html",
+        "text": "Membership · Connected servicesIpirangaRoutes, station discovery and rewards in one mobility product.Explore case"
+      },
+      {
+        "href": "../contact.html?service=agency",
+        "text": "Talk through your brief"
+      },
+      {
+        "href": "../work.html",
+        "text": "Back to selected work"
+      }
+    ],
+    "scrollWidth": 375,
+    "title": "RCD Espanyol · Fan experience | Felipe Amorim",
+    "videos": [
+      {
+        "display": "none",
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      }
+    ],
+    "width": 390
+  },
+  {
+    "path": "work/card-dynamics.html",
+    "mode": "mobile",
+    "headings": [
+      "Making financial flows feel navigable.",
+      "The brand changes. The task must stay clear.",
+      "Design the flow and the operating foundation.",
+      "One financial task, across partner identities.",
+      "Keep bank selection easy to scan.",
+      "Keep consent next to the account choice.",
+      "Designing a financial flow across partner brands?"
+    ],
+    "height": 6573,
+    "images": [
+      {
+        "alt": "Card Dynamics home-loan application in a rounded phone mockup",
+        "displayH": 398,
+        "displayW": 194,
+        "h": 2283,
+        "loaded": true,
+        "src": "../img/card_dynamics/1.png?v=feec49075d9c",
+        "w": 1109
+      },
+      {
+        "alt": "Carrefour home-loan entry screen in a rounded phone mockup",
+        "displayH": 531,
+        "displayW": 258,
+        "h": 2283,
+        "loaded": true,
+        "src": "../img/card_dynamics/1.png?v=feec49075d9c",
+        "w": 1109
+      },
+      {
+        "alt": "CaixaBank account-selection screen in a rounded phone mockup",
+        "displayH": 531,
+        "displayW": 258,
+        "h": 2283,
+        "loaded": true,
+        "src": "../img/card_dynamics/2.png?v=f674fffbe189",
+        "w": 1109
+      },
+      {
+        "alt": "Carrefour account-connection details in a rounded phone mockup",
+        "displayH": 531,
+        "displayW": 258,
+        "h": 2283,
+        "loaded": true,
+        "src": "../img/card_dynamics/3.png?v=d4dff78ee8d8",
+        "w": 1109
+      },
+      {
+        "alt": "Bank provider picker with search, frequently used banks, additional providers and a clear connect action",
+        "displayH": 276,
+        "displayW": 329,
+        "h": 1206,
+        "loaded": true,
+        "src": "card-dynamics/assets/selected/card-dynamics-bank-provider-picker.png?v=f43aba5362a4",
+        "w": 1436
+      },
+      {
+        "alt": "",
+        "displayH": 95,
+        "displayW": 49,
+        "h": 932,
+        "loaded": true,
+        "src": "../img/home-atletico-shell.png?v=0f30805e3897",
+        "w": 483
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 56,
+        "h": 3080,
+        "loaded": true,
+        "src": "../work/ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "w": 1700
+      },
+      {
+        "alt": "",
+        "displayH": 89,
+        "displayW": 34,
+        "h": 2568,
+        "loaded": true,
+        "src": "../work/raio/assets/mockups/raio-iphone-benefits.webp?v=91e67edeb23a",
+        "w": 968
+      }
+    ],
+    "links": [
+      {
+        "href": "../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/234892939/Card-Dynamics-Revamp",
+        "text": "View original project"
+      },
+      {
+        "href": "atletico-de-madrid.html",
+        "text": "Scale · Multi-partner productAtlético de MadridConnected fan services · +€350k monthly revenue reported.Explore case"
+      },
+      {
+        "href": "ipiranga.html",
+        "text": "Mobile · Connected ecosystemIpirangaRoutes, station discovery and rewards in one mobility product.Explore case"
+      },
+      {
+        "href": "raio.html",
+        "text": "Finance · Employee benefitsRaiôA benefits wallet for employees and management tools for HR.Explore case"
+      },
+      {
+        "href": "../contact.html?service=agency",
+        "text": "Talk through a similar challenge"
+      },
+      {
+        "href": "../work.html",
+        "text": "← Back to selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/234892939/Card-Dynamics-Revamp",
+        "text": "View original case study"
+      }
+    ],
+    "scrollWidth": 375,
+    "title": "Card Dynamics · White-label fintech | Felipe Amorim",
+    "videos": [
+      {
+        "display": "none",
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      }
+    ],
+    "width": 390
+  },
+  {
+    "path": "work/outback.html",
+    "mode": "mobile",
+    "headings": [
+      "A better dining journey, from first tap to table.",
+      "The same meal can start in different places.",
+      "Turn research into recognisable service choices.",
+      "Choose how to dine. Then explore the menu.",
+      "Ask how they want to dine before they commit.",
+      "Bringing a physical service into a digital journey?"
+    ],
+    "height": 5237,
+    "images": [
+      {
+        "alt": "Outback mobile dining experience in a rounded phone mockup",
+        "displayH": 457,
+        "displayW": 252,
+        "h": 980,
+        "loaded": true,
+        "src": "../img/parallax-4.png?v=93c3b1758288",
+        "w": 541
+      },
+      {
+        "alt": "Outback mobile app for menu browsing, delivery, collection, reservations and queueing",
+        "displayH": 609,
+        "displayW": 336,
+        "h": 980,
+        "loaded": true,
+        "src": "../img/parallax-4.png?v=93c3b1758288",
+        "w": 541
+      },
+      {
+        "alt": "Outback menu and ordering screens shown together in two angled phones",
+        "displayH": 468,
+        "displayW": 467,
+        "h": 636,
+        "loaded": true,
+        "src": "../img/parallax-5.png?v=182dd3f08068",
+        "w": 635
+      },
+      {
+        "alt": "",
+        "displayH": 89,
+        "displayW": 43,
+        "h": 2283,
+        "loaded": true,
+        "src": "../img/home_pizza.png?v=bce950a0939f",
+        "w": 1109
+      },
+      {
+        "alt": "",
+        "displayH": 95,
+        "displayW": 49,
+        "h": 932,
+        "loaded": true,
+        "src": "../img/home-atletico-shell.png?v=0f30805e3897",
+        "w": 483
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 56,
+        "h": 3080,
+        "loaded": true,
+        "src": "../work/ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "w": 1700
+      }
+    ],
+    "links": [
+      {
+        "href": "../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/201713907/Outback-Customer-Experience",
+        "text": "View original project"
+      },
+      {
+        "href": "pizza-hut.html",
+        "text": "Food · Ordering journeyPizza HutA clearer ordering journey · satisfaction reported from 82% to 95%.Explore case"
+      },
+      {
+        "href": "atletico-de-madrid.html",
+        "text": "Sport · Fan servicesAtlético de MadridConnected fan services · +€350k monthly revenue reported.Explore case"
+      },
+      {
+        "href": "ipiranga.html",
+        "text": "Retail · Mobile servicesIpirangaRoutes, station discovery and rewards in one mobility product.Explore case"
+      },
+      {
+        "href": "../contact.html?service=agency",
+        "text": "Talk through a similar challenge"
+      },
+      {
+        "href": "../work.html",
+        "text": "← Back to selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/201713907/Outback-Customer-Experience",
+        "text": "View original case study"
+      }
+    ],
+    "scrollWidth": 375,
+    "title": "Outback · Dining service design | Felipe Amorim",
+    "videos": [
+      {
+        "display": "none",
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      }
+    ],
+    "width": 390
+  },
+  {
+    "path": "cases/drafts/webapp/index.html",
+    "mode": "mobile",
+    "headings": [
+      "A considered home for Luzia on the web.",
+      "Built for browsing and getting things done.",
+      "A larger screen changes the interaction.",
+      "Deliver decisions in working interfaces.",
+      "Give the answer its own work surface.",
+      "Taking a mobile product into a considered web experience?"
+    ],
+    "height": 4502,
+    "images": [
+      {
+        "alt": "Luzia web home in dark mode, showing navigation and the assistant composer",
+        "displayH": 209,
+        "displayW": 335,
+        "h": 1800,
+        "loaded": true,
+        "src": "../../source-kits/portfolio-cases/webapp/01-home-dark.png?v=ce4b7ac79cd9",
+        "w": 2880
+      },
+      {
+        "alt": "Image-led Ideas surface within the Luzia web shell",
+        "displayH": 209,
+        "displayW": 335,
+        "h": 1800,
+        "loaded": true,
+        "src": "../../source-kits/portfolio-cases/webapp/02-ideas.png?v=b6850bde90eb",
+        "w": 2880
+      },
+      {
+        "alt": "Browsable Luzia tools and capabilities surface",
+        "displayH": 209,
+        "displayW": 335,
+        "h": 1800,
+        "loaded": true,
+        "src": "../../source-kits/portfolio-cases/webapp/03-tools.png?v=73f384abd1ba",
+        "w": 2880
+      },
+      {
+        "alt": "",
+        "displayH": 89,
+        "displayW": 42,
+        "h": 881,
+        "loaded": true,
+        "src": "../../../work/luzia-new-chat/assets/first-entrance-shell.png?v=e355717a6546",
+        "w": 417
+      },
+      {
+        "alt": "",
+        "displayH": 87,
+        "displayW": 39,
+        "h": 1600,
+        "loaded": true,
+        "src": "../../../cases/drafts/services-hub/media/ifood-basket-ready.svg?v=4d24e88f1161",
+        "w": 720
+      },
+      {
+        "alt": "",
+        "displayH": 87,
+        "displayW": 39,
+        "h": 1600,
+        "loaded": true,
+        "src": "../../../cases/drafts/mi-mundo/media/06-reveal.png?v=4d54f42bd8c7",
+        "w": 720
+      }
+    ],
+    "links": [
+      {
+        "href": "../../../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "../../../work/luzia-new-chat/",
+        "text": "AI · ConversationLuzia · New chatChat-first entry, with the composer and thread history redesigned.Explore case"
+      },
+      {
+        "href": "../services-hub/",
+        "text": "AI · ServicesLuzia · Services HubBookings, commerce and routines inside an AI conversation.Explore case"
+      },
+      {
+        "href": "../mi-mundo/",
+        "text": "AI · Generative creationMi MundoA voice-first concept from spoken intent to a shareable world.Explore case"
+      },
+      {
+        "href": "../../../contact.html?service=agency",
+        "text": "Discuss an agency brief"
+      },
+      {
+        "href": "../../../work.html",
+        "text": "← Back to selected work"
+      }
+    ],
+    "scrollWidth": 375,
+    "title": "Luzia · Web app | Felipe Amorim",
+    "videos": [],
+    "width": 390
+  },
+  {
+    "path": "cases/drafts/mi-mundo/index.html",
+    "mode": "mobile",
+    "headings": [
+      "Say it out loud. Watch the idea take shape.",
+      "Speak freely. See the idea take shape.",
+      "An empty prompt asks for too much too early.",
+      "Let people correct the interpretation before the build.",
+      "Make creation orderly and the result expressive.",
+      "Helping people express intent in a generative product?"
+    ],
+    "height": 6494,
+    "images": [
+      {
+        "alt": "Mi Mundo concept reveal showing a generated visual direction",
+        "displayH": 391,
+        "displayW": 176,
+        "h": 1600,
+        "loaded": true,
+        "src": "media/06-reveal.png?v=4d54f42bd8c7",
+        "w": 720
+      },
+      {
+        "alt": "Voice-first open-ended input in the Mi Mundo concept",
+        "displayH": 521,
+        "displayW": 235,
+        "h": 1600,
+        "loaded": true,
+        "src": "media/02-dump.png?v=c66eaa98f670",
+        "w": 720
+      },
+      {
+        "alt": "Mi Mundo concept reflecting an organised interpretation",
+        "displayH": 521,
+        "displayW": 235,
+        "h": 1600,
+        "loaded": true,
+        "src": "media/03-understood.png?v=c146d7574f35",
+        "w": 720
+      },
+      {
+        "alt": "Mi Mundo presenting vivid creative directions",
+        "displayH": 521,
+        "displayW": 235,
+        "h": 1600,
+        "loaded": true,
+        "src": "media/04-vibe.png?v=67de23eab7e2",
+        "w": 720
+      },
+      {
+        "alt": "Mi Mundo concept ready to share, with preview and publish actions",
+        "displayH": 521,
+        "displayW": 235,
+        "h": 1600,
+        "loaded": true,
+        "src": "media/06-reveal.png?v=4d54f42bd8c7",
+        "w": 720
+      },
+      {
+        "alt": "",
+        "displayH": 89,
+        "displayW": 42,
+        "h": 881,
+        "loaded": true,
+        "src": "../../../work/luzia-new-chat/assets/first-entrance-shell.png?v=e355717a6546",
+        "w": 417
+      },
+      {
+        "alt": "",
+        "displayH": 87,
+        "displayW": 40,
+        "h": 2532,
+        "loaded": true,
+        "src": "../../../cases/drafts/enem/media/app-captures/00-entry.png?v=42da15302c4c",
+        "w": 1170
+      },
+      {
+        "alt": "",
+        "displayH": 87,
+        "displayW": 39,
+        "h": 1600,
+        "loaded": true,
+        "src": "../../../cases/drafts/services-hub/media/ifood-basket-ready.svg?v=4d24e88f1161",
+        "w": 720
+      }
+    ],
+    "links": [
+      {
+        "href": "../../../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "../../../work/luzia-new-chat/",
+        "text": "AI · Voice and chatLuzia · New chatChat-first entry, with the composer and thread history redesigned.Explore case"
+      },
+      {
+        "href": "../enem/",
+        "text": "AI · Guided learningPreparador do ENEMOfficial questions, guided learning and AI explanations.Explore case"
+      },
+      {
+        "href": "../services-hub/",
+        "text": "AI · Service discoveryLuzia · Services HubBookings, commerce and routines inside an AI conversation.Explore case"
+      },
+      {
+        "href": "../../../contact.html?service=agency",
+        "text": "Discuss an agency brief"
+      },
+      {
+        "href": "../../../work.html",
+        "text": "← Back to selected work"
+      }
+    ],
+    "scrollWidth": 375,
+    "title": "Mi Mundo · Voice-first creation | Felipe Amorim",
+    "videos": [],
+    "width": 390
+  },
+  {
+    "path": "work/ipiranga.html",
+    "mode": "mobile",
+    "headings": [
+      "A super app for everyday mobility.",
+      "From the journeyto the everyday.",
+      "The services existed. Their connection was unclear.",
+      "Make the ecosystem useful at the next stop.",
+      "Turning separate services into a coherent product?"
+    ],
+    "height": 3657,
+    "images": [
+      {
+        "alt": "Ipiranga route planning screen",
+        "displayH": 273,
+        "displayW": 187,
+        "h": 368,
+        "loaded": true,
+        "src": "ipiranga/assets/mockups/ipiranga-route.webp?v=0f64b6517410",
+        "w": 202
+      },
+      {
+        "alt": "Ipiranga convenience store screen",
+        "displayH": 273,
+        "displayW": 187,
+        "h": 367,
+        "loaded": true,
+        "src": "ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "w": 202
+      },
+      {
+        "alt": "Ipiranga home connecting fuel, payments, routes and rewards",
+        "displayH": 301,
+        "displayW": 187,
+        "h": 326,
+        "loaded": true,
+        "src": "ipiranga/assets/mockups/ipiranga-home.webp?v=3c78530a60f0",
+        "w": 202
+      },
+      {
+        "alt": "Ipiranga route planning and nearby station interface",
+        "displayH": 392,
+        "displayW": 216,
+        "h": 325,
+        "loaded": true,
+        "src": "ipiranga/assets/mockups/ipiranga-route.webp?v=0f64b6517410",
+        "w": 179
+      },
+      {
+        "alt": "Ipiranga convenience store product browsing",
+        "displayH": 393,
+        "displayW": 217,
+        "h": 325,
+        "loaded": true,
+        "src": "ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "w": 179
+      },
+      {
+        "alt": "",
+        "displayH": 89,
+        "displayW": 34,
+        "h": 2568,
+        "loaded": true,
+        "src": "../work/raio/assets/mockups/raio-iphone-benefits.webp?v=91e67edeb23a",
+        "w": 968
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 56,
+        "h": 980,
+        "loaded": true,
+        "src": "../img/parallax-4.png?v=93c3b1758288",
+        "w": 541
+      },
+      {
+        "alt": "",
+        "displayH": 89,
+        "displayW": 43,
+        "h": 2283,
+        "loaded": true,
+        "src": "../img/card_dynamics/1.png?v=feec49075d9c",
+        "w": 1109
+      }
+    ],
+    "links": [
+      {
+        "href": "../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "raio.html",
+        "text": "Benefits · Everyday valueRaiôA benefits wallet for employees and management tools for HR.Explore case"
+      },
+      {
+        "href": "outback.html",
+        "text": "Hospitality · In-service journeysOutbackA connected dining journey · +29% sales reported.Explore case"
+      },
+      {
+        "href": "card-dynamics.html",
+        "text": "Finance · Connected servicesCard DynamicsWhite-label financial flows from retail offer to account connection.Explore case"
+      },
+      {
+        "href": "../contact.html?service=agency",
+        "text": "Talk through a similar challenge"
+      },
+      {
+        "href": "../work.html",
+        "text": "← Back to selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/230861837/Ipiranga-Super-App",
+        "text": "View original case study"
+      }
+    ],
+    "scrollWidth": 375,
+    "title": "Ipiranga · Mobility super app | Felipe Amorim",
+    "videos": [
+      {
+        "display": "none",
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      }
+    ],
+    "width": 390
+  },
+  {
+    "path": "work/raio.html",
+    "mode": "mobile",
+    "headings": [
+      "Benefits made easier to understand and use.",
+      "Personal choice.A shared system.",
+      "Fragmented administration. Limited employee choice.",
+      "Design for the person using it and the team managing it.",
+      "Designing for customers and the teams serving them?"
+    ],
+    "height": 4005,
+    "images": [
+      {
+        "alt": "Raiô account, balances and benefits shown in the original three-phone composition",
+        "displayH": 275,
+        "displayW": 356,
+        "h": 262,
+        "loaded": true,
+        "src": "raio/assets/mockups/raio-phones-trio.webp?v=65450329e03c",
+        "w": 349
+      },
+      {
+        "alt": "Raiô business platform shown in its original laptop mockup",
+        "displayH": 208,
+        "displayW": 343,
+        "h": 211,
+        "loaded": true,
+        "src": "raio/assets/mockups/raio-laptop-dashboard.webp?v=ae5fc9893b7d",
+        "w": 349
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 56,
+        "h": 3080,
+        "loaded": true,
+        "src": "../work/ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "w": 1700
+      },
+      {
+        "alt": "",
+        "displayH": 89,
+        "displayW": 43,
+        "h": 2283,
+        "loaded": true,
+        "src": "../img/card_dynamics/1.png?v=feec49075d9c",
+        "w": 1109
+      },
+      {
+        "alt": "",
+        "displayH": 101,
+        "displayW": 55,
+        "h": 2739,
+        "loaded": true,
+        "src": "../work/skateking/assets/mockups/skateking-iphone-01.webp?v=dd5c0b3f942d",
+        "w": 1480
+      }
+    ],
+    "links": [
+      {
+        "href": "../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "ipiranga.html",
+        "text": "Rewards · Mobile ecosystemIpirangaRoutes, station discovery and rewards in one mobility product.Explore case"
+      },
+      {
+        "href": "card-dynamics.html",
+        "text": "Finance · Account connectionCard DynamicsWhite-label financial flows from retail offer to account connection.Explore case"
+      },
+      {
+        "href": "skateking.html",
+        "text": "Community · Local discoverySkateKingPersonal onboarding and map-based discovery for skaters.Explore case"
+      },
+      {
+        "href": "../contact.html?service=agency",
+        "text": "Talk through a similar challenge"
+      },
+      {
+        "href": "../work.html",
+        "text": "← Back to selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/233865357/UX-Raio-Beneficios",
+        "text": "View original case study"
+      }
+    ],
+    "scrollWidth": 375,
+    "title": "Raiô · Employee benefits | Felipe Amorim",
+    "videos": [
+      {
+        "display": "none",
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      }
+    ],
+    "width": 390
+  },
+  {
+    "path": "work/skateking.html",
+    "mode": "mobile",
+    "headings": [
+      "Find your next spot. Then go skate.",
+      "A little identity.A lot of local discovery.",
+      "A place to skate is a specific kind of discovery.",
+      "Connect personal identity with local discovery.",
+      "Building a useful product for a distinct community?"
+    ],
+    "height": 4005,
+    "images": [
+      {
+        "alt": "",
+        "displayH": 53,
+        "displayW": 53,
+        "h": 150,
+        "loaded": true,
+        "src": "skateking/assets/illustrations/skate-street.svg?v=d85c27d76451",
+        "w": 150
+      },
+      {
+        "alt": "",
+        "displayH": 54,
+        "displayW": 54,
+        "h": 150,
+        "loaded": true,
+        "src": "skateking/assets/illustrations/skate-downhill.svg?v=08ad33fa6a3d",
+        "w": 150
+      },
+      {
+        "alt": "",
+        "displayH": 28,
+        "displayW": 28,
+        "h": 150,
+        "loaded": true,
+        "src": "skateking/assets/illustrations/skate-street.svg?v=d85c27d76451",
+        "w": 150
+      },
+      {
+        "alt": "SkateKing splash screen in its original iPhone mockup",
+        "displayH": 278,
+        "displayW": 179,
+        "h": 375,
+        "loaded": true,
+        "src": "skateking/assets/mockups/skateking-iphone-01.webp?v=dd5c0b3f942d",
+        "w": 202
+      },
+      {
+        "alt": "SkateKing account confirmation with the next action kept visible",
+        "displayH": 277,
+        "displayW": 175,
+        "h": 375,
+        "loaded": true,
+        "src": "skateking/assets/mockups/skateking-iphone-confirmation.webp?v=7a88859c06d1",
+        "w": 202
+      },
+      {
+        "alt": "SkateKing create-account screen",
+        "displayH": 320,
+        "displayW": 159,
+        "h": 360,
+        "loaded": true,
+        "src": "skateking/assets/mockups/skateking-screen-create-account.webp?v=6f13396a0789",
+        "w": 179
+      },
+      {
+        "alt": "SkateKing avatar selection screen",
+        "displayH": 320,
+        "displayW": 159,
+        "h": 360,
+        "loaded": true,
+        "src": "skateking/assets/mockups/skateking-screen-avatar.webp?v=4fba59b28b3b",
+        "w": 179
+      },
+      {
+        "alt": "SkateKing skating-style selection screen",
+        "displayH": 320,
+        "displayW": 159,
+        "h": 360,
+        "loaded": true,
+        "src": "skateking/assets/mockups/skateking-screen-style.webp?v=841da560951b",
+        "w": 179
+      },
+      {
+        "alt": "SkateKing map and skate spot details in the original handheld iPhone mockup",
+        "displayH": 314,
+        "displayW": 200,
+        "h": 281,
+        "loaded": true,
+        "src": "skateking/assets/mockups/skateking-iphone-map-with-hand.webp?v=23fa0c47e015",
+        "w": 179
+      },
+      {
+        "alt": "",
+        "displayH": 89,
+        "displayW": 34,
+        "h": 2568,
+        "loaded": true,
+        "src": "../work/raio/assets/mockups/raio-iphone-benefits.webp?v=91e67edeb23a",
+        "w": 968
+      },
+      {
+        "alt": "",
+        "displayH": 102,
+        "displayW": 56,
+        "h": 3080,
+        "loaded": true,
+        "src": "../work/ipiranga/assets/mockups/ipiranga-store.webp?v=88aa2deca959",
+        "w": 1700
+      },
+      {
+        "alt": "",
+        "displayH": 87,
+        "displayW": 39,
+        "h": 1600,
+        "loaded": true,
+        "src": "../cases/drafts/mi-mundo/media/06-reveal.png?v=4d54f42bd8c7",
+        "w": 720
+      }
+    ],
+    "links": [
+      {
+        "href": "../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "raio.html",
+        "text": "People · Personal choiceRaiôA benefits wallet for employees and management tools for HR.Explore case"
+      },
+      {
+        "href": "ipiranga.html",
+        "text": "Place · Map discoveryIpirangaRoutes, station discovery and rewards in one mobility product.Explore case"
+      },
+      {
+        "href": "../cases/drafts/mi-mundo/",
+        "text": "Identity · Personal creationMi MundoA voice-first concept from spoken intent to a shareable world.Explore case"
+      },
+      {
+        "href": "../contact.html?service=agency",
+        "text": "Talk through a similar challenge"
+      },
+      {
+        "href": "../work.html",
+        "text": "← Back to selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/102679835/SkateKing-App",
+        "text": "View original case study"
+      }
+    ],
+    "scrollWidth": 375,
+    "title": "SkateKing · Skate community app | Felipe Amorim",
+    "videos": [
+      {
+        "display": "none",
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      }
+    ],
+    "width": 390
+  },
+  {
+    "path": "cases/impulse.html",
+    "mode": "mobile",
+    "headings": [
+      "Impulse Spend with more clarity.",
+      "What happens between wanting and buying?",
+      "Work back from a preferred financial future.",
+      "Keep the prompt light. Make approval deliberate.",
+      "From a moment of interest to a considered choice.",
+      "Two paths through the same idea.",
+      "A companion that can be tuned.",
+      "Map the dependencies behind the promise.",
+      "Defining how an AI assistant should intervene?"
+    ],
+    "height": 8813,
+    "images": [
+      {
+        "alt": "Impulse Financial Assistant settings on a phone screen",
+        "displayH": 391,
+        "displayW": 180,
+        "h": 932,
+        "loaded": true,
+        "src": "img/sc1.png?v=efb375e61944",
+        "w": 430
+      },
+      {
+        "alt": "A calm smart-glasses view before the assistant activates",
+        "displayH": 195,
+        "displayW": 343,
+        "h": 328,
+        "loaded": true,
+        "src": "img/image-step-1.png?v=750bd2003a5c",
+        "w": 580
+      },
+      {
+        "alt": "Impulse recognises an object of interest and offers contextual guidance",
+        "displayH": 195,
+        "displayW": 343,
+        "h": 327,
+        "loaded": true,
+        "src": "img/image-step-2.png?v=72b701da34c9",
+        "w": 580
+      },
+      {
+        "alt": "A personalised savings option appears in the wearable experience",
+        "displayH": 195,
+        "displayW": 343,
+        "h": 338,
+        "loaded": true,
+        "src": "img/image-step-3.png?v=3967b6f25d48",
+        "w": 599
+      },
+      {
+        "alt": "Impulse settings for choosing the assistant's mode",
+        "displayH": 521,
+        "displayW": 240,
+        "h": 932,
+        "loaded": true,
+        "src": "img/sc2.png?v=6ef368d866da",
+        "w": 430
+      },
+      {
+        "alt": "Impulse settings for suggestion frequency and voice notifications",
+        "displayH": 521,
+        "displayW": 240,
+        "h": 932,
+        "loaded": true,
+        "src": "img/sc3.png?v=de069a8e9351",
+        "w": 430
+      },
+      {
+        "alt": "Impulse interest profile for personalising suggestions",
+        "displayH": 523,
+        "displayW": 199,
+        "h": 1128,
+        "loaded": true,
+        "src": "img/sc4.png?v=261453e63142",
+        "w": 430
+      },
+      {
+        "alt": "Impulse system diagram connecting the wearable assistant, companion app, financial information and merchant services",
+        "displayH": 308,
+        "displayW": 301,
+        "h": 914,
+        "loaded": true,
+        "src": "img/diagrama.svg?v=56d568a7dc99",
+        "w": 892
+      },
+      {
+        "alt": "",
+        "displayH": 69,
+        "displayW": 61,
+        "h": 498,
+        "loaded": true,
+        "src": "../work/invisipayment/assets/selected/invisipayment-watch-receipt-2x.png?v=efa6718ec072",
+        "w": 442
+      },
+      {
+        "alt": "",
+        "displayH": 89,
+        "displayW": 42,
+        "h": 881,
+        "loaded": true,
+        "src": "../work/luzia-new-chat/assets/first-entrance-shell.png?v=e355717a6546",
+        "w": 417
+      },
+      {
+        "alt": "",
+        "displayH": 87,
+        "displayW": 40,
+        "h": 2532,
+        "loaded": true,
+        "src": "../cases/drafts/enem/media/app-captures/00-entry.png?v=42da15302c4c",
+        "w": 1170
+      }
+    ],
+    "links": [
+      {
+        "href": "../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "../work/invisipayment.html",
+        "text": "Invisipayment concept"
+      },
+      {
+        "href": "../work/invisipayment.html",
+        "text": "Concept · Emerging paymentsInvisipaymentA hands-free payment concept with confirmation and dispute.Explore case"
+      },
+      {
+        "href": "../work/luzia-new-chat/",
+        "text": "AI · Interaction designLuzia · New chatChat-first entry, with the composer and thread history redesigned.Explore case"
+      },
+      {
+        "href": "drafts/enem/",
+        "text": "AI · Responsible assistancePreparador do ENEMOfficial questions, guided learning and AI explanations.Explore case"
+      },
+      {
+        "href": "../contact.html?service=agency",
+        "text": "Talk through a similar challenge"
+      },
+      {
+        "href": "../work.html",
+        "text": "← Back to selected work"
+      }
+    ],
+    "scrollWidth": 375,
+    "title": "Impulse · Contextual finance concept | Felipe Amorim",
+    "videos": [
+      {
+        "display": "none",
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      },
+      {
+        "display": "block",
+        "paused": true,
+        "ready": 0,
+        "src": "http://localhost:8766/beta/cases/impulse_v1_fined.mp4?v=5514d3b02929"
+      },
+      {
+        "display": "block",
+        "paused": true,
+        "ready": 0,
+        "src": "http://localhost:8766/beta/cases/impulse_v1_bnpl.mp4?v=a884bea28ea5"
+      }
+    ],
+    "width": 390
+  },
+  {
+    "path": "work/invisipayment.html",
+    "mode": "mobile",
+    "headings": [
+      "A more human future for everyday payments.",
+      "Hands-free payment still needs confidence.",
+      "Follow a shopper through the whole transaction.",
+      "From arrival to an informed yes.",
+      "Checkout friction peaks at the moment of paying.",
+      "Make the last step unmistakable.",
+      "Keep a way to challenge the payment within reach.",
+      "Exploring an emerging interaction before committing to a product?"
+    ],
+    "height": 6263,
+    "images": [
+      {
+        "alt": "Invisipayment watch receipt with the purchase amount and an immediate dispute action",
+        "displayH": 275,
+        "displayW": 244,
+        "h": 498,
+        "loaded": true,
+        "src": "../work/invisipayment/assets/selected/invisipayment-watch-receipt-2x.png?v=efa6718ec072",
+        "w": 442
+      },
+      {
+        "alt": "Ana carrying shopping bags while walking with her daughter",
+        "displayH": 91,
+        "displayW": 98,
+        "h": 420,
+        "loaded": true,
+        "src": "invisipayment/assets/selected/flow/01-shopper-arrives.webp?v=f5485aab1a3a",
+        "w": 454
+      },
+      {
+        "alt": "A payment point waiting in an open checkout zone",
+        "displayH": 91,
+        "displayW": 98,
+        "h": 420,
+        "loaded": true,
+        "src": "invisipayment/assets/selected/flow/02-payment-zone.webp?v=bfd9f4c30f4b",
+        "w": 454
+      },
+      {
+        "alt": "The display greets Ana and shows a voice waveform",
+        "displayH": 91,
+        "displayW": 98,
+        "h": 420,
+        "loaded": true,
+        "src": "invisipayment/assets/selected/flow/03-recognition.webp?v=b02139caee7c",
+        "w": 455
+      },
+      {
+        "alt": "A payment display shows a 47 dollar total and asks for voice confirmation",
+        "displayH": 91,
+        "displayW": 98,
+        "h": 420,
+        "loaded": true,
+        "src": "invisipayment/assets/selected/flow/04-voice-confirmation.webp?v=b626ecb4165b",
+        "w": 454
+      },
+      {
+        "alt": "Survey chart: 55.9% of supermarket responses and 50% of general retail responses gave the moment of paying the strongest rating, 5 out of 5",
+        "displayH": 0,
+        "displayW": 0,
+        "h": 0,
+        "loaded": false,
+        "src": "invisipayment/assets/selected/invisipayment-survey-results.png?v=91abcd0999ae",
+        "w": 0
+      },
+      {
+        "alt": "",
+        "displayH": 127,
+        "displayW": 343,
+        "h": 500,
+        "loaded": true,
+        "src": "invisipayment/assets/selected/invisipayment-survey-supermarket.png?v=2124d0bbfa48",
+        "w": 1350
+      },
+      {
+        "alt": "",
+        "displayH": 130,
+        "displayW": 343,
+        "h": 510,
+        "loaded": true,
+        "src": "invisipayment/assets/selected/invisipayment-survey-retail.png?v=61fce1d51e47",
+        "w": 1350
+      },
+      {
+        "alt": "Horizontal payment display showing a 47 dollar checkout bill, a voice-confirmation prompt and an audio waveform",
+        "displayH": 245,
+        "displayW": 343,
+        "h": 1498,
+        "loaded": true,
+        "src": "invisipayment/assets/selected/invisipayment-voice-confirmation-ipad.png?v=a633409b5e8b",
+        "w": 2098
+      },
+      {
+        "alt": "",
+        "displayH": 87,
+        "displayW": 40,
+        "h": 932,
+        "loaded": true,
+        "src": "../cases/img/sc1.png?v=efb375e61944",
+        "w": 430
+      },
+      {
+        "alt": "",
+        "displayH": 89,
+        "displayW": 43,
+        "h": 2283,
+        "loaded": true,
+        "src": "../img/card_dynamics/1.png?v=feec49075d9c",
+        "w": 1109
+      },
+      {
+        "alt": "",
+        "displayH": 89,
+        "displayW": 42,
+        "h": 881,
+        "loaded": true,
+        "src": "../work/luzia-new-chat/assets/first-entrance-shell.png?v=e355717a6546",
+        "w": 417
+      }
+    ],
+    "links": [
+      {
+        "href": "../work.html",
+        "text": "Selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/221562325/Invisipayment-A-concept-for-the-future-of-payments",
+        "text": "View original project"
+      },
+      {
+        "href": "../cases/impulse.html",
+        "text": "Concept · Contextual financeImpulseA wearable finance concept with budget context and phone approval.Explore case"
+      },
+      {
+        "href": "card-dynamics.html",
+        "text": "Finance · Mobile productCard DynamicsWhite-label financial flows from retail offer to account connection.Explore case"
+      },
+      {
+        "href": "luzia-new-chat/",
+        "text": "AI · Interaction patternsLuzia · New chatChat-first entry, with the composer and thread history redesigned.Explore case"
+      },
+      {
+        "href": "../contact.html?service=agency",
+        "text": "Talk through a similar challenge"
+      },
+      {
+        "href": "../work.html",
+        "text": "← Back to selected work"
+      },
+      {
+        "href": "https://www.behance.net/gallery/221562325/Invisipayment-A-concept-for-the-future-of-payments",
+        "text": "View original case study"
+      }
+    ],
+    "scrollWidth": 375,
+    "title": "Invisipayment · Payment concept | Felipe Amorim",
+    "videos": [
+      {
+        "display": "none",
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      }
+    ],
+    "width": 390
+  },
+  {
+    "path": "cases/drafts/index.html",
+    "mode": "mobile",
+    "headings": [
+      "Case drafts"
+    ],
+    "height": 844,
+    "images": [],
+    "links": [
+      {
+        "href": "services-hub/",
+        "text": "Services HubiFood grocery flow included01"
+      },
+      {
+        "href": "enem/",
+        "text": "Preparador do ENEMShipped · prototype visuals02"
+      },
+      {
+        "href": "webapp/",
+        "text": "Luzia on the webPartially shipped03"
+      },
+      {
+        "href": "mi-mundo/",
+        "text": "Mi MundoConcept exploration · not shipped04"
+      }
+    ],
+    "scrollWidth": 390,
+    "title": "Case review index | Felipe Amorim",
+    "videos": [],
+    "width": 390
+  }
+]

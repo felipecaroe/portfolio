@@ -1,0 +1,182 @@
+[
+  {
+    "footerInvitation": false,
+    "h1": 1,
+    "height": 1909,
+    "path": "/beta/contact.html",
+    "related": false,
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "footerInvitation": false,
+    "h1": 1,
+    "height": 844,
+    "path": "/beta/cases/drafts/index.html",
+    "related": false,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "footerInvitation": false,
+    "h1": 1,
+    "height": 7044,
+    "path": "/beta/cases/drafts/services-hub/index.html",
+    "related": true,
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "footerInvitation": false,
+    "h1": 1,
+    "height": 6469,
+    "path": "/beta/cases/drafts/mi-mundo/index.html",
+    "related": true,
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "footerInvitation": false,
+    "h1": 1,
+    "height": 4487,
+    "path": "/beta/cases/drafts/webapp/index.html",
+    "related": true,
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "footerInvitation": false,
+    "h1": 1,
+    "height": 8444,
+    "path": "/beta/work/luzia-new-chat/index.html",
+    "related": true,
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "footerInvitation": false,
+    "h1": 1,
+    "height": 7572,
+    "path": "/beta/work/atletico-de-madrid.html",
+    "related": true,
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "footerInvitation": false,
+    "h1": 1,
+    "height": 6317,
+    "path": "/beta/work/card-dynamics.html",
+    "related": true,
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "footerInvitation": false,
+    "h1": 1,
+    "height": 5237,
+    "path": "/beta/work/outback.html",
+    "related": true,
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "footerInvitation": false,
+    "h1": 1,
+    "height": 4170,
+    "path": "/beta/work/pizza-hut.html",
+    "related": true,
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "footerInvitation": false,
+    "h1": 1,
+    "height": 1457,
+    "path": "/beta/contact.html",
+    "related": false,
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "footerInvitation": false,
+    "h1": 1,
+    "height": 900,
+    "path": "/beta/cases/drafts/index.html",
+    "related": false,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "footerInvitation": false,
+    "h1": 1,
+    "height": 5403,
+    "path": "/beta/cases/drafts/services-hub/index.html",
+    "related": true,
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "footerInvitation": false,
+    "h1": 1,
+    "height": 4312,
+    "path": "/beta/cases/drafts/mi-mundo/index.html",
+    "related": true,
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "footerInvitation": false,
+    "h1": 1,
+    "height": 3238,
+    "path": "/beta/cases/drafts/webapp/index.html",
+    "related": true,
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "footerInvitation": false,
+    "h1": 1,
+    "height": 5876,
+    "path": "/beta/work/luzia-new-chat/index.html",
+    "related": true,
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "footerInvitation": false,
+    "h1": 1,
+    "height": 4895,
+    "path": "/beta/work/atletico-de-madrid.html",
+    "related": true,
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "footerInvitation": false,
+    "h1": 1,
+    "height": 4153,
+    "path": "/beta/work/card-dynamics.html",
+    "related": true,
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "footerInvitation": false,
+    "h1": 1,
+    "height": 3618,
+    "path": "/beta/work/outback.html",
+    "related": true,
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "footerInvitation": false,
+    "h1": 1,
+    "height": 3706,
+    "path": "/beta/work/pizza-hut.html",
+    "related": true,
+    "scrollWidth": 1425,
+    "width": 1440
+  }
+]

@@ -24,18 +24,39 @@
     ]
   },
   "skateking-screen-create-account": {
-    "width": 680,
-    "height": 1367,
+    "width": 1179,
+    "height": 2553,
+    "source": "Figma frame 1.0 Onboarding: welcome",
     "variants": []
   },
   "skateking-screen-avatar": {
-    "width": 680,
-    "height": 1367,
+    "width": 1179,
+    "height": 2553,
+    "source": "Figma frame 1.2 Onboarding: regularity",
     "variants": []
   },
   "skateking-screen-style": {
-    "width": 680,
-    "height": 1367,
+    "width": 1179,
+    "height": 2553,
+    "source": "Figma frame 1.1 Onboarding: style",
+    "variants": []
+  },
+  "skateking-map-home": {
+    "width": 1179,
+    "height": 2553,
+    "source": "Figma frame 2.0 Home",
+    "variants": []
+  },
+  "skateking-map-search": {
+    "width": 1179,
+    "height": 2553,
+    "source": "Figma frame 2.1 Home: busca",
+    "variants": []
+  },
+  "skateking-spot-open": {
+    "width": 1179,
+    "height": 2553,
+    "source": "Figma frame 2.3 Home: pico aberto",
     "variants": []
   }
 }

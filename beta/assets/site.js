@@ -1,3 +1,77 @@
+const siteHeader = document.querySelector('.site-header');
+const menuToggle = siteHeader?.querySelector('.menu-toggle');
+const siteNavigation = siteHeader?.querySelector('#site-navigation');
+if (menuToggle && siteNavigation) {
+  const mobileHeader = window.matchMedia('(max-width:700px)');
+  const closeMenu = (restoreFocus = false) => {
+    if (restoreFocus) menuToggle.focus();
+    menuToggle.setAttribute('aria-expanded', 'false');
+    menuToggle.setAttribute('aria-label', 'Open menu');
+    siteNavigation.hidden = mobileHeader.matches;
+  };
+  const updateHeader = () => {
+    const focused = document.activeElement;
+    const focusInMenu = siteNavigation.contains(focused);
+    const contactLink = siteHeader.querySelector('.nav-contact');
+    if (mobileHeader.matches) {
+      menuToggle.after(siteNavigation);
+    } else {
+      contactLink.before(siteNavigation);
+    }
+    menuToggle.hidden = !mobileHeader.matches;
+    closeMenu(mobileHeader.matches && focusInMenu);
+    if (!mobileHeader.matches) {
+      if (focused === menuToggle) siteNavigation.querySelector('a').focus();
+      else if (focusInMenu) focused.focus();
+    }
+  };
+  siteHeader.dataset.menuReady = '';
+  menuToggle.addEventListener('click', () => {
+    const open = menuToggle.getAttribute('aria-expanded') !== 'true';
+    menuToggle.setAttribute('aria-expanded', String(open));
+    menuToggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+    siteNavigation.hidden = !open;
+  });
+  siteNavigation.addEventListener('click', event => {
+    if (event.target.closest('a') && mobileHeader.matches) closeMenu(true);
+  });
+  document.addEventListener('keydown', event => {
+    if (event.key === 'Escape' && menuToggle.getAttribute('aria-expanded') === 'true') {
+      closeMenu(true);
+    }
+  });
+  document.addEventListener('click', event => {
+    if (!siteHeader.contains(event.target) && menuToggle.getAttribute('aria-expanded') === 'true') {
+      closeMenu(siteNavigation.contains(document.activeElement));
+    }
+  });
+  siteHeader.addEventListener('focusout', event => {
+    if (event.relatedTarget && !siteHeader.contains(event.relatedTarget)
+        && menuToggle.getAttribute('aria-expanded') === 'true') closeMenu();
+  });
+  mobileHeader.addEventListener('change', updateHeader);
+  updateHeader();
+}
+
+const backgroundVideo = document.querySelector('.site-background-video');
+if (backgroundVideo) {
+  const motion = window.matchMedia('(min-width:769px) and (prefers-reduced-motion:no-preference)');
+  const sources = [...backgroundVideo.querySelectorAll('source[data-src]')];
+  const updateBackground = () => {
+    if (motion.matches) {
+      sources.forEach(source => { source.src = source.dataset.src; });
+      backgroundVideo.load();
+      backgroundVideo.play().catch(() => {});
+    } else {
+      backgroundVideo.pause();
+      sources.forEach(source => source.removeAttribute('src'));
+      backgroundVideo.load();
+    }
+  };
+  motion.addEventListener('change', updateBackground);
+  updateBackground();
+}
+
 const copyEmail = document.querySelector('[data-copy-email]');
 if (copyEmail) {
   copyEmail.addEventListener('click', async () => {

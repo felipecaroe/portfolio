@@ -1,4 +1,11 @@
 <header class="site-header"><div class="shell header-row">
   <a class="brand" href="{{ROOT}}index.html" aria-label="Felipe Amorim, home"><img class="brand-anchor" src="{{ROOT}}img/anchor.svg" alt="">Felipe Amorim</a>
-  <nav class="nav" aria-label="Main navigation">{{NAV}}</nav>
+  <div class="header-actions">
+    <nav class="nav" id="site-navigation" aria-label="Main navigation">{{NAV}}</nav>
+    <a class="nav-contact" href="{{ROOT}}contact.html"{{CONTACT_CURRENT}}>Contact</a>
+    <button class="menu-toggle" type="button" aria-label="Open menu" aria-controls="site-navigation" aria-expanded="false" hidden>
+      <svg class="menu-toggle__open" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+      <svg class="menu-toggle__close" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg>
+    </button>
+  </div>
 </div></header>

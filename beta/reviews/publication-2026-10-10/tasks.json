@@ -1,0 +1,219 @@
+[
+  {
+    "number": 1,
+    "priority": "P0 · Before public launch",
+    "status": "Done · confirmed by you",
+    "task": "Clear or hide sensitive metrics and unreleased material",
+    "detail": "Clearance marked complete following your instruction. Existing figures were not altered."
+  },
+  {
+    "number": 2,
+    "priority": "P0 · Before public launch",
+    "status": "Done",
+    "task": "Create a public-only deployment",
+    "detail": "A public page allowlist and dependency-only export are prepared in .release/public. Reviews, templates, scripts, working index and Mi Mundo are excluded. No publishing took place."
+  },
+  {
+    "number": 3,
+    "priority": "P1 · Credibility",
+    "status": "Won’t do · at your direction",
+    "task": "Keep delivery status clear",
+    "detail": "No new delivery-status treatment. Existing project status labels remain factual."
+  },
+  {
+    "number": 4,
+    "priority": "P1 · Time to value",
+    "status": "Done",
+    "task": "Move legacy case galleries ahead of long text",
+    "detail": "Atlético, Card Dynamics, Pizza Hut and Outback now show the selected gallery immediately after the cover and compact facts."
+  },
+  {
+    "number": 5,
+    "priority": "P1 · Visual evidence",
+    "status": "Done",
+    "task": "Replace Pizza Hut board thumbnails with readable UI",
+    "detail": "Replaced board imagery with five readable, Figma-exported mobile screens: menu, basket, delivery home, product configuration and payment. The post-visit feedback screen is removed from the case; its original Figma export remains in source materials."
+  },
+  {
+    "number": 6,
+    "priority": "P1 · Visual evidence",
+    "status": "Done",
+    "task": "Show readable Outback service screens",
+    "detail": "Added original Outback screens for menu browsing, basket review and virtual queueing, alongside the service home screen. The approved Bold Profile mockup is now included below the phone flow."
+  },
+  {
+    "number": 7,
+    "priority": "P1 · Accessibility",
+    "status": "Won’t do · at your direction",
+    "task": "Add Pause / Resume to Espanyol’s cover loop",
+    "detail": "No Pause / Resume control added to the Espanyol cover loop."
+  },
+  {
+    "number": 8,
+    "priority": "P1 · AI expertise",
+    "status": "Done",
+    "task": "Add New Chat’s contextual inference sequence",
+    "detail": "Added the actual exported hungry-user inference screen, showing cooking, iFood delivery and booking choices. It is labelled as a design exploration."
+  },
+  {
+    "number": 9,
+    "priority": "P1 · AI expertise",
+    "status": "Done",
+    "task": "Show Web app’s answer and composer",
+    "detail": "Added four authentic Web app states: collapsed home, focused composer, sent message and Ideas. The sidebar scrollbar is excluded from the case presentation."
+  },
+  {
+    "number": 10,
+    "priority": "P1 · Evidence clarity",
+    "status": "Done · confirmed by you",
+    "task": "Label ENEM staging versus released states",
+    "detail": "Staging and released states are clearly labelled; the cover loop uses actual app screens."
+  },
+  {
+    "number": 11,
+    "priority": "P1 · Research credibility",
+    "status": "Expanded · source-qualified",
+    "task": "Qualify Invisipayment’s survey",
+    "detail": "Added survey context from the research ebook: sample size and locations, weekly supermarket and general-retail behaviour, and the qualitative Spain/Brazil payment-method contrast. The chart-specific response base and collection dates remain unstated."
+  },
+  {
+    "number": 12,
+    "priority": "P1 · Launch configuration",
+    "status": "Prepared · not published",
+    "task": "Set public canonical, sitemap and indexing",
+    "detail": "Refreshed the public-only export from the current beta on 11 October. Canonicals, index directives, Open Graph metadata, robots.txt and sitemap are included and audited. Deployment remains separate."
+  },
+  {
+    "number": 13,
+    "priority": "P1 · Acceptance",
+    "status": "To do",
+    "task": "Verify real Safari, videos and mail handoff",
+    "detail": "Real-phone Safari, final public build and mail handoff remain for the acceptance pass."
+  },
+  {
+    "number": 14,
+    "priority": "P2 · Case depth",
+    "status": "Done",
+    "task": "Add one reusable AI result to Services Hub",
+    "detail": "Added the actual routine price-watch result and shopping lobby as a paired example, explicitly labelled as a design exploration."
+  },
+  {
+    "number": 15,
+    "priority": "P2 · Case depth",
+    "status": "Done",
+    "task": "Add one Ipiranga finding and benefits detail",
+    "detail": "Added the supplied trio de vantagens interstitial as step 03 after route planning and store discovery; preserved its original phone composition."
+  },
+  {
+    "number": 16,
+    "priority": "P2 · Case depth",
+    "status": "Partly done · original account visuals added",
+    "task": "Add a Raiô mobile account or transaction screen",
+    "detail": "Added the high-quality original employee account composition showing transactions, balances and income, alongside the HR dashboard. A separate straight transaction-screen export would improve mobile readability further."
+  },
+  {
+    "number": 17,
+    "priority": "P2 · Case depth",
+    "status": "Done",
+    "task": "Show SkateKing’s spot discovery",
+    "detail": "Exported the exact 3x Figma onboarding screens (1.0, 1.1 and 1.2) to the website source-exports folder. The existing high-quality 2.0 home, 2.1 search and 2.3 spot-open screens remain in the case sequence. The cover animates map → search → spot details."
+  },
+  {
+    "number": 18,
+    "priority": "P2 · Concept presentation",
+    "status": "Won’t do · at your direction",
+    "task": "Give Impulse’s films informative posters",
+    "detail": "No new Impulse film posters; the repeated covers remain removed."
+  },
+  {
+    "number": 19,
+    "priority": "P2 · Readability",
+    "status": "Kept by your decision",
+    "task": "Increase useful captions and related text",
+    "detail": "Small caption typography retained."
+  },
+  {
+    "number": 20,
+    "priority": "P2 · Readability",
+    "status": "To do",
+    "task": "Add enlarged views for desktop UI and boards",
+    "detail": "Keyboard-accessible enlarged views remain for later."
+  },
+  {
+    "number": 21,
+    "priority": "P2 · Buyer choice",
+    "status": "Kept by your decision",
+    "task": "Choose the public case set",
+    "detail": "Current case selection and order retained, with Mi Mundo hidden as requested."
+  },
+  {
+    "number": 22,
+    "priority": "P2 · Performance",
+    "status": "To do",
+    "task": "Optimise display assets and deferred video",
+    "detail": "Responsive derivatives and performance measurements remain for later."
+  },
+  {
+    "number": 23,
+    "priority": "P2 · Hierarchy",
+    "status": "Kept by your decision",
+    "task": "Keep tags clear of important phone UI",
+    "detail": "Current tag treatment retained."
+  },
+  {
+    "number": 24,
+    "priority": "Completed · Copy",
+    "status": "Done",
+    "task": "Consolidate New Chat’s narrative",
+    "detail": "Removed repeated release/principles sections, shortened system notes and retained an explicit release-versus-exploration ledger."
+  },
+  {
+    "number": 25,
+    "priority": "Completed · Copy",
+    "status": "Done",
+    "task": "Make secondary case facts add context",
+    "detail": "Atlético, Card Dynamics, Outback and Pizza Hut now add journey, research, service scope or key decisions instead of repeating contribution."
+  },
+  {
+    "number": 26,
+    "priority": "Completed · Copy",
+    "status": "Done",
+    "task": "Use concrete language for AI capabilities",
+    "detail": "Services Hub, Web app and Mi Mundo copy now describes result cards and observable behaviour; specialist taxonomy no longer carries the explanation."
+  },
+  {
+    "number": 27,
+    "priority": "Completed · Contact",
+    "status": "Done",
+    "task": "Simplify the contact ending and invitation",
+    "detail": "Contact asks what is being made, where help is needed and when; compact footer removes the large CTA back to the same page. Email fallback remains visible."
+  },
+  {
+    "number": 28,
+    "priority": "Completed · Copy",
+    "status": "Done",
+    "task": "Correct the working index",
+    "detail": "Working index corrected; excluded from the public release export."
+  },
+  {
+    "number": 29,
+    "priority": "Completed · Organisation",
+    "status": "Done",
+    "task": "Separate strategy, website and social",
+    "detail": "Actual folders moved; shared originals retained. Superseded experiments and earlier website reviews archived with move records. Preview servers and links updated."
+  },
+  {
+    "number": 30,
+    "priority": "P3 · After clearance",
+    "status": "Hidden",
+    "task": "Hide Mi Mundo until the next revision",
+    "detail": "Removed Mi Mundo from Work, home selection, related links and the public release allowlist. Original case sources retained locally."
+  },
+  {
+    "number": 31,
+    "priority": "P2 · Case depth",
+    "status": "Done",
+    "task": "Add Outback Bold Profile screens",
+    "detail": "Added the approved Bold Profile Figma export in a landscape tablet shell, with the full source retained in figma-exports."
+  }
+]

@@ -1,0 +1,47 @@
+.prototype-flows{padding:clamp(28px,4vw,56px) 0 clamp(48px,6vw,80px);background:#eaf0f6;color:var(--ink)}
+.prototype-flows__grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:clamp(28px,5vw,72px);max-width:1020px;margin:0 auto}
+.prototype-flow{margin:0;min-width:0;text-align:center}
+.prototype-flow>.device-mockup{--device-height:clamp(460px,43vw,620px)}
+.prototype-flow .device-mockup__screen{position:relative}
+.prototype-flow .device-mockup.device-mockup .device-mockup__screen .flow-frame--incoming{position:absolute;inset:0;width:100%;height:100%;opacity:0;transform:none;filter:none;transition:opacity .7s cubic-bezier(.4,0,.2,1);z-index:1;will-change:opacity}
+.prototype-flow .device-mockup.device-mockup .device-mockup__screen .flow-frame--incoming.is-visible{opacity:1;transform:none;filter:none}
+.prototype-flow__tap{position:absolute;z-index:2;width:9cqw;height:9cqw;border:1px solid #222f3e80;border-radius:50%;background:#c8d6e580;opacity:0;pointer-events:none;transform:translate(-50%,-50%)}
+.prototype-flow__tap.is-tapping{animation:prototype-tap .44s ease-out both}
+@keyframes prototype-tap{0%{opacity:0;scale:.8}28%{opacity:.75;scale:1}100%{opacity:0;scale:1.42}}
+.prototype-flow figcaption{display:block;max-width:390px;margin:26px auto 0;color:var(--ink);text-align:center;font-family:var(--sans);text-transform:none;letter-spacing:normal}
+.prototype-flow__title{display:block;font-size:18px;line-height:1.4;font-weight:600;margin-bottom:8px}
+.prototype-flow__state{display:block;min-height:2.8em;color:var(--muted);font-size:14px;line-height:1.4}
+.case-cover .prototype-flow{width:100%}
+.case-cover .prototype-flow>.device-mockup{--device-height:min(38vw,530px)}
+.case-cover .prototype-flow figcaption{margin-top:14px}
+@media(max-width:700px){.prototype-flows__grid{grid-template-columns:1fr;gap:36px}.prototype-flow>.device-mockup{--device-height:min(128vw,530px)}.case-cover .prototype-flow>.device-mockup{--device-height:min(102vw,430px)}.prototype-flow figcaption{margin-top:20px}.prototype-flow__title{font-size:16px}}
+@media(prefers-reduced-motion:reduce){.prototype-flow .flow-frame--incoming{transition:none!important;transform:none!important;filter:none!important}}
+
+.prototype-flow .device-mockup--screen-crop .flow-frame--incoming{inset:auto!important;left:var(--crop-left)!important;top:var(--crop-top)!important;width:var(--crop-width)!important;height:var(--crop-height)!important}
+
+/* SkateKing keeps the animated map in the foreground of its original three-screen cover. */
+.skateking-cover.case-cover{padding:0;overflow:visible}
+.skateking-cover-stage{position:relative;width:100%;height:clamp(430px,42vw,570px);isolation:isolate}
+.skateking-cover-stage .prototype-flow{position:absolute;inset:0;z-index:3;display:flex;flex-direction:column;align-items:center;justify-content:flex-start;width:100%;margin:0}
+.skateking-cover-stage .prototype-flow>.device-mockup{--device-height:clamp(385px,36vw,485px);position:relative;z-index:1;margin:0 auto;filter:drop-shadow(0 22px 24px #222f3e38)}
+.skateking-side-screen{position:absolute;z-index:2;top:15%;opacity:.78;filter:drop-shadow(0 15px 18px #222f3e20);pointer-events:none}
+.skateking-side-screen>.device-mockup{--device-height:clamp(290px,28vw,370px);margin:0}
+.skateking-side-screen--left{left:2%;transform:rotate(-7deg) translateY(8%)}
+.skateking-side-screen--right{right:2%;transform:rotate(7deg) translateY(8%)}
+.skateking-watermark{position:absolute;z-index:0;width:clamp(54px,7vw,92px);height:auto;opacity:.13;filter:grayscale(1) brightness(.25) sepia(.18) saturate(.5) hue-rotate(170deg);pointer-events:none}
+.skateking-watermark--one{top:8%;left:15%;rotate:-18deg}
+.skateking-watermark--two{right:12%;top:6%;width:clamp(62px,8vw,108px);rotate:16deg}
+.skateking-watermark--three{left:22%;bottom:18%;width:clamp(42px,5.5vw,72px);rotate:9deg;opacity:.09}
+.skateking-cover-stage .prototype-flow figcaption{position:absolute;bottom:0;left:0;right:0;z-index:4;margin:0 auto}
+.case-cover .skateking-cover-stage>.skateking-watermark{width:clamp(54px,7vw,92px);height:auto}
+@media(max-width:700px){
+  .skateking-cover-stage{height:clamp(390px,112vw,500px)}
+  .skateking-cover-stage .prototype-flow>.device-mockup{--device-height:min(88vw,390px)}
+  .skateking-side-screen{top:18%;opacity:.62}
+  .skateking-side-screen>.device-mockup{--device-height:min(58vw,275px)}
+  .skateking-side-screen--left{left:-1%;transform:rotate(-7deg) translateY(8%)}
+  .skateking-side-screen--right{right:-1%;transform:rotate(7deg) translateY(8%)}
+  .case-cover .skateking-cover-stage>.skateking-watermark{width:clamp(48px,12vw,70px)}
+  .skateking-watermark--one{left:8%;top:9%}.skateking-watermark--two{right:7%;top:7%}.skateking-watermark--three{left:14%;bottom:22%}
+}
+@media(prefers-reduced-motion:reduce){.skateking-side-screen{transform:none}}

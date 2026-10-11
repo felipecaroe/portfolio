@@ -93,3 +93,8 @@
   .platform-copy{max-width:100%}.platform-copy h3{font-size:2.2rem}
 }
 @media(prefers-reduced-motion:reduce){.scene-device{transition:none}.case-composition:hover .scene-device{transform:rotate(var(--tilt,0deg))}.floating-art{animation:none;will-change:auto}}
+.product-shots--three{grid-template-columns:repeat(3,minmax(0,1fr));max-width:1200px;gap:30px}
+.product-shots--three .product-shot img{height:560px}
+.outback-screen-gallery{align-items:start}
+.outback-screen-gallery figure>.device-mockup{--device-height:clamp(390px,34vw,520px)}
+@media(max-width:760px){.product-shots--three{grid-template-columns:1fr;gap:32px}.product-shots--three .product-shot img{height:auto;max-height:min(136vw,600px)}.outback-screen-gallery{grid-template-columns:1fr}.outback-screen-gallery figure>.device-mockup{--device-height:min(136vw,600px)}}
