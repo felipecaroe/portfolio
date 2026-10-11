@@ -285,6 +285,11 @@ figcaption{font-size:12px;line-height:1.45;color:var(--muted);margin-top:18px;ma
 .field input:focus,.field select:focus,.field textarea:focus{outline:2px solid var(--orange);outline-offset:1px}
 .form-status{margin:18px 0 0;font-size:14px;color:var(--muted)}
 .form-status a{text-decoration:underline;text-underline-offset:3px}
+.form-status[data-state="error"]{color:var(--accent)}
+.form-status[data-state="success"]{color:var(--ink)}
+.contact-form__privacy{margin:12px 0 0;line-height:1.5}
+.contact-form__privacy a{text-decoration:underline;text-underline-offset:3px}
+.contact-form [type="submit"]:disabled{opacity:.7;cursor:wait}
 .site-footer{background:var(--dark);color:var(--white);padding:90px 0 30px;margin-top:0}
 .footer-top{display:flex;justify-content:space-between;align-items:end;gap:2rem;padding-bottom:95px}
 .footer-top h2{font-size:clamp(3.4rem,7.5vw,8rem);max-width:900px;margin:20px 0 0}

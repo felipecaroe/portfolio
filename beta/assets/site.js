@@ -94,30 +94,40 @@ if (form) {
   if (requestedService === 'monthly') form.elements.service.value = 'Monthly design support';
   if (requestedService === 'product') form.elements.service.value = 'Product team project';
 
-  form.addEventListener('submit', (event) => {
+  form.addEventListener('submit', async (event) => {
     event.preventDefault();
     if (!form.reportValidity()) return;
-
-    const values = Object.fromEntries(new FormData(form).entries());
-    const subject = `Freelance UX/UI enquiry: ${values.service}`;
-    const body = [
-      `Hello Felipe,`,
-      '',
-      `My name: ${values.name}`,
-      `My email: ${values.email}`,
-      `I'm interested in: ${values.service}`,
-      '',
-      `Product and problem:`,
-      values.problem,
-      '',
-      `Deadline and budget: ${values.timing || 'To discuss'}`,
-      `How I found you: ${values.source || 'Not specified'}`,
-    ].join('\n');
-
-    const url = `mailto:felipie@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
     const status = document.querySelector('#form-status');
-    status.replaceChildren('Your email draft is ready. If it does not open, ', Object.assign(document.createElement('a'), { href: url, textContent: 'open it here' }), '. Please review and send it from your mail app.');
-    window.location.href = url;
+    const submit = form.querySelector('[type="submit"]');
+    const apiKey = form.elements.apiKey.value;
+    if (!apiKey || apiKey === 'STATIC_FORMS_API_KEY_TO_ADD') {
+      status.textContent = 'The contact form is being connected. Please email me directly for now.';
+      status.dataset.state = 'error';
+      return;
+    }
+
+    submit.disabled = true;
+    form.setAttribute('aria-busy', 'true');
+    status.textContent = 'Sending your enquiry…';
+    status.dataset.state = 'pending';
+
+    try {
+      const response = await fetch(form.action, {
+        method: 'POST',
+        body: new FormData(form),
+      });
+      const result = await response.json();
+      if (!response.ok || !result.success) throw new Error(result.message || 'Submission failed.');
+      form.reset();
+      status.textContent = 'Thanks. Your enquiry has been sent. I’ll reply within two working days.';
+      status.dataset.state = 'success';
+    } catch {
+      status.replaceChildren('I couldn’t send your enquiry. Please try again or ', Object.assign(document.createElement('a'), { href: 'mailto:felipie@gmail.com?subject=Product%20design%20brief', textContent: 'email me directly' }), '.');
+      status.dataset.state = 'error';
+    } finally {
+      submit.disabled = false;
+      form.removeAttribute('aria-busy');
+    }
   });
 }
 
