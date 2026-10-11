@@ -79,9 +79,9 @@
   {
     "number": 12,
     "priority": "P1 · Launch configuration",
-    "status": "Prepared · not published",
+    "status": "Published · 11 Oct 2026",
     "task": "Set public canonical, sitemap and indexing",
-    "detail": "Refreshed the public-only export from the current beta on 11 October. Canonicals, index directives, Open Graph metadata, robots.txt and sitemap are included and audited. Deployment remains separate."
+    "detail": "Deployed the 22-page public-only export to the root portfolio URL. Verified the live home, Card Dynamics and Pizza Hut pages return 200 with production canonicals and index directives; sitemap and robots.txt return 200; /beta/ returns 404. Real-device Safari, video playback and mail handoff remain acceptance follow-ups."
   },
   {
     "number": 13,

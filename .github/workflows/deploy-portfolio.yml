@@ -4,7 +4,18 @@ on:
   push:
     branches: [main]
     paths:
-      - 'beta/**'
+      - 'beta/assets/**'
+      - 'beta/cases/**'
+      - 'beta/content/**'
+      - 'beta/img/**'
+      - 'beta/services/**'
+      - 'beta/templates/**'
+      - 'beta/work/**'
+      - 'beta/*.html'
+      - 'beta/site.json'
+      - 'beta/scripts/build_site.py'
+      - 'beta/scripts/audit_site.py'
+      - 'beta/scripts/prepare_release.py'
       - '.github/workflows/deploy-portfolio.yml'
   workflow_dispatch:
 
