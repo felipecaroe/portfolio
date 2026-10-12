@@ -1,5 +1,33 @@
-<!doctype html><html lang="en"><head>
-<meta name="robots" content="noindex,follow"><meta charset="utf-8"><title>Open Graph artwork</title><style>
-@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@500;700&family=Space+Mono:wght@700&display=swap');
-*{box-sizing:border-box}html,body{margin:0}#art{width:1200px;height:630px;background:#f5f1e9;color:#242019;position:relative;overflow:hidden;font-family:'DM Sans',sans-serif}.orange{position:absolute;right:0;top:0;bottom:0;width:425px;background:#f1743b}.portrait{position:absolute;bottom:0;right:0;height:610px;width:auto}.brand{position:absolute;left:54px;top:42px;font:italic 29px 'DM Serif Display',Georgia,serif;letter-spacing:-.035em}.dot{display:inline-block;width:11px;height:11px;margin-left:9px;background:#f1743b;border-radius:50%}.eyebrow{position:absolute;left:54px;top:164px;font:700 12px 'Space Mono',monospace;letter-spacing:.08em;text-transform:uppercase}.title{position:absolute;left:50px;top:205px;width:840px;font:400 78px/1.02 'DM Serif Display',Georgia,serif;letter-spacing:-.04em}.title em{font-style:italic}.footer{position:absolute;left:54px;bottom:49px;font:700 12px 'Space Mono',monospace;letter-spacing:.06em;text-transform:uppercase}
-</style></head><body><div id="art"><div class="orange"></div><img class="portrait" src="../img/felipe.png" alt=""><div class="brand">Felipe Amorim<span class="dot"></span></div><div class="eyebrow">Independent senior product design</div><div class="title">Senior product<br>design, <em>on demand.</em></div><div class="footer">UX/UI briefs · Monthly support · Madrid / Europe</div></div></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow">
+<meta name="viewport" content="width=1200">
+<title>Felipe Amorim · Social preview</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@500;600&family=Space+Mono&display=swap');
+*{box-sizing:border-box}html,body{margin:0;width:1200px;height:630px;overflow:hidden}
+#art{position:relative;width:1200px;height:630px;overflow:hidden;color:#222f3e;background:#e8eff7;font-family:'DM Sans',Arial,sans-serif;-webkit-font-smoothing:antialiased}
+.wash{position:absolute;inset:0;background:radial-gradient(ellipse at 9% 12%,#fff 0%,#f7f9fcdd 29%,transparent 70%),radial-gradient(ellipse at 92% 75%,#8cafceaa 0%,#b5cbe1bb 26%,transparent 66%),radial-gradient(ellipse at 65% -15%,#dce8f7 0%,transparent 62%),linear-gradient(140deg,#f0f5fa,#c8d6e5)}
+.glow{position:absolute;width:820px;height:540px;right:-270px;top:130px;background:radial-gradient(ellipse,#6e9cbd50,transparent 70%);filter:blur(60px);transform:rotate(-22deg)}
+.grain{position:absolute;inset:0;width:100%;height:100%;opacity:.075;mix-blend-mode:multiply}
+.brand{position:absolute;left:68px;top:53px;display:flex;align-items:center;gap:13px;font:italic 35px/1 'DM Serif Display',Georgia,serif;letter-spacing:-.035em}
+.brand img{width:25px;height:32px;filter:brightness(0) saturate(100%) invert(43%) sepia(56%) saturate(2340%) hue-rotate(322deg) brightness(101%) contrast(96%)}
+.eyebrow{position:absolute;left:69px;top:190px;font:400 13px/1.4 'Space Mono',monospace;letter-spacing:.085em;text-transform:uppercase;color:#5c6c7b}
+h1{position:absolute;left:65px;top:221px;margin:0;font:400 83px/1.07 'DM Serif Display',Georgia,serif;letter-spacing:-.042em}
+h1 em{color:#d33f45;font-weight:400}
+.description{position:absolute;left:70px;top:431px;margin:0;font-size:23px;line-height:1.4;color:#34465a}
+.footer{position:absolute;left:70px;right:70px;bottom:49px;display:flex;justify-content:space-between;align-items:center;font-size:17px;color:#43566a}
+.location{font:400 12px 'Space Mono',monospace;letter-spacing:.07em;text-transform:uppercase}
+</style>
+</head>
+<body><main id="art">
+<div class="wash"></div><div class="glow"></div>
+<svg class="grain" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="3" stitchTiles="stitch" seed="17"/><feColorMatrix type="saturate" values="0"/></filter><rect width="100%" height="100%" filter="url(#grain)"/></svg>
+<div class="brand"><img src="../img/anchor.svg" alt="">Felipe Amorim</div>
+<div class="eyebrow">Freelance product design · UX · AI</div>
+<h1>Senior product design.<br><em>AI expertise.</em></h1>
+<p class="description">Clear experiences. Considered interactions.</p>
+<div class="footer"><span>felipecaroe.github.io/portfolio</span><span class="location">Madrid / Europe</span></div>
+</main></body></html>

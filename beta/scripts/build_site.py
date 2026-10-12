@@ -61,9 +61,14 @@ def head(page, prefix):
 <meta property="og:title" content="{title}">
 <meta property="og:description" content="{description}">
 <meta property="og:url" content="{canonical}">
-<meta property="og:image" content="{MANIFEST["base_url"]}img/ogthumb.png">
-<meta property="og:image:alt" content="Felipe Amorim, senior AI product designer.">
+<meta property="og:image" content="{MANIFEST["base_url"]}img/og-portfolio-blue.png">
+<meta property="og:image:alt" content="Felipe Amorim. Senior product design. AI expertise. Madrid / Europe.">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:type" content="image/png">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{MANIFEST["base_url"]}img/og-portfolio-blue.png">
+<meta name="twitter:image:alt" content="Felipe Amorim. Senior product design. AI expertise. Madrid / Europe.">
 <script type="application/ld+json">{schema}</script>'''
 
 
