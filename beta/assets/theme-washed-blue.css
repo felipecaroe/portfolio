@@ -443,6 +443,7 @@ h1,h2,h3{text-wrap:balance}
 .contact-method{border-radius:100px}
 body:has(.voice-demo) .voice-demo{padding-block:64px}
 body:has(.voice-demo) .voice-demo .wrap{grid-template-columns:minmax(0,.65fr) minmax(0,1.35fr);gap:54px}
+body:has(.voice-demo) .voice-demo-player{grid-column:1/-1;width:100%}
 body:has(.voice-demo) .voice-demo-head h2{font-size:clamp(3rem,5vw,4.5rem);line-height:1.03}
 body:has(.voice-demo) .gallery{padding-block:76px}
 body:has(.voice-demo) .gallery-head{grid-template-columns:1fr .7fr;gap:48px;margin-bottom:36px}
