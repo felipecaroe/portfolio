@@ -86,6 +86,7 @@ if (copyEmail) {
 }
 
 const form = document.querySelector('#brief-form');
+const formTrigger = document.querySelector('[data-form-trigger]');
 
 if (form) {
   const requestedService = new URLSearchParams(window.location.search).get('service');
@@ -93,6 +94,29 @@ if (form) {
   if (requestedService === 'brief') form.elements.service.value = 'Focused UX/UI brief';
   if (requestedService === 'monthly') form.elements.service.value = 'Monthly design support';
   if (requestedService === 'product') form.elements.service.value = 'Product team project';
+
+  const hasBriefContext = ['agency', 'brief', 'monthly', 'product'].includes(requestedService);
+  const showForm = (scroll = false) => {
+    form.hidden = false;
+    formTrigger?.setAttribute('aria-expanded', 'true');
+    if (scroll) {
+      requestAnimationFrame(() => {
+        form.scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'start' });
+        form.querySelector('h2')?.focus({ preventScroll: true });
+      });
+    }
+  };
+
+  if (hasBriefContext || window.location.hash === '#brief-form') showForm(window.location.hash === '#brief-form');
+  else {
+    form.hidden = true;
+    formTrigger?.setAttribute('aria-expanded', 'false');
+  }
+
+  formTrigger?.addEventListener('click', event => {
+    event.preventDefault();
+    showForm(true);
+  });
 
   form.addEventListener('submit', async (event) => {
     event.preventDefault();

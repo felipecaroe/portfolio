@@ -13,14 +13,14 @@
   },
   "work/luzia-new-chat/assets/first-entrance.png": {
     "size": [
-      465,
-      900
+      901,
+      1744
     ],
     "bounds": [
-      24,
-      10,
-      441,
-      891
+      44,
+      18,
+      856,
+      1716
     ]
   },
   "work/luzia-new-chat/assets/chat-keyboard.png": {
@@ -596,12 +596,6 @@
       2554
     ]
   },
-  "work/luzia-new-chat/assets/flows/routine-09.webp": {
-    "size": [
-      1178,
-      2554
-    ]
-  },
   "work/luzia-new-chat/assets/flows/routine-10.webp": {
     "size": [
       1178,
@@ -774,6 +768,12 @@
     "size": [
       750,
       1624
+    ]
+  },
+  "work/luzia-new-chat/assets/flows/routine-09-glass.png": {
+    "size": [
+      852,
+      1846
     ]
   }
 }

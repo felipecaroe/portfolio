@@ -299,6 +299,7 @@ body:has(.voice-demo) .dialog-bar button {min-width:44px;min-height:44px}
 .contact-method--email {border-color:var(--action);background:var(--action);color:#fff}
 .contact-method--email:hover {background:var(--action-hover);border-color:var(--action-hover)}
 .contact-method--form {background:#e8eff6;color:var(--ink)}
+.contact-method--form[aria-expanded="true"] {border-color:#526477;background:#dce7f1;box-shadow:inset 0 0 0 1px #52647735}
 .case-project-cue {display:none}
 @media(max-width:700px){
   .hero-proof:not(.hero-proof--portrait) {display:none}
