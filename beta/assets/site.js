@@ -85,10 +85,52 @@ if (copyEmail) {
   });
 }
 
+const referralLabels = { behance: 'Behance', dribbble: 'Dribbble', linkedin: 'LinkedIn' };
+const referralFields = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'referral_landing_page'];
+const referralContext = (() => {
+  const storageKey = 'portfolio-referral';
+  const parameters = new URLSearchParams(window.location.search);
+  const cleanTag = value => /^[a-z0-9_-]{1,80}$/i.test(value || '') ? value : '';
+  let source = parameters.get('utm_source')?.toLowerCase();
+  if (!Object.hasOwn(referralLabels, source)) {
+    source = undefined;
+    try {
+      const host = new URL(document.referrer).hostname;
+      source = [['behance.net', 'behance'], ['dribbble.com', 'dribbble'], ['linkedin.com', 'linkedin'], ['lnkd.in', 'linkedin']]
+        .find(([domain]) => host === domain || host.endsWith(`.${domain}`))?.[1];
+    } catch {}
+  }
+  try {
+    if (source) {
+      const context = {
+        utm_source: source,
+        utm_medium: cleanTag(parameters.get('utm_medium')) || 'referral',
+        utm_campaign: cleanTag(parameters.get('utm_campaign')),
+        utm_content: cleanTag(parameters.get('utm_content')),
+        referral_landing_page: window.location.pathname,
+      };
+      try { sessionStorage.setItem(storageKey, JSON.stringify(context)); } catch {}
+      return context;
+    }
+    const saved = JSON.parse(sessionStorage.getItem(storageKey));
+    return Object.hasOwn(referralLabels, saved?.utm_source) ? saved : null;
+  } catch {
+    return null;
+  }
+})();
+
 const form = document.querySelector('#brief-form');
 const formTrigger = document.querySelector('[data-form-trigger]');
 
 if (form) {
+  const applyReferral = () => {
+    if (!referralContext) return;
+    referralFields.forEach(name => {
+      if (form.elements[name]) form.elements[name].value = referralContext[name] || '';
+    });
+    if (!form.elements.source.value) form.elements.source.value = referralLabels[referralContext.utm_source];
+  };
+  applyReferral();
   const requestedService = new URLSearchParams(window.location.search).get('service');
   if (requestedService === 'agency') form.elements.service.value = 'Agency or studio client brief';
   if (requestedService === 'brief') form.elements.service.value = 'Focused UX/UI brief';
@@ -143,6 +185,7 @@ if (form) {
       const result = await response.json();
       if (!response.ok || !result.success) throw new Error(result.message || 'Submission failed.');
       form.reset();
+      applyReferral();
       status.textContent = 'Thanks. Your enquiry has been sent. I’ll reply within two working days.';
       status.dataset.state = 'success';
     } catch {
