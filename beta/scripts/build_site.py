@@ -39,7 +39,7 @@ def head(page, prefix):
     person = {
         "@context": "https://schema.org", "@type": "Person",
         "@id": MANIFEST["base_url"] + "#felipe", "name": "Felipe Amorim",
-        "url": MANIFEST["base_url"], "jobTitle": "Senior AI product designer",
+        "url": MANIFEST["base_url"], "jobTitle": "Principal Product Designer",
         "homeLocation": {"@type": "Place", "name": "Madrid, Spain"},
         "sameAs": ["https://www.linkedin.com/in/felipecaroe/", "https://www.behance.net/felipecaroe"],
     }
