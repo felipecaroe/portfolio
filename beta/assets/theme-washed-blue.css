@@ -78,7 +78,6 @@ html,body{background-color:var(--paper);color:var(--ink)}
 .detail-aside{border-color:var(--ink)}
 .detail-layout p,.detail-layout li{color:#465666}
 .fact{border-color:var(--line)}
-.viewport-blur{filter:saturate(.35)}
 
 /* Luzia uses the same hierarchy, with a narrow navy interlude and coral detail. */
 body:has(.voice-demo){background:var(--paper);color:var(--ink)}
@@ -188,6 +187,12 @@ body:has(.voice-demo) .hero .eyebrow{color:var(--muted)}
 @media(max-width:700px){.community-teaser{padding:47px 0}.community-teaser__inner{gap:25px}.community-teaser h2{font-size:clamp(2.35rem,9vw,3.2rem)}.community-teaser__logos{gap:22px 18px}.community-teaser__logos img{height:44px}.community-teaser__logos img[src$="madux.svg"]{height:58px}.community-teaser__logos img[src$="ixdf.svg"]{height:36px}.community-teaser__logos img[src$="uxdx.svg"]{height:40px}.community-teaser__logos img[src$="arcasiles.png"]{height:38px}.community-section__intro{gap:18px;margin-bottom:36px}.community-section__intro h2{font-size:clamp(2.7rem,10vw,3.8rem)}.community-columns{grid-template-columns:1fr;gap:34px}.community-entry{padding:18px 0}.community-entry__org{font-size:18px}.community-entry p{font-size:14px}}
 
 .community-gallery{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:clamp(14px,2vw,24px);margin:0 0 clamp(42px,6vw,76px)}
+.community-section .community-gallery{grid-template-columns:repeat(4,minmax(0,1fr))}
+@media(max-width:1050px){.community-section .community-gallery{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:700px){.community-section .community-gallery{grid-template-columns:1fr}}
+.talk-gallery{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr);align-items:start;gap:clamp(20px,4vw,56px)}
+.talk-gallery img{display:block;width:100%;height:auto;border-radius:12px}
+@media(max-width:700px){.talk-gallery{grid-template-columns:1fr}}
 .community-photo{min-width:0;margin:0}
 .community-photo__image{aspect-ratio:4/3;overflow:hidden;border-radius:12px;background:#dce5ee}
 .community-photo__image img{width:100%;height:100%;object-fit:cover;object-position:center;transition:transform .45s cubic-bezier(.22,.61,.36,1)}
@@ -393,7 +398,7 @@ body:has(.voice-demo) .dialog-bar button {min-width:44px;min-height:44px}
 .menu-toggle[aria-expanded=true] .menu-toggle__close{display:block}
 .site-header .header-actions .nav[hidden],.site-header .menu-toggle[hidden]{display:none}
 :root{--header-offset:100px}
-html{scroll-padding-top:var(--header-offset)}
+html{scroll-padding-top:calc(var(--header-offset) + var(--viewport-blur-height));scroll-padding-bottom:var(--viewport-blur-height)}
 #selected-work,#brief-form,#community-and-talks,#opportunity,#voice-onboarding,#screens{scroll-margin-top:0}
 h1,h2,h3{text-wrap:balance}
 .section{padding-block:clamp(56px,7.2vw,104px)}

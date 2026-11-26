@@ -1,4 +1,11 @@
 const siteHeader = document.querySelector('.site-header');
+if (siteHeader) {
+  const setViewportHeaderHeight = () => {
+    document.documentElement.style.setProperty('--viewport-header-height', `${siteHeader.offsetHeight}px`);
+  };
+  setViewportHeaderHeight();
+  if ('ResizeObserver' in window) new ResizeObserver(setViewportHeaderHeight).observe(siteHeader);
+}
 const menuToggle = siteHeader?.querySelector('.menu-toggle');
 const siteNavigation = siteHeader?.querySelector('#site-navigation');
 if (menuToggle && siteNavigation) {

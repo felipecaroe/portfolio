@@ -372,6 +372,15 @@
       ]
     },
     {
+      "path": "talks/designing-for-imperfect-intelligence.html",
+      "title": "Designing for Imperfect Intelligence | Felipe Amorim",
+      "description": "Felipe Amorim’s talk at Diseño e IA by Arcasiles in Madrid, with slides, stage photos and attendee recaps.",
+      "section": "leadership",
+      "compact_footer": true,
+      "styles": [],
+      "schema": []
+    },
+    {
       "path": "work/atletico-de-madrid.html",
       "title": "Atlético de Madrid · Fan services | Felipe Amorim",
       "description": "Atlético de Madrid mobile product design connecting fan services, merchandise, member-card benefits and payment.",
