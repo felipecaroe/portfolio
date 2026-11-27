@@ -2,7 +2,7 @@
   {
     "href": "work/luzia-new-chat/",
     "title": "Luzia \u00b7 New chat",
-    "description": "Chat-first entry, with the composer and thread history redesigned.",
+    "description": "A chat-first release with a redesigned composer and thread history. Includes a separate voice prototype.",
     "tags": [
       "AI product",
       "Product strategy"
@@ -15,12 +15,16 @@
       "height": "881",
       "loading": "lazy"
     },
-    "device": "native"
+    "device": "native",
+    "previews": {
+      "220": "img/work-previews/luzia-new-chat-220.webp",
+      "417": "img/work-previews/luzia-new-chat-417.webp"
+    }
   },
   {
     "href": "work/atletico-de-madrid.html",
     "title": "Atl\u00e9tico de Madrid",
-    "description": "Connected fan services \u00b7 +\u20ac350k monthly revenue reported.",
+    "description": "One fan marketplace. Three more Spanish clubs adopted the model.",
     "tags": [
       "Fan services",
       "Mobile product"
@@ -30,9 +34,36 @@
       "src": "img/home-atletico-shell.png",
       "alt": "Atl\u00e9tico de Madrid fan-services app in a clean phone shell",
       "width": "483",
-      "height": "932"
+      "height": "932",
+      "loading": "lazy"
     },
-    "device": "native"
+    "device": "native",
+    "previews": {
+      "220": "img/work-previews/atletico-de-madrid-220.webp",
+      "480": "img/work-previews/atletico-de-madrid-480.webp"
+    }
+  },
+  {
+    "href": "work/pizza-hut.html",
+    "title": "Pizza Hut",
+    "description": "A clearer ordering journey. The Brazilian service programme reported 95% satisfaction.",
+    "tags": [
+      "Service design",
+      "Mobile ordering"
+    ],
+    "classes": "work-card",
+    "image": {
+      "src": "img/home_pizza.png",
+      "alt": "Pizza Hut mobile ordering shown in a rounded phone mockup",
+      "width": "1109",
+      "height": "2283",
+      "loading": "lazy"
+    },
+    "device": "native",
+    "previews": {
+      "220": "img/work-previews/pizza-hut-220.webp",
+      "480": "img/work-previews/pizza-hut-480.webp"
+    }
   },
   {
     "href": "cases/drafts/services-hub/",
@@ -53,24 +84,6 @@
     "device": "phone"
   },
   {
-    "href": "work/pizza-hut.html",
-    "title": "Pizza Hut",
-    "description": "A clearer ordering journey \u00b7 satisfaction reported from 82% to 95%.",
-    "tags": [
-      "Service design",
-      "Mobile ordering"
-    ],
-    "classes": "work-card",
-    "image": {
-      "src": "img/home_pizza.png",
-      "alt": "Pizza Hut mobile ordering shown in a rounded phone mockup",
-      "width": "1109",
-      "height": "2283",
-      "loading": "lazy"
-    },
-    "device": "native"
-  },
-  {
     "href": "work/rcd-espanyol.html",
     "title": "RCD Espanyol",
     "description": "Club content, matchday and member services brought into one fan experience.",
@@ -86,7 +99,11 @@
       "height": 932,
       "loading": "lazy"
     },
-    "device": "phone"
+    "device": "phone",
+    "previews": {
+      "220": "img/work-previews/rcd-espanyol-220.webp",
+      "430": "img/work-previews/rcd-espanyol-430.webp"
+    }
   },
   {
     "href": "cases/drafts/enem/",
@@ -104,12 +121,16 @@
       "height": "2532",
       "loading": "lazy"
     },
-    "device": "phone"
+    "device": "phone",
+    "previews": {
+      "220": "img/work-previews/enem-220.webp",
+      "480": "img/work-previews/enem-480.webp"
+    }
   },
   {
     "href": "work/outback.html",
     "title": "Outback",
-    "description": "A connected dining journey \u00b7 +29% sales reported.",
+    "description": "The dining programme reported 29% higher sales across reservations and on-premises dining.",
     "tags": [
       "Customer experience",
       "Service design"
@@ -122,7 +143,11 @@
       "height": "980",
       "loading": "lazy"
     },
-    "device": "native"
+    "device": "native",
+    "previews": {
+      "220": "img/work-previews/outback-220.webp",
+      "480": "img/work-previews/outback-480.webp"
+    }
   },
   {
     "href": "cases/drafts/webapp/",
@@ -140,7 +165,11 @@
       "height": "1800",
       "loading": "lazy"
     },
-    "device": "tablet"
+    "device": "tablet",
+    "previews": {
+      "480": "img/work-previews/webapp-480.webp",
+      "960": "img/work-previews/webapp-960.webp"
+    }
   },
   {
     "href": "work/card-dynamics.html",
@@ -155,9 +184,14 @@
       "src": "img/card_dynamics/1.png",
       "alt": "Card Dynamics and Carrefour mortgage flow shown in a rounded phone mockup",
       "width": "1109",
-      "height": "2283"
+      "height": "2283",
+      "loading": "lazy"
     },
-    "device": "native"
+    "device": "native",
+    "previews": {
+      "220": "img/work-previews/card-dynamics-220.webp",
+      "480": "img/work-previews/card-dynamics-480.webp"
+    }
   },
   {
     "href": "work/ipiranga.html",
@@ -175,7 +209,11 @@
       "height": "3080",
       "loading": "lazy"
     },
-    "device": "native"
+    "device": "native",
+    "previews": {
+      "220": "img/work-previews/ipiranga-220.webp",
+      "480": "img/work-previews/ipiranga-480.webp"
+    }
   },
   {
     "href": "work/raio.html",
@@ -193,7 +231,11 @@
       "height": "2568",
       "loading": "lazy"
     },
-    "device": "native"
+    "device": "native",
+    "previews": {
+      "220": "img/work-previews/raio-220.webp",
+      "480": "img/work-previews/raio-480.webp"
+    }
   },
   {
     "href": "work/skateking.html",
@@ -211,7 +253,11 @@
       "height": "2739",
       "loading": "lazy"
     },
-    "device": "native"
+    "device": "native",
+    "previews": {
+      "220": "img/work-previews/skateking-220.webp",
+      "480": "img/work-previews/skateking-480.webp"
+    }
   },
   {
     "href": "cases/impulse.html",
@@ -247,6 +293,10 @@
       "height": "498",
       "loading": "lazy"
     },
-    "device": "watch"
+    "device": "watch",
+    "previews": {
+      "220": "img/work-previews/invisipayment-220.webp",
+      "442": "img/work-previews/invisipayment-442.webp"
+    }
   }
 ]

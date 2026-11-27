@@ -5,7 +5,7 @@
 .resume .title{margin:0 0 58px;font:400 clamp(2.8rem,6vw,5.8rem)/.98 'DM Serif Display',Georgia,serif;letter-spacing:-.045em}
 .resume .description{display:block;max-width:760px;margin-top:20px;color:var(--muted);font:500 clamp(1rem,1.5vw,1.28rem)/1.5 'DM Sans',Arial,sans-serif;letter-spacing:0}
 .resume .left>p,.resume .education{margin:0;padding:24px 0;border-top:1px solid var(--line);font-size:15px;line-height:1.65}
-.resume .text-wrapper-2{display:block;margin-bottom:11px;color:var(--orange);font:700 10px/1.5 'Space Mono',monospace;letter-spacing:.1em}
+.resume .text-wrapper-2{display:block;margin-bottom:11px;color:var(--accent-text);font:700 11px/1.5 'Space Mono',monospace;letter-spacing:.1em}
 .resume .text-wrapper-3{display:block;margin-bottom:3px;color:var(--ink);font-weight:700}
 .resume .text-wrapper-5{display:block;font:400 1.5rem/1.2 'DM Serif Display',Georgia,serif}
 .resume .text-wrapper-6{display:block;color:var(--muted);font:11px/1.6 'Space Mono',monospace;letter-spacing:.04em}

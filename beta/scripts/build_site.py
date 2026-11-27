@@ -124,13 +124,27 @@ def template_devices(text, path):
     return re.sub(r'<img\b[^>]*\bdata-device="[^"]+"[^>]*>', render, text)
 
 
+def work_preview(card, prefix, alt=None):
+    image = card["image"]
+    source = image["src"]
+    attributes = {**image, "src": prefix + source, "loading": "lazy"}
+    if alt is not None:
+        attributes["alt"] = alt
+    previews = card.get("previews")
+    if previews:
+        variants = sorted((int(width), path) for width, path in previews.items())
+        attributes["src"] = prefix + variants[0][1]
+        attributes["srcset"] = ", ".join(f"{prefix}{path} {width}w" for width, path in variants)
+        attributes["sizes"] = f"auto, {variants[0][0]}px"
+    return device_image(attributes, card["device"], source)
+
+
 def work_cards(prefix, selected=None):
     cards = WORK if selected is None else [card for card in WORK if card["href"] in selected]
     result = []
     arrow = '<svg class="arrow-icon" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M4 12 12 4M5 4h7v7"/></svg>'
     for card in cards:
-        image = card["image"]
-        visual = device_image({**image, "src": prefix + image["src"]}, card["device"], image["src"])
+        visual = work_preview(card, prefix)
         tags = ''.join(f'<span>{escape(tag)}</span>' for tag in card["tags"])
         result.append(f'<a class="{card["classes"]}" href="{prefix}{card["href"]}"><div class="work-image work-image--device">{visual}<div class="work-image__tags">{tags}</div></div><div class="work-details"><div><h3>{escape(card["title"])}</h3><p>{escape(card["description"])}</p></div><span class="arrow" aria-hidden="true">{arrow}</span></div></a>')
     return '\n'.join(result)
@@ -144,13 +158,11 @@ def related_cases(page, prefix):
     cards = []
     for related in config["cases"]:
         item = by_href[related["href"]]
-        image = item["image"]
-        image_src = image["src"]
         target = ROOT / item["href"]
         relative_href = os.path.relpath(target, (ROOT / page["path"]).parent)
         if target.is_dir():
             relative_href += "/"
-        thumbnail = device_image({"src": prefix + image_src, "alt": "", "loading": "lazy"}, item["device"], image_src)
+        thumbnail = work_preview(item, prefix, alt="")
         cards.append(
             f'<a class="related-case" href="{escape(relative_href, quote=True)}">'
             f'<span class="related-case__visual">{thumbnail}</span>'

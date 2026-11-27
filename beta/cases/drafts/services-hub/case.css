@@ -1,4 +1,4 @@
 .ifood-intro{display:flex;align-items:center;gap:12px;margin:0 0 20px;color:var(--muted);font:11px/1.4 'Space Mono',monospace;letter-spacing:.06em;text-transform:uppercase}
-.ifood-mark{font:700 18px/1 Arial,sans-serif;letter-spacing:-.06em;text-transform:none}.ifood-mark span:first-child{color:var(--orange)}.ifood-mark span:last-child{color:#ee5253}
+.ifood-mark{font:700 18px/1 Arial,sans-serif;letter-spacing:-.06em;text-transform:none}.ifood-mark span:first-child{color:var(--orange)}.ifood-mark span:last-child{color:var(--accent-text)}
 .ifood-gallery{grid-template-columns:1fr;max-width:760px;margin-inline:auto}
 .draft-note{margin:0 0 22px;padding:12px 16px;border-left:3px solid var(--orange);background:#f8fafd;color:#465666;font-size:13px}
