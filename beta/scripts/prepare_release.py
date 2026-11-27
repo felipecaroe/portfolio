@@ -17,7 +17,7 @@ class References(HTMLParser):
         attributes=dict(attrs)
         for key,value in attrs:
             if not value:continue
-            if key in ('href','src','poster'):self.refs.append(value)
+            if key in ('href','src','poster','data-src'):self.refs.append(value)
             elif key=='srcset':self.refs.extend(x.strip().split()[0] for x in value.split(','))
             elif key=='data-prototype-flow':self.refs.extend(f['src'] for f in json.loads(value))
         if tag=='meta' and attributes.get('property') in ('og:image','twitter:image'):
