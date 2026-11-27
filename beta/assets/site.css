@@ -108,7 +108,7 @@ h3{font-size:clamp(1.45rem,2.4vw,2.1rem);line-height:1.14;letter-spacing:-.03em}
 .price-gate>span:last-child{display:grid;gap:2px}
 .price-gate strong{font:600 13px/1.35 'DM Sans',Arial,sans-serif}
 .price-gate small{font:400 11px/1.45 'DM Sans',Arial,sans-serif;color:var(--muted)}
-.home-offer .price-gate{margin-top:auto}
+.home-offer .price-gate,.home-offer .quote-cta,.engagement-options .quote-cta{margin-top:auto}
 .home-offer .text-link{margin-top:13px}
 .work-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:clamp(18px,2vw,30px)}
 .work-card{display:block}
@@ -279,6 +279,7 @@ figcaption{font-size:12px;line-height:1.45;color:var(--muted);margin-top:18px;ma
 .contact-form{border:1px solid var(--line);background:var(--white);padding:clamp(25px,4vw,45px)}
 .contact-form h2{font-size:clamp(2rem,3vw,3rem);margin-bottom:28px}
 .field{display:block;margin-bottom:22px;font-size:13px;font-weight:700}
+.field[hidden]{display:none}
 .field input,.field select,.field textarea{display:block;width:100%;margin-top:8px;border:1px solid #bbb4a9;border-radius:0;padding:14px;background:var(--white);color:var(--ink);font-size:15px}
 .field textarea{min-height:130px;resize:vertical}
 .field input:focus,.field select:focus,.field textarea:focus{outline:2px solid var(--orange);outline-offset:1px}

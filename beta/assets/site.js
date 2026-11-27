@@ -140,11 +140,24 @@ if (form) {
   applyReferral();
   const requestedService = new URLSearchParams(window.location.search).get('service');
   if (requestedService === 'agency') form.elements.service.value = 'Agency or studio client brief';
-  if (requestedService === 'brief') form.elements.service.value = 'Focused UX/UI brief';
   if (requestedService === 'monthly') form.elements.service.value = 'Monthly design support';
   if (requestedService === 'product') form.elements.service.value = 'Product team project';
 
-  const hasBriefContext = ['agency', 'brief', 'monthly', 'product'].includes(requestedService);
+  const isQuote = requestedService === 'brief';
+  if (isQuote) {
+    form.dataset.intent = 'quote';
+    form.elements.service.value = 'Focused UX/UI brief';
+    form.elements.service.selectedOptions[0].defaultSelected = true;
+    form.querySelectorAll('[data-full-brief]').forEach(field => { field.hidden = true; });
+    form.querySelector('#brief-form-heading').textContent = 'Request a UX/UI quote.';
+    form.querySelector('#brief-form-help').textContent = 'I’ll reply within two working days to discuss scope and pricing.';
+    form.querySelector('#brief-email-label').textContent = 'Email address';
+    form.querySelector('#brief-message-label').textContent = 'What would you like help with?';
+    form.elements.message.placeholder = 'A sentence or two about the flow, screen or UX problem.';
+    form.querySelector('#brief-submit-label').textContent = 'Send quote request';
+  }
+
+  const hasBriefContext = isQuote || ['agency', 'monthly', 'product'].includes(requestedService);
   const showForm = (scroll = false) => {
     form.hidden = false;
     formTrigger?.setAttribute('aria-expanded', 'true');
@@ -156,7 +169,8 @@ if (form) {
     }
   };
 
-  if (hasBriefContext || window.location.hash === '#brief-form') showForm(window.location.hash === '#brief-form');
+  const scrollToBrief = isQuote || window.location.hash === '#brief-form';
+  if (hasBriefContext || scrollToBrief) showForm(scrollToBrief);
   else {
     form.hidden = true;
     formTrigger?.setAttribute('aria-expanded', 'false');
