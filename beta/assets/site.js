@@ -157,10 +157,14 @@ if (form) {
     form.querySelector('#brief-submit-label').textContent = 'Send quote request';
   }
 
+  const enquiryType = isQuote ? 'focused_quote' : 'project_enquiry';
+  let formOpened = false;
+  let formStarted = false;
   const hasBriefContext = isQuote || ['agency', 'monthly', 'product'].includes(requestedService);
   const showForm = (scroll = false) => {
     form.hidden = false;
     formTrigger?.setAttribute('aria-expanded', 'true');
+    if (!formOpened) formOpened = window.recordPortfolioEvent?.('brief_form_open', { enquiry_type: enquiryType });
     if (scroll) {
       requestAnimationFrame(() => {
         form.scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'start' });
@@ -179,6 +183,10 @@ if (form) {
   formTrigger?.addEventListener('click', event => {
     event.preventDefault();
     showForm(true);
+  });
+
+  form.addEventListener('input', () => {
+    if (!formStarted) formStarted = window.recordPortfolioEvent?.('brief_form_start', { enquiry_type: enquiryType });
   });
 
   form.addEventListener('submit', async (event) => {
@@ -209,6 +217,8 @@ if (form) {
       applyReferral();
       status.textContent = 'Thanks. Your enquiry has been sent. I’ll reply within two working days.';
       status.dataset.state = 'success';
+      window.recordPortfolioEvent?.('generate_lead', { enquiry_type: enquiryType });
+      formStarted = false;
     } catch {
       status.replaceChildren('I couldn’t send your enquiry. Please try again or ', Object.assign(document.createElement('a'), { href: 'mailto:felipie@gmail.com?subject=Product%20design%20brief', textContent: 'email me directly' }), '.');
       status.dataset.state = 'error';

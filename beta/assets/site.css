@@ -302,6 +302,15 @@ figcaption{font-size:12px;line-height:1.45;color:var(--muted);margin-top:18px;ma
 .footer-socials a:hover{color:#fff;transform:translateY(-2px)}
 .footer-socials svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
 .footer-kicker{color:#f99767}
+.analytics-settings{position:relative;z-index:91;padding:10px 0;border:0;background:none;color:inherit;text-decoration:underline;text-underline-offset:3px;cursor:pointer}
+.analytics-notice{position:fixed;z-index:110;inset:auto max(12px,env(safe-area-inset-right)) max(12px,env(safe-area-inset-bottom)) max(12px,env(safe-area-inset-left));width:auto;max-width:420px;max-height:calc(100dvh - 24px);margin-left:auto;overflow:auto;padding:18px;border:1px solid var(--line);border-radius:12px;background:var(--paper);color:var(--ink);box-shadow:0 12px 36px #222f3e38;font-size:14px;line-height:1.45}
+.analytics-notice h2{margin:0 0 6px;font:700 16px/1.3 var(--sans);letter-spacing:0}
+.analytics-notice p{margin:0 0 6px;color:var(--muted)}
+.analytics-notice a{color:var(--accent-text);text-decoration:underline;text-underline-offset:3px}
+.analytics-notice__actions{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin-top:12px}
+.analytics-notice__actions button{min-height:44px;padding:6px;border:1px solid var(--ink);border-radius:6px;background:var(--paper);color:var(--ink);font-weight:700;cursor:pointer}
+.analytics-notice__actions button:hover{background:var(--surface-blue)}
+.analytics-settings[hidden],.analytics-notice[hidden]{display:none}
 .visually-hidden{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
 @media(max-width:1000px){.hero-grid{grid-template-columns:minmax(0,1.2fr) minmax(280px,.8fr);min-height:720px}.hero h1{font-size:clamp(4rem,7.8vw,6rem);margin-right:-17vw}.section-head{display:block}.section-head .body-copy{max-width:600px;margin-top:24px}.detail-layout{grid-template-columns:1fr}.detail-aside{max-width:540px}}
 @media(max-width:1000px){.case-hero-grid{grid-template-columns:minmax(0,.95fr) minmax(0,1.05fr);gap:28px}.case-hero-copy h1{font-size:clamp(3rem,5vw,4.6rem)}.offer-track{grid-auto-columns:clamp(300px,42vw,400px)}.impact-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}

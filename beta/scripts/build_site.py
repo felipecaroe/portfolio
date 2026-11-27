@@ -226,9 +226,19 @@ def build(page):
         "{{CONTACT_CURRENT}}", ' aria-current="page"' if page["section"] == "contact" else "")
     invitation = "" if page["compact_footer"] else partial("footer-invitation.html", prefix)
     footer = partial("footer.html", prefix).replace("{{FOOTER_INVITATION}}", invitation)
+    scripts = [f'<script src="{asset("assets/site.js", prefix)}" defer></script>']
+    preferences = ""
+    measurement_id = MANIFEST.get("analytics_measurement_id")
+    if measurement_id:
+        if not re.fullmatch(r"G-[A-Z0-9]+", measurement_id):
+            raise ValueError("Invalid Google Analytics measurement ID")
+        site_url = escape(MANIFEST["base_url"].removesuffix("beta/"), quote=True)
+        scripts.insert(0, f'<script src="{asset("assets/analytics.js", prefix)}" data-measurement-id="{measurement_id}" data-site-url="{site_url}" defer></script>')
+        preferences = partial("analytics.html", prefix).rstrip()
+    footer = footer.replace("{{ANALYTICS_PREFERENCES}}", preferences)
     template = (ROOT / "templates/pages" / path).read_text()
     output = template.replace("{{SITE_HEAD}}", head(page, prefix)).replace("{{SITE_HEADER}}", header)
-    output = output.replace("{{SITE_FOOTER}}", footer).replace("{{SITE_SCRIPT}}", f'<script src="{asset("assets/site.js", prefix)}" defer></script>')
+    output = output.replace("{{SITE_FOOTER}}", footer).replace("{{SITE_SCRIPT}}", "\n".join(scripts))
     output = output.replace("{{WORK_CARDS}}", work_cards(prefix))
     output = output.replace("{{HOME_CARDS}}", work_cards(prefix, {"work/luzia-new-chat/", "work/atletico-de-madrid.html", "cases/drafts/services-hub/", "work/pizza-hut.html"}))
     related = related_cases(page, prefix)
