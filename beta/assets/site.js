@@ -140,14 +140,31 @@ if (form) {
   applyReferral();
   const requestedService = new URLSearchParams(window.location.search).get('service');
   if (requestedService === 'agency') form.elements.service.value = 'Agency or studio client brief';
-  if (requestedService === 'brief') form.elements.service.value = 'Focused UX/UI brief';
   if (requestedService === 'monthly') form.elements.service.value = 'Monthly design support';
   if (requestedService === 'product') form.elements.service.value = 'Product team project';
 
-  const hasBriefContext = ['agency', 'brief', 'monthly', 'product'].includes(requestedService);
+  const isQuote = requestedService === 'brief';
+  if (isQuote) {
+    form.dataset.intent = 'quote';
+    form.elements.service.value = 'Focused UX/UI brief';
+    form.elements.service.selectedOptions[0].defaultSelected = true;
+    form.querySelectorAll('[data-full-brief]').forEach(field => { field.hidden = true; });
+    form.querySelector('#brief-form-heading').textContent = 'Request a UX/UI quote.';
+    form.querySelector('#brief-form-help').textContent = 'I’ll reply within two working days to discuss scope and pricing.';
+    form.querySelector('#brief-email-label').textContent = 'Email address';
+    form.querySelector('#brief-message-label').textContent = 'What would you like help with?';
+    form.elements.message.placeholder = 'A sentence or two about the flow, screen or UX problem.';
+    form.querySelector('#brief-submit-label').textContent = 'Send quote request';
+  }
+
+  const enquiryType = isQuote ? 'focused_quote' : 'project_enquiry';
+  let formOpened = false;
+  let formStarted = false;
+  const hasBriefContext = isQuote || ['agency', 'monthly', 'product'].includes(requestedService);
   const showForm = (scroll = false) => {
     form.hidden = false;
     formTrigger?.setAttribute('aria-expanded', 'true');
+    if (!formOpened) formOpened = window.recordPortfolioEvent?.('brief_form_open', { enquiry_type: enquiryType });
     if (scroll) {
       requestAnimationFrame(() => {
         form.scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'start' });
@@ -156,7 +173,8 @@ if (form) {
     }
   };
 
-  if (hasBriefContext || window.location.hash === '#brief-form') showForm(window.location.hash === '#brief-form');
+  const scrollToBrief = isQuote || window.location.hash === '#brief-form';
+  if (hasBriefContext || scrollToBrief) showForm(scrollToBrief);
   else {
     form.hidden = true;
     formTrigger?.setAttribute('aria-expanded', 'false');
@@ -165,6 +183,10 @@ if (form) {
   formTrigger?.addEventListener('click', event => {
     event.preventDefault();
     showForm(true);
+  });
+
+  form.addEventListener('input', () => {
+    if (!formStarted) formStarted = window.recordPortfolioEvent?.('brief_form_start', { enquiry_type: enquiryType });
   });
 
   form.addEventListener('submit', async (event) => {
@@ -195,6 +217,8 @@ if (form) {
       applyReferral();
       status.textContent = 'Thanks. Your enquiry has been sent. I’ll reply within two working days.';
       status.dataset.state = 'success';
+      window.recordPortfolioEvent?.('generate_lead', { enquiry_type: enquiryType });
+      formStarted = false;
     } catch {
       status.replaceChildren('I couldn’t send your enquiry. Please try again or ', Object.assign(document.createElement('a'), { href: 'mailto:felipie@gmail.com?subject=Product%20design%20brief', textContent: 'email me directly' }), '.');
       status.dataset.state = 'error';
